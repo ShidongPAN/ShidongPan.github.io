@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-book fa-fw"></i>  About #
 
-I am a first-year Ph.D. student at University of Central Florida with [Prof. Chen Chen](https://www.crcv.ucf.edu/chenchen/). I earned my Master of Science of Computer Science at the Univiersity of Rochester, advised by [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/). Before my graduate education, I earned my Bachelor’s Degree in Computer Science at the University of Missouri, advised by [Prof. Dong Xu](http://digbio.missouri.edu/), and my Bachelor’s Degree in Computer Science and Technology at Shandong University. My research interests include Federated Learning, Self-supervised Learning, Multi-modality Learning, Few-shot Learning and Efficient Fine-tuning.
+I am a second-year Ph.D. student at Australian National University and CSIRO's Data61, with [Prof. Zhenchang Xing]([https://www.crcv.ucf.edu/chenchen/](https://cecc.anu.edu.au/people/zhenchang-xing). I earned my Master of Science of Computer Science at the Univiersity of Rochester, advised by [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/). Before my graduate education, I earned my Bachelor’s Degree in Computer Science at the University of Missouri, advised by [Prof. Dong Xu](http://digbio.missouri.edu/), and my Bachelor’s Degree in Computer Science and Technology at Shandong University. My research interests include Federated Learning, Self-supervised Learning, Multi-modality Learning, Few-shot Learning and Efficient Fine-tuning.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
