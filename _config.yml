@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guangyu Sun"
+  name             : "Shidong Pan"
   avatar           : "photo.jpg"
-  bio              : "Ph.D. Student at the University of Central Florida."
-  location         : "Orlando, Florida"
+  bio              : "Ph.D. Candidate at Australian National University and CSIRO's Data61."
+  location         : "Australia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=e4NjsVIAAAAJ&hl=zh-CN"
-  email            : "guangyu@knights.ucf.edu"
+  googlescholar    : 
+  email            : "Shidong.Pan@anu.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "likeyhnbm"
+  github           : # "likeyhnbm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # example: "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "guangyu-sun-686b94198"
-  orcid            : "https://orcid.org/0000-0002-8523-9074"
+  linkedin         : "shidong-pan-576748219"
+  orcid            : #"https://orcid.org/0000-0002-8523-9074"
   pinterest        :
   soundcloud       :
   stackoverflow    : # example: "http://stackoverflow.com/users/123456/username"
