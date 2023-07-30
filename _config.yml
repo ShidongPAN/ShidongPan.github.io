@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shidong Pan"
-  avatar           : "photo.jpg"
+  avatar           : "photo_1.jpg"
   bio              : "Ph.D. Candidate at Australian National University and CSIRO's Data61."
   location         : "Australia"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "likeyhnbm"
+  github           : "https://github.com/ShidongPAN"
   google_plus      :
   keybase          :
   instagram        :
