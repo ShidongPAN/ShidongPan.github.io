@@ -29,4 +29,3 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 </ul>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ow01XdCgugr-Uj3fr41EfZ2PQbE9AzgMZC4cJxGEQ8g&cl=ffffff&w=a"></script>
