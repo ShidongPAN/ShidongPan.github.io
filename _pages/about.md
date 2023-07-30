@@ -11,6 +11,8 @@ redirect_from:
 
 I am a second-year Ph.D. candidate at Australian National University and CSIRO's Data61, with [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing). I'm co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I earned my Master's of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). My current research interests include Software Privacy Analysis, User-oriented Privacy Enhancing Technology, Privacy Policy Analysis, Responsible AI, Software Engineering.
 
+Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
+
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
