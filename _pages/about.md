@@ -17,7 +17,7 @@ I am a second-year Ph.D. candidate at Australian National University and CSIRO's
 
   <li> <b> [May 2023]</b> Our paper <b>A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps</b> is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.
     
-  <li> <b>[Mar. 2023]</b> I will start my academic visit to Singapore Management University with Prof. David Lo!</li>
+  <li> <b>[Mar. 2023]</b> I will start my academic visit at Singapore Management University with Prof. David Lo!</li>
 
   <li> <b> [Feb. 2023]</b> Our paper <b>To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods</b> has been accepted on <b>AITA: AI Trustworthiness Assessment, AAAI, 2023</b>!</li>
   
