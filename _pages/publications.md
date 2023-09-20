@@ -7,7 +7,6 @@ author_profile: true
 
 <style>
 table.imgtable, table.imgtable td{
-  border: none;
   /* height: auto; */
   /* text-align: left; */
 }
@@ -20,9 +19,6 @@ table.imgtable, table.imgtable td{
 
 <table class='imgtable'>
   <tr>
-    <td align="center" style="width:200px">
-      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png" alt="FedPerfix"   style='height:110px; object-fit:contain;'/></a>
-    </td>
     <td align="left">
       <p>
         <a href="http://likeyhnbm.github.io/publications/FedPerfix"><b>FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning</b><br></a>
