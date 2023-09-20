@@ -70,7 +70,7 @@ table.imgtable, table.imgtable td{
 
 ## E-sports
 
-I was a semi-pro [DOTA2](https://www.dota2.com/home) e-sports player and team manager in Oceania.  
+I was a pro [DOTA2](https://www.dota2.com/home) e-sports player and team manager in Oceania.  
 
 <table class='imgtable'>
   <tr>
