@@ -17,15 +17,15 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b> [Sep 2023]</b> Our paper <b>Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps</b> has been accepted by <b>USENIX Security 2024</b>!
+  <li> <b> [Sep 2023]</b> Our paper "Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps" has been accepted by <b>USENIX Security 2024</b>!
 
-  <li> <b> [Aug 2023]</b> Our paper <b>SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications</b> is now available on <a href="https://arxiv.org/abs/2307.01691"> arXiv</a>.
+  <li> <b> [Aug 2023]</b> Our paper "SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications" is now available on <a href="https://arxiv.org/abs/2307.01691"> arXiv</a>.
   
-  <li> <b> [May 2023]</b> Our paper <b>A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps</b> is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.
+  <li> <b> [May 2023]</b> Our paper "A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps" is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.
     
   <li> <b>[Mar. 2023]</b> I will start my academic visit at Singapore Management University with Prof. David Lo!</li>
 
-  <li> <b> [Feb. 2023]</b> Our paper <b>To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods</b> has been accepted on <b>AITA: AI Trustworthiness Assessment, AAAI, 2023</b>!</li>
+  <li> <b> [Feb. 2023]</b> Our paper "To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods" has been accepted on <b>AITA: AI Trustworthiness Assessment, AAAI, 2023</b>!</li>
   
   <li> <b>[Oct. 2021]</b> I will start my Ph.D. with Prof. Zhenchang Xing in 2021 Fall!</li>
 
