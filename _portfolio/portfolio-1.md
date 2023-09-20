@@ -70,8 +70,8 @@ table.imgtable, table.imgtable td{
 
 ## E-sports
 
-I was a pro [DOTA2](https://www.dota2.com/home) e-sports player and team manager in Oceania.  
-
+I was a pro [DOTA2](https://www.dota2.com/home) e-sports player and team manager in Oceania. I play offlane (pos 3) and hard support (pos 5).<br>
+I played for Australian Gaming Network (AGN).
 <table class='imgtable'>
   <tr>
     <td>
