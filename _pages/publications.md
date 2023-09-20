@@ -21,21 +21,20 @@ table.imgtable, table.imgtable td{
   <tr>
     <td align="left">
       <p>
-        <a href="http://likeyhnbm.github.io/publications/FedPEFT">
-        <b>Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps</b><br></a>
-        <b>Guangyu Sun</b>, Matias Mendieta, Taojiannan Yang, Chen Chen<br>
-        [<a href="https://arxiv.org/abs/2210.01708">Paper</a>]
+        Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps<br>
+        <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
+        <b>USENIX Security 2024</b>
+        [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
       </p>
     </td>
   </tr>
   <tr>
     <td align="left">
       <p>
-        <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
-        <b>Anomaly Crossing: New Horizons for Video Anomaly Detection as Cross-domain Few-shot Learning</b></a><br>
-        <b>Guangyu Sun*</b>, Zhang Liu*, Lianggong Wen, Jing Shi, Chenliang Xu<br>
-        [<a href="https://arxiv.org/abs/2112.06320">Paper</a>]
-        [<a href="https://github.com/likeyhnbm/AnomalyCrossing">Code</a>]
+        To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods<br>
+        Dawen Zhang, <b>Shidong Pan</b>, Thong Hoang, Zhenchang Xing, Mark Staples, Xiwei Xu, Lina Yao, Qinghua Lu, Liming Zhu<br>
+        <b>AAAI Spring Symposium 2023 AITA : AI Trustworthiness Assessment</b>        
+        [<a href="https://arxiv.org/abs/2302.03350">Paper</a>]
       </p>
     </td>
   </tr>
@@ -45,33 +44,12 @@ table.imgtable, table.imgtable td{
 
 <table class='imgtable'>
   <tr>
-    <td align="center" style="width:200px">
-    <a href="http://likeyhnbm.github.io/publications/FedPEFT">
-    <img src="../images/FedPEFT.jpeg" alt=""  height="110px" style='height:110px;object-fit:contain;' />
-      </a>
-    </td>
     <td align="left">
       <p>
-        <a href="http://likeyhnbm.github.io/publications/FedPEFT">
-        <b>Conquering the Communication Constraints to Enable Large Pre-Trained Models in Federated Learning</b><br></a>
-        <b>Guangyu Sun</b>, Matias Mendieta, Taojiannan Yang, Chen Chen<br>
-        [<a href="https://arxiv.org/abs/2210.01708">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="width:200px">
-     <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
-      <img src="../images/anomalycrossing.png" alt=""  height="110px" style='height:110px;object-fit:contain;' />
-      </a>
-    </td>
-    <td align="left">
-      <p>
-        <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
-        <b>Anomaly Crossing: New Horizons for Video Anomaly Detection as Cross-domain Few-shot Learning</b></a><br>
-        <b>Guangyu Sun*</b>, Zhang Liu*, Lianggong Wen, Jing Shi, Chenliang Xu<br>
-        [<a href="https://arxiv.org/abs/2112.06320">Paper</a>]
-        [<a href="https://github.com/likeyhnbm/AnomalyCrossing">Code</a>]
+        SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications<br>
+        <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Mark Staples, David Lo<br>
+        Pre-print
+        [<a href="https://arxiv.org/abs/2307.01691">Paper</a>]
       </p>
     </td>
   </tr>
