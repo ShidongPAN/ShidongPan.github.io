@@ -15,10 +15,13 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Publications
 
-## Conference Paper
+## Papers
 
-## Journal Articles
+<ul>
 
+  <li> Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps </li>
+
+</ul>
 
 ## Preprints
 
