@@ -53,6 +53,16 @@ table.imgtable, table.imgtable td{
       </p>
     </td>
   </tr>
+    <tr>
+    <td align="left">
+      <p>
+        Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
+        Dianshu Liao, <b>Shidong Pan</b>, Qing Huang, Xiaoxue Ren, Zhenchang Xing, Huan Jin, Qinying Li<br>
+        Pre-print
+        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
+      </p>
+    </td>
+  </tr>
 </table>
 
 
