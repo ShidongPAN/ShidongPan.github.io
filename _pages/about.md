@@ -16,7 +16,11 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
   
+  <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.
+
+    
   <li> <b> [Sep 2023]</b> Our paper "Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps" has been accepted by <b>USENIX Security 2024</b>!
 
   <li> <b> [Aug 2023]</b> Our paper "SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications" is now available on <a href="https://arxiv.org/abs/2307.01691"> arXiv</a>.
