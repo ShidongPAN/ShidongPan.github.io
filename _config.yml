@@ -86,7 +86,7 @@ author:
   location         : "Australia"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en"
   email            : "Shidong.Pan@anu.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
