@@ -9,7 +9,9 @@ redirect_from:
 ---
 # <i class="fa fa-book fa-fw"></i>  About #
 
-I am a second-year Ph.D. candidate at Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing). I'm also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I earned Master of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). My current research interests include User-centric Privacy Enhancing Technology, Software Privacy Analysis, Privacy Policy Analysis, Responsible AI, and Software Engineering.
+I am a second-year Ph.D. candidate at Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing). I'm also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I earned Master of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). 
+
+My current research interests include <b>Usable Privacy and Security</b>, Software Privacy Analysis, Privacy Policy Compliance Analysis, Responsible AI, and Software Engineering.
 
 Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
