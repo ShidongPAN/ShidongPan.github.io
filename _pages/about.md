@@ -19,7 +19,6 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  
   <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.</li>
     
   <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
@@ -40,7 +39,5 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
   
 </ul>  
 
-<br>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YfaCwNsPNRQJWJCQS4AAf1MzKs32Z5Eni7Py_3TVFkk&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M_H6ImK1gwcN-H51BmQwXEz9yt4TivhZi-N9v5sFWIk&cl=ffffff&w=a"></script>
 
