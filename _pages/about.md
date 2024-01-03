@@ -20,15 +20,15 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 <ul style="width: auto; height: 300px; overflow: auto">
 
   
-  <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.
+  <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.</li>
     
-  <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University. 
+  <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
     
-  <li> <b> [Sep 2023]</b> Our paper "Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps" has been accepted by <b>USENIX Security 2024</b>!
+  <li> <b> [Sep 2023]</b> Our paper "Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps" has been accepted by <b>USENIX Security 2024</b>!</li>
 
-  <li> <b> [Aug 2023]</b> Our paper "SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications" is now available on <a href="https://arxiv.org/abs/2307.01691"> arXiv</a>.
+  <li> <b> [Aug 2023]</b> Our paper "SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications" is now available on <a href="https://arxiv.org/abs/2307.01691"> arXiv</a>.</li>
   
-  <li> <b> [May 2023]</b> Our paper "A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps" is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.
+  <li> <b> [May 2023]</b> Our paper "A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps" is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.</li>
     
   <li> <b>[Mar. 2023]</b> I will start my academic visit at Singapore Management University with Prof. David Lo!</li>
 
