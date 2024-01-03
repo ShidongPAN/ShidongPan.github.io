@@ -7,6 +7,7 @@ author_profile: true
 
 <style>
 table.imgtable, table.imgtable td{
+  border: none;
   /* height: auto; */
   /* text-align: left; */
 }
@@ -15,7 +16,7 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Miscs
 
-## Visited university list (Sightseeing)
+## Visited university list (in-campus)
 
 <table class='imgtable'>
   <tr>
@@ -61,6 +62,7 @@ table.imgtable, table.imgtable td{
         University of Technology Sydney <br>
         University of Melbourne <br>
         Queensland University of Technology <br>
+        Monash University <br>
       </p>
     </td>
   </tr>
@@ -70,8 +72,8 @@ table.imgtable, table.imgtable td{
 
 ## E-sports
 
-I was a pro [DOTA2](https://www.dota2.com/home) e-sports player and team manager in Oceania. I play offlane (pos 3) and hard support (pos 5).<br>
-I played for Australian Gaming Network (AGN).
+I was a semi-pro esports player and team manager in [DOTA2](https://www.dota2.com/home) in Oceania.  
+
 <table class='imgtable'>
   <tr>
     <td>
