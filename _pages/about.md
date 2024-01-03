@@ -37,5 +37,10 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
   <li> <b>[Oct. 2021]</b> I will start my Ph.D. with Prof. Zhenchang Xing in 2021 Fall!</li>
 
   <li> <b>[June 2021]</b> I've earned my Master of Machine Learning and Computer Vision at Australian National University!</li> 
-</ul>
+  
+</ul>  
+
+<br>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YfaCwNsPNRQJWJCQS4AAf1MzKs32Z5Eni7Py_3TVFkk&cl=ffffff&w=a"></script>
 
