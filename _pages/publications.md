@@ -25,8 +25,17 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps<br>
         <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b>USENIX Security 2024</b>, Acceptance rate: 19% (98/515)
+        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515)
         [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>
+        {A New Hope}: Contextual Privacy Policies for Mobile Applications And an Approach Toward Automated Generation<br>
+        <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
+        to be appear in <b>USENIX Security 2024</b>
       </p>
     </td>
   </tr>
@@ -35,8 +44,18 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods<br>
         Dawen Zhang, <b>Shidong Pan</b>, Thong Hoang, Zhenchang Xing, Mark Staples, Xiwei Xu, Lina Yao, Qinghua Lu, Liming Zhu<br>
-        <b>AAAI Spring Symposium 2023 AITA : AI Trustworthiness Assessment</b>        
-        [<a href="https://arxiv.org/abs/2302.03350">Paper</a>]
+        <b>Springer, AI and Ethics 2024</b>        
+        [<a href="https://link.springer.com/article/10.1007/s43681-023-00398-y">Paper</a>]
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td align="left">
+      <p>
+        Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
+        Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
+        <b>ACM FAccT - ChatLLM'23</b>        
+        [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
       </p>
     </td>
   </tr>
@@ -48,10 +67,10 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications<br>
-        <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Mark Staples, David Lo<br>
+        Toward the Cure of Privacy Policy Reading Phobia: Automated Generation of Privacy Nutrition Labels From Privacy Policies<br>
+        <b>Shidong Pan</b>, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Qinghua Lu, Mark Staples<br>
         Pre-print
-        [<a href="https://arxiv.org/abs/2307.01691">Paper</a>]
+        [<a href="https://arxiv.org/abs/2306.10923">Paper</a>]
       </p>
     </td>
   </tr>
