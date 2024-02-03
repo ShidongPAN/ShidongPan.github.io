@@ -15,7 +15,7 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Miscs
 
-## Visited university list (in-campus)
+## Visited university list (sightseeing)
 
 <table class='imgtable'>
   <tr>
