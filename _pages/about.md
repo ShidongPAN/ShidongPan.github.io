@@ -21,6 +21,8 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [Jan 2024]</b> I attended <a href="https://acsw.core.edu.au/" <b>Australasian Commputer Science Week</b></a> at UNSW (Sydney).</li>
+ 
   <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.</li>
     
   <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
