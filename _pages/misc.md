@@ -7,7 +7,6 @@ author_profile: true
 
 <style>
 table.imgtable, table.imgtable td{
-  border: none;
   /* height: auto; */
   /* text-align: left; */
 }
