@@ -35,7 +35,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         {A New Hope}: Contextual Privacy Policies for Mobile Applications And an Approach Toward Automated Generation<br>
         <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
-        to be appear in <b>USENIX Security 2024</b>
+        <b>USENIX Security 2024</b>, Fall round.
       </p>
     </td>
   </tr>
