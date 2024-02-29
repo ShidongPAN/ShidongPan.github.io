@@ -14,6 +14,8 @@ table.imgtable, table.imgtable td{
 
 </style>
 
+# <i class="fa fa-fw fa-copy"></i> Talks and Presentations
+
 ## User-centered Privacy Enhancement in AI Systems Driven by Policy and Regulatory Principles. 
 
 <ul>
