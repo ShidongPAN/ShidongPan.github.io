@@ -20,6 +20,6 @@ table.imgtable, table.imgtable td{
 
 <ul>
   
-  <li>AI+ML+Friends, 29 Feb 2024, Australian National University. </li>
-  
+  <li> AI+ML+Friends, 29 Feb 2024, Australian National University. </li>
+  <li> Guest Seminar, 05 March 2024, Monash University. </li>
 </ul>
