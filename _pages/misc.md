@@ -62,6 +62,8 @@ table.imgtable, table.imgtable td{
         University of Melbourne <br>
         Queensland University of Technology <br>
         Monash University <br>
+        Swinburne University of Technology <br>
+        RMIT <br>
       </p>
     </td>
   </tr>
