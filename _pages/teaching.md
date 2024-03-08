@@ -14,7 +14,7 @@ table.imgtable, table.imgtable td{
 
 </style>
 
-# <i class="fa fa-fw fa-copy"></i> Head Tutor/Assistant Lecturer
+# <i class="fa fa-fw fa-copy"></i> Head Admin Tutor/Assistant Lecturer
 
 ## Australian National University
 
@@ -39,7 +39,7 @@ table.imgtable, table.imgtable td{
   <li>COMP1710/COMP6780, Web Development and Design, by Xuanying Zhu and Tom Gedeon</li>
 </ul>
 
-# <i class="fa fa-fw fa-copy"></i> Lecturer
+# <i class="fa fa-fw fa-copy"></i> Course Lecturer
 
 ## Shandong University (Weihai)
 
