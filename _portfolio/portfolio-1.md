@@ -56,12 +56,14 @@ table.imgtable, table.imgtable td{
     <td align="left">
       <p>
         Australia National University <br>
-        University of New South Wales (CBD campus) <br>
+        University of New South Wales (Sydney) <br>
         University of Sydeny <br>
         University of Technology Sydney <br>
         University of Melbourne <br>
         Queensland University of Technology <br>
         Monash University <br>
+        Swinburne University of Technology <br>
+        RMIT <br>
       </p>
     </td>
   </tr>
