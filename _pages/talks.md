@@ -14,12 +14,11 @@ table.imgtable, table.imgtable td{
 
 </style>
 
-# <i class="fa fa-fw fa-copy"></i> Talks and Presentations
+# <i class="fa fa-fw fa-copy"></i> Invited Talks
 
 ## User-centered Privacy Enhancement in AI Systems Driven by Policy and Regulatory Principles. 
 
 <ul>
-  
   <li> AI+ML+Friends, 29 Feb 2024, Australian National University. </li>
   <li> Guest Seminar, 05 March 2024, Monash University. </li>
   <li> Guest Seminar, 06 March 2024, Swinburne University of Technology. </li>
