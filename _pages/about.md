@@ -20,7 +20,9 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  
+
+  <li> <b> [Feb 2024]</b> I was invited to be the guest lecturer for the Usable Security and Privacy course at the University of Edinburgh. Thanks Jingjie!</li>
+
   <li> <b> [Feb 2024]</b> Our paper " {A New Hope}: Contextual Privacy Policies for Mobile Applications And an Approach Toward Automated Generation" has been accepted by <b>USENIX Security 2024</b>! Big thanks to all collaborators from four institutions across three continents!</li>
   
   <li> <b> [Jan 2024]</b> I attended <a href="https://acsw.core.edu.au/"> Australasian Commputer Science Week</a> at UNSW (Sydney).</li>
