@@ -21,7 +21,7 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b> [Feb 2024]</b> I was invited to be the guest lecturer for the Usable Security and Privacy course at the University of Edinburgh. Thanks Jingjie!</li>
+  <li> <b> [Mar 2024]</b> I was invited to be the guest lecturer for the Usable Security and Privacy course at the University of Edinburgh. Thanks Jingjie!</li>
 
   <li> <b> [Feb 2024]</b> Our paper " {A New Hope}: Contextual Privacy Policies for Mobile Applications And an Approach Toward Automated Generation" has been accepted by <b>USENIX Security 2024</b>! Big thanks to all collaborators from four institutions across three continents!</li>
   
@@ -37,11 +37,11 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
   
   <li> <b> [May 2023]</b> Our paper "A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps" is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.</li>
     
-  <li> <b>[Mar. 2023]</b> I will start my academic visit at Singapore Management University with Prof. David Lo!</li>
+  <li> <b>[Mar 2023]</b> I will start my academic visit at Singapore Management University with Prof. David Lo!</li>
 
-  <li> <b> [Feb. 2023]</b> Our paper "To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods" has been accepted on <b>AITA: AI Trustworthiness Assessment, AAAI, 2023</b>!</li>
+  <li> <b> [Feb 2023]</b> Our paper "To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods" has been accepted on <b>AITA: AI Trustworthiness Assessment, AAAI, 2023</b>!</li>
   
-  <li> <b>[Oct. 2021]</b> I will start my Ph.D. with Prof. Zhenchang Xing in 2021 Fall!</li>
+  <li> <b>[Oct 2021]</b> I will start my Ph.D. with Prof. Zhenchang Xing in 2021 Fall!</li>
 
   <li> <b>[June 2021]</b> I've earned my Master of Machine Learning and Computer Vision at Australian National University!</li> 
   
