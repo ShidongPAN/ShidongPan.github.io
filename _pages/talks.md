@@ -23,3 +23,9 @@ table.imgtable, table.imgtable td{
   <li> Guest Seminar, 05 March 2024, Monash University. </li>
   <li> Guest Seminar, 06 March 2024, Swinburne University of Technology. </li>
 </ul>
+
+# <i class="fa fa-fw fa-copy"></i> Keynote Speaker
+
+## Contextual Privacy Policy for Mobile Apps: A New Hope
+
+Privacy Week  https://privacyweek.it/speaker/shidong-pan/, May, 2024, 
