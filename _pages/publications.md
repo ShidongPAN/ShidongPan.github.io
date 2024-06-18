@@ -85,6 +85,16 @@ For a more complete list of publications, please refer to my <a href="https://sc
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="left">
+      <p>
+        Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
+        Linyi Han, <b>Shidong Pan</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng<br>
+        Pre-print
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
+      </p>
+    </td>
+  </tr>
 </table>
 
 
