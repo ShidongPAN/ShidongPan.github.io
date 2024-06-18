@@ -20,6 +20,11 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b> [May 2024]</b> Our paper "Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference" is now available on <a href="https://arxiv.org/pdf/2405.07430"> arXiv</a>. </li>
+  
+  <li> <b> [May 2024]</b> I delivered the Software Engineering course at Shandong University (Weihai)! Thanks to ANU and SDUW for offering me this opportunity!</li>
+  
   <li> <b> [Apr 2024]</b> I am delgihtful to share that I have received the Google Conference Travel Grant! Thanks Google Australia Research!</li>
   
   <li> <b> [Mar 2024]</b> I was invited to be the guest lecturer for the Usable Security and Privacy course at the University of Edinburgh. Thanks Jingjie!</li>
