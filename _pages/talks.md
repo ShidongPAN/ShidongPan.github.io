@@ -24,6 +24,10 @@ table.imgtable, table.imgtable td{
   <li> Guest Seminar, 06 March 2024, Swinburne University of Technology, Melbourne, Australia. </li>
 </ul>
 
+## User-Centered and Regulation-Driven Privacy Enhancements in Software Engineering 
+
+[HumaniSE Lab](https://www.monash.edu/it/humanise-lab) Seminar Series, 02 July 2024, HumaniSE Lab, Monash University, Melbourne, Australia
+
 # <i class="fa fa-fw fa-copy"></i> Keynote Speaker
 
 ## Contextual Privacy Policy for Mobile Apps: A New Hope
