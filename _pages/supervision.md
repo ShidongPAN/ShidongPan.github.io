@@ -16,6 +16,8 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Australian National University
 
+I serve as the supervisor/co-supervisor for ANU students who are undertaking final year research projects:
+
 ## Undergraduate Student
 
 <ul>
@@ -29,7 +31,7 @@ table.imgtable, table.imgtable td{
   <li>
     Tianchen Guo, 2023-2024 (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
     <strong>[High Distiction Thesis]</strong> <em>Large Language Models for Code Understanding in Software Engineering Tasks.</em><br>
-    -> Incoming PhD @ University of Queensland (2024 - )
+    -> <strong>Incoming PhD @ University of Queensland</strong> (2024 - )
   </li>
 
    <li>
@@ -59,11 +61,21 @@ table.imgtable, table.imgtable td{
 <ul>
   <li>
     Zhen Tao,  Master of Machine Learning and Computer Vision, 2023 - Present.<br>
-    Research Engineer @CSIRO's Data61 (2023 - Present)
+    Research Engineer @CSIRO's Data61 (2023 - Present)<br>
+    -> <strong>Incoming PhD @ Technology University of Munich</strong> (2024 - )
   </li>
   
    <li>
      Ke Ran, Master of Machine Learning and Computer Vision. 2023 - 2024 (Program Leave) <br>
      -> Independent Game Developer
+  </li>
+  <li>
+     Haochen Gong, Master of Computing (Advanced). 2024 - <br>
+  </li>
+    <li>
+     Mengqi Wang, Master of Computing (Advanced). 2024 - <br>
+  </li>
+  <li>
+     Mufei Li, Master of Computing (Advanced). 2024 - 
   </li>
 </ul>
