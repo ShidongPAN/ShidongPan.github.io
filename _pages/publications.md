@@ -23,7 +23,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps<br>
+        Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
         <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
         <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515)
         [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
@@ -33,7 +33,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        {A New Hope}: Contextual Privacy Policies for Mobile Applications And an Approach Toward Automated Generation<br>
+        A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation<br>
         <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
         <b>USENIX Security 2024</b>, Fall round. 
         [<a href="https://arxiv.org/abs/2402.14544">Paper</a>]
@@ -62,7 +62,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   </tr>
 </table>
 
-## Preprints
+## Pre-prints
 
 <table class='imgtable'>
   <tr>
@@ -80,7 +80,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
         Dianshu Liao, <b>Shidong Pan</b>, Qing Huang, Xiaoxue Ren, Zhenchang Xing, Huan Jin, Qinying Li<br>
-        Pre-print
+        Pre-print, Under Major Revision of a Core-A* SE Journal
         [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
       </p>
     </td>
@@ -90,7 +90,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
         Linyi Han, <b>Shidong Pan</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng<br>
-        Pre-print
+        Pre-print, Under Major Revision of a Core-A* SE Journal
         [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
       </p>
     </td>
