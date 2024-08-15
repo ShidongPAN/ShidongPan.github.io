@@ -21,6 +21,8 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [August 2024]</b>I will be attending the USENIX Security Symposium in Phialadelphia PA, USA 14-16 August. </li>
+  
   <li> <b> [July 2024]</b>I was invited to be a guest speaker for the HumaniSE Lab seminar series at Monash University. Thank you, Prof. Grundy!</li>
 
   <li> <b> [May 2024]</b> Our paper "Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference" is now available on <a href="https://arxiv.org/pdf/2405.07430"> arXiv</a>. </li>
