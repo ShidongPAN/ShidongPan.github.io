@@ -25,7 +25,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
         <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515)
+        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515).
         [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
       </p>
     </td>
@@ -35,7 +35,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation<br>
         <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
-        <b>USENIX Security 2024</b>, Fall round. 
+        <b>USENIX Security 2024</b>, Fall round acceptance rate: 17.3%. 
         [<a href="https://arxiv.org/abs/2402.14544">Paper</a>]
       </p>
     </td>
@@ -55,7 +55,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
         Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
-        <b>ACM FAccT - ChatLLM'23</b>        
+        <b>Springer, AI and Ethics 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)</b>        
         [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
       </p>
     </td>
