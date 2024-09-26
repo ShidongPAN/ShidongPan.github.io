@@ -40,7 +40,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   </li>
   
    <li>
-    Yichi Zhang, 2023 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Yichi Zhang, 2023 - 2024 (uncompleted project).<br>
   </li>
 
    <li>
@@ -54,6 +54,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   <li>
     Tianyi Zhang, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
   </li>
+  
 </ul>
 
 ## Graduate Student
@@ -78,4 +79,14 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   <li>
      Mufei Li, Master of Computing (Advanced). 2024 - 
   </li>
+</ul>
+
+## Research Assistant
+<ul>
+
+  <li>
+    Yinsi Zhou, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    <strong>Incoming PhD @ University of New South Wales, Sydney</strong> (2024 - )
+  </li>
+
 </ul>
