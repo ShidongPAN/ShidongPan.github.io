@@ -86,7 +86,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 
   <li>
     Yinsi Zhou, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
-    <strong>Incoming PhD @ University of New South Wales, Sydney</strong> (2024 - )
+    -> <strong>Incoming PhD @ University of New South Wales, Sydney</strong> (2024 - )
   </li>
 
 </ul>
