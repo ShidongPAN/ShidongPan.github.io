@@ -15,7 +15,7 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Miscs
 
-## Visited university list (sightseeing)
+## Visited university list. I like visiting universities for sightseeing.
 
 <table class='imgtable'>
   <tr>
@@ -56,7 +56,7 @@ table.imgtable, table.imgtable td{
     <td align="left">
       <p>
         Australia National University <br>
-        University of New South Wales (Sydney) <br>
+        University of New South Wales (CBD campus) <br>
         University of Sydeny <br>
         University of Technology Sydney <br>
         University of Melbourne <br>
@@ -67,13 +67,27 @@ table.imgtable, table.imgtable td{
       </p>
     </td>
   </tr>
+
+<table class='imgtable'>
+  <tr>
+    <td>
+      <b> United States </b>
+    </td>
+    <td align="left">
+      <p>
+        Carnegie Mellon University <br>
+        University of Washington <br>
+        University of Central Florida <br>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
 
 ## E-sports
 
-I was a pro esports player and team manager of [DOTA2](https://www.dota2.com/home) in Oceania.  
+I was a pro esports player and team manager in [DOTA2](https://www.dota2.com/home) in Oceania.  
 
 <table class='imgtable'>
   <tr>
