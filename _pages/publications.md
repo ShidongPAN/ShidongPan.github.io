@@ -17,7 +17,7 @@ table.imgtable, table.imgtable td{
 
 For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.
 
-## Papers
+## Published Papers
 
 <table class='imgtable'>
   <tr>
@@ -45,7 +45,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods<br>
         Dawen Zhang, <b>Shidong Pan</b>, Thong Hoang, Zhenchang Xing, Mark Staples, Xiwei Xu, Lina Yao, Qinghua Lu, Liming Zhu<br>
-        <b>Springer, AI and Ethics 2024</b>        
+        <b>Springer, AI and Ethics, 2024</b>        
         [<a href="https://link.springer.com/article/10.1007/s43681-023-00398-y">Paper</a>]
       </p>
     </td>
@@ -55,14 +55,24 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
         Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
-        <b>Springer, AI and Ethics 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)</b>        
+        <b>Springer, AI and Ethics, 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)</b>        
         [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>
+        Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
+        Dianshu Liao, <b>Shidong Pan</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li<br>
+        <b>Transactions on Software Engineering, 2024</b>
+        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
       </p>
     </td>
   </tr>
 </table>
 
-## Pre-prints
+## Pre-prints (* denotes co-first authors, † denotes corresponding author)
 
 <table class='imgtable'>
   <tr>
@@ -72,16 +82,6 @@ For a more complete list of publications, please refer to my <a href="https://sc
         <b>Shidong Pan</b>, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Qinghua Lu, Mark Staples<br>
         Pre-print
         [<a href="https://arxiv.org/abs/2306.10923">Paper</a>]
-      </p>
-    </td>
-  </tr>
-    <tr>
-    <td align="left">
-      <p>
-        Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
-        Dianshu Liao, <b>Shidong Pan</b>, Qing Huang, Xiaoxue Ren, Zhenchang Xing, Huan Jin, Qinying Li<br>
-        Pre-print, Under Major Revision of a Core-A* SE Journal
-        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
       </p>
     </td>
   </tr>
@@ -95,6 +95,29 @@ For a more complete list of publications, please refer to my <a href="https://sc
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="left">
+      <p>
+        "I Don't Use AI for Everything": Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development<br>
+        <b>Shidong Pan</b>, Litian Wang, Tianyi Zhang, Zhenchang Xing, Yanjie Zhao, Qinghua Lu, Xiaoyu Sun<br>
+        Pre-print
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>
+        Repo2Label: Regulation Driven Privacy Labels for Generative AI-based Applications<br>
+        Meixue Si*, <b>Shidong Pan*†</b>, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
+        Pre-print
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
+      </p>
+    </td>
+  </tr>
+
+
+  
 </table>
 
 
