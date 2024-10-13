@@ -20,6 +20,11 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+<li> <b>[Oct 2024]</b> I'm excited to announce that our team, comprising researchers from CSIRO's Data61 and Singapore Management University, has secured approximately AUD 700k in funding for our project, <b>ESG-based Responsible AI: Toward Green, Secure, and Compliant LLM Utilisation for Digital Service Development Process</b>. This project was funded under the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a>. Thanks to other PIs Prof. David Lo and Sherry Xu! Looking forward to advancing this important work!
+
+  <li> <b> [Oct 2024]</b> Our paper " $A^3$ -CodGen : A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" has been accepted by <b>Transactions on Software Engineering (TSE)</b>! Congrats to <a href="https://dianshu-liao.github.io/"> Dianshu Liao</a>! The pre-print is available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>. </li>
+  
   <li> <b> [August 2024]</b> I visited the <a href="https://www.cylab.cmu.edu/"> CyLab</a> at Carnegie Mellon University (CMU). Thank you, Prof. Cranor! </li>
   
   <li> <b> [August 2024]</b> I will be attending the USENIX Security Symposium in Phialadelphia PA, USA 14-16 August. </li>
