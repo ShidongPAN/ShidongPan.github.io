@@ -11,7 +11,10 @@ main:
     
   - title: "Supervision"
     url: /supervision/
-
+    
+  - title: "Grants"
+    url: /grant/
+    
   - title: "Talks"
     url: /talks/
 
