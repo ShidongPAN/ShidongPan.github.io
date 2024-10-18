@@ -4,27 +4,13 @@ title: ""
 permalink: /grant/
 author_profile: true
 ---
+## <i class="fa fa-fw fa-copy"></i> ESG-based Responsible AI: Toward Green, Secure, and Compliant LLM Utilisation for Digital Service Development Process
 
-<style>
-table.imgtable, table.imgtable td{
-  /* height: auto; */
-  /* text-align: left; */
-}
-
-</style>
-
-## Grants
-
-<table class='imgtable'>
-  <tr>
-    <td align="left">
-      <p>
-        Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
-        <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515).
-        [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  <tr>
-</table>
+<ul>
+  
+  <li> My Role: co-PI and Project Lead</li>
+  <li> PIs: Prof. David Lo, Sherry Xu; co-PI: James Hoang</li>
+  <li> Total: AUD $398,400 + SGD $319,033</li>
+  <li> Program: <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a></li>
+  <li> October 2024 to October 2026</li>
+</ul>
