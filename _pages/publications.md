@@ -15,7 +15,8 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Selected Publications
 
-For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.
+For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.<br>
+\* denotes co-first authors, † denotes corresponding author/project lead.
 
 ## Published Papers
 
@@ -64,7 +65,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
     <td align="left">
       <p>
         Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
-        Dianshu Liao, <b>Shidong Pan</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li<br>
+        Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li<br>
         <b>Transactions on Software Engineering, 2024</b>
         [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
       </p>
@@ -72,7 +73,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   </tr>
 </table>
 
-## Pre-prints (* denotes co-first authors, † denotes corresponding author)
+## Pre-prints
 
 <table class='imgtable'>
   <tr>
@@ -89,7 +90,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
     <td align="left">
       <p>
         Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
-        Linyi Han, <b>Shidong Pan</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng<br>
+        Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng<br>
         Pre-print, Under Major Revision of a Core-A* SE Journal
         [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
       </p>
