@@ -10,7 +10,7 @@ author_profile: true
   
   <li> My Role: co-PI and Project Lead</li>
   <li> PIs: Prof. David Lo, Sherry Xu; co-PI: James Hoang</li>
-  <li> Total: AUD $398,400 + SGD $319,033</li>
+  <li> Total: AUD \$ 398,400 + SGD \$ 319,033</li>
   <li> Program: <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a></li>
   <li> October 2024 to October 2026</li>
 </ul>
