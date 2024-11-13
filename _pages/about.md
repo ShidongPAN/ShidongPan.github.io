@@ -9,9 +9,9 @@ redirect_from:
 ---
 # <i class="fa fa-book fa-fw"></i>  About #
 
-I am a third-year Ph.D. candidate at Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing). I'm also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I was a visiting PhD student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University. 
+I am a postdoctoral researcher at Columbia University and New York University.
 
-I earned Master of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). <br>
+I completed my Ph.D. at Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing). I'm also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I was a visiting PhD student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University. I earned Master of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://cecc.anu.edu.au/people/zhenchang-xing) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). <br>
 
 My current research interests include <b>Usable Privacy and Security</b>, Software Privacy Analysis, Privacy Policy Compliance Analysis, Responsible AI, and Software Engineering. <br>
 
@@ -23,6 +23,8 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <li> <b>[Oct 2024]</b> I'm excited to announce that our team, comprising researchers from CSIRO's Data61 and Singapore Management University, has secured approximately AUD 700k in funding for our project, <b>ESG-based Responsible AI: Toward Green, Secure, and Compliant LLM Utilisation for Digital Service Development Process</b>. This project is funded under the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a>. Thanks to other PIs Prof. David Lo and Sherry Xu! Looking forward to advancing this important work!
 
+  <li> <b> [Oct 2024]</b> I'm delightful to share that I have been invited to the <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents</a>. Thanks for the invitation! </li>
+  
   <li> <b> [Oct 2024]</b> Our paper " $A^3$ -CodGen : A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" has been accepted by <b>Transactions on Software Engineering (TSE)</b>! Congrats to <a href="https://dianshu-liao.github.io/"> Dianshu Liao</a>! The pre-print is available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>. </li>
   
   <li> <b> [August 2024]</b> I visited the <a href="https://www.cylab.cmu.edu/"> CyLab</a> at Carnegie Mellon University (CMU). Thank you, Prof. Cranor! </li>
@@ -35,7 +37,7 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
   
   <li> <b> [May 2024]</b> I delivered the Software Engineering course at Shandong University (Weihai)! Thanks to ANU and SDUW for offering me this opportunity!</li>
   
-  <li> <b> [Apr 2024]</b> I am delgihtful to share that I have received the Google Conference Travel Grant! Thanks Google Australia Research!</li>
+  <li> <b> [Apr 2024]</b> I am delightful to share that I have received the Google Conference Travel Grant! Thanks Google Australia Research!</li>
   
   <li> <b> [Mar 2024]</b> I was invited to be the guest lecturer for the Usable Security and Privacy course at the University of Edinburgh. Thanks Jingjie!</li>
 
