@@ -23,13 +23,13 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 <ul>
   
   <li>
-    Zhen Tao, 2022-2023.<br>
+    Zhen Tao, 2022 - 2023.<br>
     <strong>[High Distiction Thesis]</strong> <em>Design and Evaluation of Automated Contextual Privacy Policy on Mobile Apps.</em><br>
     -> Master of Machine Learning and Computer Vision @ANU, Research Engineer @CSIRO's Data61 (2023 - Present)
   </li>
 
   <li>
-    Tianchen Guo, 2023-2024 (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Tianchen Guo, 2023 - 2024 (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
     <strong>[High Distiction Thesis]</strong> <em>Large Language Models for Code Understanding in Software Engineering Tasks.</em><br>
     -> <strong>Incoming PhD @ University of Queensland</strong> (2024 - )
   </li>
@@ -44,11 +44,14 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   </li>
 
    <li>
-    Yikai Ge, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Yikai Ge, 2024 Feb. - 2024 Nov. (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    <strong>[High Distiction Thesis]</strong> <em> An Empirical Study of Privacy Risks in Android Task-executable Voice Assistants</em><br>
   </li>
   
   <li>
-    Litian Wang, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Litian Wang, 2024 Feb. - 2024 Nov. (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    <em>Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development</em><br>
+    -> Software Engineer, MangoTech Group, Australia.
   </li>
   
   <li>
