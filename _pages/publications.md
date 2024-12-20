@@ -65,9 +65,19 @@ For a more complete list of publications, please refer to my <a href="https://sc
     <td align="left">
       <p>
         Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
-        Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang, Zhenchang Xing, Huan Jin, Qinying Li<br>
+        Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
         <b>Transactions on Software Engineering, 2024</b>
         [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>
+        Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
+        Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
+        <b>Transactions on Software Engineering, 2024</b>
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
       </p>
     </td>
   </tr>
@@ -86,16 +96,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       </p>
     </td>
   </tr>
-  <tr>
-    <td align="left">
-      <p>
-        Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
-        Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng<br>
-        Pre-print, Under Major Revision of a Core-A* SE Journal
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
-      </p>
-    </td>
-  </tr>
+
   <tr>
     <td align="left">
       <p>
@@ -116,7 +117,16 @@ For a more complete list of publications, please refer to my <a href="https://sc
       </p>
     </td>
   </tr>
-
+  <tr>
+    <td align="left">
+      <p>
+        A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps<br>
+        <b>Shidong Pan</b>, Tianchen Guo, Lihong Zhang, Pei Liu, Zhenchang Xing, Xiaoyu Sun<br>
+        Pre-print
+        [<a href="https://arxiv.org/abs/2406.17431">Paper</a>]
+      </p>
+    </td>
+  </tr>
 
   
 </table>
