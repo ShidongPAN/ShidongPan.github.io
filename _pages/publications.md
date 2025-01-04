@@ -26,7 +26,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
         <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515).
+        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515). (Core-A*, CCF-A)
         [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
       </p>
     </td>
@@ -36,7 +36,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation<br>
         <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
-        <b>USENIX Security 2024</b>, Fall round acceptance rate: 17.3%. 
+        <b>USENIX Security 2024</b>, Fall round acceptance rate: 17.3%. (Core-A*, CCF-A)
         [<a href="https://arxiv.org/abs/2402.14544">Paper</a>]
       </p>
     </td>
@@ -67,7 +67,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
         Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
         Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
         <b>Transactions on Software Engineering, 2024</b>
-        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
+        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>] (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -77,7 +77,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
         Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
         Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
         <b>Transactions on Software Engineering, 2024</b>
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
