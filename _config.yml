@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-AU"
+locale                   : "en-US"
 title                    : "Shidong Pan"
 title_separator          : "-"
 name                     : &name "Shidong Pan"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shidong Pan"
   avatar           : "photo_1.jpg"
-  bio              : "Ph.D. Candidate at Australian National University and CSIRO's Data61."
-  location         : "Australia"
+  bio              : "Postdoc at Columbia University and New York University."
+  location         : "New York, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en"
