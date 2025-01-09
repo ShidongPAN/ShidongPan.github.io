@@ -21,6 +21,10 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [Jan 2025]</b> I will be visiting the Department of Computer Science, Technical University of Munich (TUM). Thanks for the invitation, Prof. Chunyang Chen! </li>
+
+  <li> <b> [Jan 2025]</b> I will be attending the <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents</a> in Dagsthul, Germany, 05-10 January </li>
+  
   <li> <b> [Dec 2024]</b> Our paper "Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference" has been accepted by <b>Transactions on Software Engineering (TSE)</b>! Congrats to <a href="https://hanlinyi.github.io/page//"> Linyi Han</a>! The pre-print is available on <a href="https://arxiv.org/abs/2405.07430"> arXiv</a>. </li>
 
 <li> <b>[Oct 2024]</b> I'm excited to announce that our team, comprising researchers from CSIRO's Data61 and Singapore Management University, has secured approximately AUD 700k in funding for our project, <b>ESG-based Responsible AI: Toward Green, Secure, and Compliant LLM Utilisation for Digital Service Development Process</b>. This project is funded under the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a>. Thanks to other PIs Prof. David Lo and Sherry Xu! Looking forward to advancing this important work!
