@@ -21,7 +21,7 @@ Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b> [Jan 2025]</b> I will be visiting the Department of Computer Science, Technical University of Munich (TUM). Thanks for the invitation, Prof. Chunyang Chen! </li>
+  <li> <b> [Jan 2025]</b> I will be visiting and delivering a seminar at the Department of Computer Science, Technical University of Munich (TUM). Thanks for the invitation, Prof. Chunyang Chen! </li>
 
   <li> <b> [Jan 2025]</b> I will be attending the <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents</a> in Dagsthul, Germany, 05-10 January </li>
   
