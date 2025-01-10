@@ -54,7 +54,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   <li>
     Tianchen Guo, 2023 - 2024 (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
     <strong>[High Distiction Thesis]</strong> <em>Large Language Models for Code Understanding in Software Engineering Tasks.</em><br>
-    -> <strong>Incoming PhD @ University of Queensland</strong> (2024 - )
+    -> <strong>PhD @ University of Queensland</strong> (2024 - )
   </li>
 
    <li>
@@ -90,7 +90,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   <li>
     Zhen Tao,  Master of Machine Learning and Computer Vision, 2023 - Present.<br>
     Research Engineer @CSIRO's Data61 (2023 - Present)<br>
-    -> <strong>Incoming PhD @ Technology University of Munich</strong> (2024 - )
+    -> <strong>PhD @ Technology University of Munich</strong> (2024 - )
   </li>
   
    <li>
@@ -102,7 +102,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   </li>
     <li>
      Mengqi Wang, Master of Computing (Advanced). 2024 - <br>
-     -> Research Assistant @ University of New South Wales, Sydney (2024 - )
+     -> <strong>Incoming PhD @ University of New South Wales, Sydney</strong>  (2024 - )
   </li>
   <li>
      Mufei Li, Master of Computing (Advanced). 2024 - 
@@ -114,7 +114,23 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 
   <li>
     Yinsi Zhou, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
-    -> <strong>Incoming PhD @ University of New South Wales, Sydney</strong> (2024 - )
+    -> <strong>PhD @ University of New South Wales, Sydney</strong> (2024 - )
   </li>
 
+</ul>
+
+# <i class="fa fa-fw fa-copy"></i> Project Mentor, New York University
+
+I serve as the supervisor/co-supervisor for NYU students who are undertaking research projects:
+
+## Graduate Student
+
+<ul>
+  <li>
+   Venu Gopal, M.S. in Data Science, 2025 - <br>
+  </li>
+  <li>
+   Haris Naveed, M.S. in Data Science, 2025 - <br>
+  </li>
+  
 </ul>
