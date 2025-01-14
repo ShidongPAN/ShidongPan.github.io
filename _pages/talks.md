@@ -38,6 +38,6 @@ Department of Computer Science, 13 Jan 2025, Technology University of Munich, He
 
 [Privacy Week](https://privacyweek.it/speaker/shidong-pan/), 27-31 May 2024, Milan, Italy
 
-## <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 </a> - Grand Challenges for Research on Privacy Documents
+## Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents
 
 I am honoured to be invited to attend the <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents</a> in Dagsthul, Germany, 05-10 January 
