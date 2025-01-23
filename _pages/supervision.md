@@ -119,6 +119,8 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 
 </ul>
 
+<br>
+
 # <i class="fa fa-fw fa-copy"></i> Project Mentor, New York University
 
 I serve as the supervisor/co-supervisor for NYU students who are undertaking research projects:
@@ -132,5 +134,7 @@ I serve as the supervisor/co-supervisor for NYU students who are undertaking res
   <li>
    Haris Naveed, M.S. in Data Science, 2025 - <br>
   </li>
-  
+    <li>
+   Qihan Wang, M.S. in Data Science, 2025 - <br>
+  </li>
 </ul>
