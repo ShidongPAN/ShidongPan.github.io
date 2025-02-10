@@ -32,6 +32,10 @@ table.imgtable, table.imgtable td{
 
 Department of Computer Science, 13 Jan 2025, Technology University of Munich, Heilbronn, Germany
 
+## Privacy Policies in Software Systems and Engineering: Compliance, Procureability, and Usability.
+
+Detail Lab led by Dr. Sunoo Park, 07 Feb 2025, New York University, New York City, United States
+
 # <i class="fa fa-fw fa-copy"></i> Keynote Speaker/Invited Guest
 
 ## Contextual Privacy Policy for Mobile Apps: A New Hope
