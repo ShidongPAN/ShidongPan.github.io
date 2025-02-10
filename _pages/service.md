@@ -4,23 +4,22 @@ title: ""
 permalink: /service/
 author_profile: true
 ---
-## <i class="fa fa-fw fa-copy"></i> ESG-based Responsible AI: Toward Green, Secure, and Compliant LLM Utilisation for Digital Service Development Process
+## <i class="fa fa-fw fa-copy"></i> Program Committee
 
-<ul>
-  
-  <li> My Role: co-PI and Project Lead</li>
-  <li> PIs: Prof. David Lo, Sherry Xu; co-PI: Shidong Pan, James Hoang</li>
-  <li> Academia Collaborators: Singapore Management University; CSIRO's Data61, Australia </li>
-  <li> Industry Collaborators: Digital Place Ventures, Singapore; Euler AI, Australia </li>
-  <li> Total: AUD \$398,400 + SGD \$319,033</li>
-  <li> Program: <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a></li>
-  <li> October 2024 to October 2026</li>
-</ul>
+<strong>WWW 2025</strong>. The ACM Web Conference 2025, Security Track <br>
+<strong>ASE 2025</strong>. 40th IEEE/ACM International Conference on Automated Software Engineering <br>
 
-## <i class="fa fa-fw fa-copy"></i> Google Conference Travel Grant 2024
+## <i class="fa fa-fw fa-copy"></i> Conference Reviewer/sub-Reviewer
 
-<ul>
-  
-  <li> Total: AUD \$3,000</li>
-  <li> USENIX Secutiy 2024</li>
-</ul>
+<strong>ICSE 2025</strong>. The IEEE/ACM International Conference on Software Engineering <br>
+<strong>FSE 2024</strong>. ACM International Conference on the Foundations of Software Engineering <br>
+<strong>ACL 2024</strong>. The 62nd Annual Meeting of the Association for Computational Linguistics  <br>
+<strong>ISSRE 2024</strong>. The 35th IEEE International Symposium on Software Reliability Engineering  <br>
+<strong>CAIN 2023</strong>. 2nd International Conference on AI Engineering – Software Engineering for AI  <br>
+<strong>ICSME 2023</strong>. International Conference on Software Maintenance <br>
+
+## <i class="fa fa-fw fa-copy"></i> Journal Reviewer
+
+<strong>EMSE</strong>. Empirical Software Engineering <br>
+<strong>TDSC</strong>. IEEE Transactions on Dependable and Secure Computing <br>
+<strong>JMLR</strong>. Journal of Medical Internet Research <br>
