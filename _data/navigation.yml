@@ -15,6 +15,9 @@ main:
   - title: "Grants"
     url: /grant/
     
+  - title: "Services"
+    url: /service/
+    
   - title: "Talks"
     url: /talks/
 
