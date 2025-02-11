@@ -22,4 +22,4 @@ author_profile: true
 
 <strong>EMSE</strong>. Empirical Software Engineering <br>
 <strong>TDSC</strong>. IEEE Transactions on Dependable and Secure Computing <br>
-<strong>JMLR</strong>. Journal of Medical Internet Research <br>
+<strong>JMIR</strong>. Journal of Medical Internet Research <br>
