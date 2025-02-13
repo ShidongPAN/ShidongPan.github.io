@@ -15,7 +15,7 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Miscs
 
-## Visited university list. I like visiting universities for sightseeing.
+## I like visiting universities for sightseeing. Below is the visited university list. 
 
 <table class='imgtable'>
   <tr>
@@ -75,6 +75,8 @@ table.imgtable, table.imgtable td{
     </td>
     <td align="left">
       <p>
+        Columbia University <br>
+        New York University <br>
         Carnegie Mellon University <br>
         University of Washington <br>
         University of Central Florida <br>
