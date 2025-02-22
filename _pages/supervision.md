@@ -14,7 +14,6 @@ table.imgtable, table.imgtable td{
 
 </style>
 
-
 # <i class="fa fa-fw fa-copy"></i> PhD Supervision
 
 I serve as the co-supervisor for the following PhD students:
@@ -163,6 +162,6 @@ I serve as the supervisor/co-supervisor for TUM students who are undertaking res
 
 <ul>
   <li>
-   Lazar Minić, M.S. in Computer Science, co-supervised with <a href="https://scholar.google.com/citations?user=27xBaz4AAAAJ&hl=en">Emily Black</a>.<br><br>
+   Lazar Minić, M.S. in Computer Science, co-supervised with <a href="https://scholar.google.com/citations?user=27xBaz4AAAAJ&hl=en">Yanqi Su</a>.<br><br>
   </li>
 </ul>
