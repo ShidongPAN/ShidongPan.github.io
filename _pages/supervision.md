@@ -15,12 +15,12 @@ table.imgtable, table.imgtable td{
 </style>
 
 
-# <i class="fa fa-fw fa-copy"></i> PhD Co-supervisor
+# <i class="fa fa-fw fa-copy"></i> PhD Supervision
 
 I serve as the co-supervisor for the following PhD students:
 
 ## [Dianshu Liao](https://dianshu-liao.github.io/>) (Australian National University)
-<strong>Supervisors</strong>: Xiaoyu Sun (P), Zhenchang Xing, <strong>Shidong Pan</strong> <br>
+<strong>Supervisors</strong>: Xiaoyu Sun (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
 <strong>Research Topics</strong>: Intelligent Software Engineering (SE4AI, AI4SE, LLM4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis). <br>
 <strong>Publications</strong>: [TSE2024](https://ieeexplore.ieee.org/document/10734067), [TKDE2024](https://ieeexplore.ieee.org/document/10750898), [TOSEM2023](https://dl.acm.org/doi/10.1145/3597206)
 
@@ -36,105 +36,131 @@ I serve as the co-supervisor for the following PhD students:
 
 <br>
 
-# <i class="fa fa-fw fa-copy"></i> Final-year Project Mentor, Australian National University
+# <i class="fa fa-fw fa-copy"></i> Australian National University
 
 I serve as the supervisor/co-supervisor for ANU students who are undertaking final year research projects:
 
-## Undergraduate Student
-
+## 2022-2023
 <ul>
-  
   <li>
-    Zhen Tao, 2022 - 2023.<br>
+    Zhen Tao, B.S. in Advanced Computing <br>
     <strong>[High Distiction Thesis]</strong> <em>Design and Evaluation of Automated Contextual Privacy Policy on Mobile Apps.</em><br>
     -> Master of Machine Learning and Computer Vision @ANU (2023 - 2024) <br>
     ->  <strong>Research Engineer @CSIRO's Data61 (2023 - 2024)</strong>
   </li>
-
+</ul>
+  
+## 2023-2024
+<ul>
   <li>
-    Tianchen Guo, 2023 - 2024 (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Zhen Tao, M.S. in Machine Learning and Computer Vision<br>
+    Research Engineer @CSIRO's Data61 (2023 - 2024)<br>
+    -> <strong>PhD @ Technical University of Munich</strong> (2024 - )
+  </li>
+  
+  <li>
+    Tianchen Guo, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
     <strong>[High Distiction Thesis]</strong> <em>Large Language Models for Code Understanding in Software Engineering Tasks.</em><br>
     -> <strong>PhD @ University of Queensland</strong> (2024 - )
   </li>
 
    <li>
-    Lihong Zhang, 2023 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Lihong Zhang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
     <em>Automated LLM-based Compatibility Issues Detector For Android Applications.</em><br>
     -> Master of Information Technology @ University of Technology Sydney (2024 - )
   </li>
+
+   <li>
+     Ke Ran, M.S. in Machine Learning and Computer Vision. 2023 - 2024 (Program Leave) <br>
+     -> Independent Game Developer
+  </li>
   
    <li>
-    Yichi Zhang, 2023 - 2024 (uncompleted project).<br>
+    Yichi Zhang, B.S. in Advanced Computing (Honours). Uncompleted the project and changed to another supervisor.<br>
   </li>
 
    <li>
-    Yikai Ge, 2024 Feb. - 2024 Nov. (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Yikai Ge, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
     <strong>[High Distiction Thesis]</strong> <em> An Empirical Study of Privacy Risks in Android Task-executable Voice Assistants</em><br>
   </li>
   
   <li>
-    Litian Wang, 2024 Feb. - 2024 Nov. (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
+    Litian Wang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
     <em>Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development</em><br>
     -> Software Engineer, MangoTech Group, Australia.
   </li>
-  
-  <li>
-    Tianyi Zhang, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
-  </li>
-  
 </ul>
 
-## Graduate Student
+## 2024-2025 
 
 <ul>
   <li>
-    Zhen Tao,  Master of Machine Learning and Computer Vision, 2023 - Present.<br>
-    Research Engineer @CSIRO's Data61 (2023 - Present)<br>
-    -> <strong>PhD @ Technology University of Munich</strong> (2024 - )
+    Tianyi Zhang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+  </li>
+
+  <li>
+     Haochen Gong, M.S. in Computing (Advanced) <br>
+  </li>
+
+  <li>
+     Mengqi Wang, M.S. in Computing (Advanced) <br>
+     -> <strong>Incoming PhD @ University of New South Wales, Sydney</strong> 
+  </li>
+  
+  <li>
+     Mufei Li, M.S. in Computing (Advanced) 
+  </li>
+
+  <li>
+    Yinsi Zhou, Research Assistant, co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+    -> <strong>PhD @ University of New South Wales, Sydney</strong> (2024 - )
   </li>
   
    <li>
-     Ke Ran, Master of Machine Learning and Computer Vision. 2023 - 2024 (Program Leave) <br>
-     -> Independent Game Developer
-  </li>
-  <li>
-     Haochen Gong, Master of Computing (Advanced). 2024 - <br>
-  </li>
-    <li>
-     Mengqi Wang, Master of Computing (Advanced). 2024 - <br>
-     -> <strong>Incoming PhD @ University of New South Wales, Sydney</strong>  (2024 - )
-  </li>
-  <li>
-     Mufei Li, Master of Computing (Advanced). 2024 - 
-  </li>
-</ul>
-
-## Research Assistant
-<ul>
-
-  <li>
-    Yinsi Zhou, 2024 - Present (co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>).<br>
-    -> <strong>PhD @ University of New South Wales, Sydney</strong> (2024 - )
+    Yiling Wang, M.S. in Computer Science, co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
   </li>
 
+  <li>
+    Max Moors, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://scholar.google.com/citations?user=l2UCgDYAAAAJ&hl=en">Jiamou (Frank) Sun</a>.<br>
+  </li>
+  
+  <li>
+    Aaron Nguyen, B.S. in Advanced Computing, co-supervised with <a href="https://scholar.google.com/citations?user=l2UCgDYAAAAJ&hl=en">Jiamou (Frank) Sun</a>.<br>
+  </li>
+  
 </ul>
 
 <br>
 
-# <i class="fa fa-fw fa-copy"></i> Project Mentor, New York University
+# <i class="fa fa-fw fa-copy"></i> New York University
 
 I serve as the supervisor/co-supervisor for NYU students who are undertaking research projects:
 
-## Graduate Student
+## 2025-
 
 <ul>
   <li>
-   Venu Gopal, M.S. in Data Science, 2025 - <br>
+   Venu Gopal, M.S. in Data Science<br>
   </li>
   <li>
-   Haris Naveed, M.S. in Data Science, 2025 - <br>
+   Haris Naveed, M.S. in Data Science <br>
   </li>
     <li>
-   Qihan Wang, M.S. in Data Science, 2025 - <br>
+   Qihan Wang, M.S. in Data Science, co-supervised with <a href="https://emblack.github.io/">Emily Black</a>.<br>
+  </li>
+  <li>
+   Chuhan Ku, B.S. in Computer Science<br>
+  </li>
+</ul>
+
+# <i class="fa fa-fw fa-copy"></i> Technical University of Munich
+
+I serve as the supervisor/co-supervisor for TUM students who are undertaking research projects:
+
+## 2025-
+
+<ul>
+  <li>
+   Lazar Minić, M.S. in Computer Science, co-supervised with <a href="https://scholar.google.com/citations?user=27xBaz4AAAAJ&hl=en">Emily Black</a>.<br><br>
   </li>
 </ul>
