@@ -27,7 +27,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
         Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science<br>
         Yashothara Shanmugarasa, <b>Shidong Pan</b>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
         <b> CHI conference on Human Factors in Computing System, Late-Breaking Work, 2025</b>
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
+        (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
