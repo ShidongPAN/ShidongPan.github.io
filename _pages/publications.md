@@ -52,10 +52,20 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
-        <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515). (Core-A*, CCF-A)
-        [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
+       $A^3$-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
+        Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
+        <b>Transactions on Software Engineering, 2024</b>
+        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>] (Core-A*, CCF-A)
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <p>
+        Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
+        Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
+        <b>Springer, AI and Ethics, 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)</b>        
+        [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
       </p>
     </td>
   </tr>
@@ -69,6 +79,17 @@ For a more complete list of publications, please refer to my <a href="https://sc
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td align="left">
+      <p>
+        Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
+        <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
+        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515). (Core-A*, CCF-A)
+        [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
+      </p>
+    </td>
+  </tr>
   <tr>
     <td align="left">
       <p>
@@ -79,26 +100,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       </p>
     </td>
   </tr>
-    <tr>
-    <td align="left">
-      <p>
-        Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
-        Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
-        <b>Springer, AI and Ethics, 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)</b>        
-        [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness<br>
-        Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
-        <b>Transactions on Software Engineering, 2024</b>
-        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>] (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
+  
 </table>
 
 ## Pre-prints
