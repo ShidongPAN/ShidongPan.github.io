@@ -13,7 +13,7 @@ table.imgtable, table.imgtable td{
 
 </style>
 
-# <i class="fa fa-fw fa-copy"></i> Selected Publications
+# <i class="fa fa-fw fa-copy"></i> Publications
 
 For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.<br>
 \* denotes co-first authors, † denotes corresponding author/project lead.
