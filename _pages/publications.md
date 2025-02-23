@@ -18,7 +18,35 @@ table.imgtable, table.imgtable td{
 For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.<br>
 \* denotes co-first authors, † denotes corresponding author/project lead.
 
-## Published Papers
+
+## 2025
+<table class='imgtable'>
+  <tr>
+    <td align="left">
+      <p>
+        Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science<br>
+        Yashothara Shanmugarasa, <b>Shidong Pan</b>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
+        <b> CHI conference on Human Factors in Computing System, Late-Breaking Work, 2025</b>
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left">
+      <p>
+        Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
+        Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
+        <b>Transactions on Software Engineering, 2025</b>
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
+      </p>
+    </td>
+  </tr>
+
+  
+</table>
+
+## 2024
 
 <table class='imgtable'>
   <tr>
@@ -68,16 +96,6 @@ For a more complete list of publications, please refer to my <a href="https://sc
         Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
         <b>Transactions on Software Engineering, 2024</b>
         [<a href="https://arxiv.org/abs/2312.05772">Paper</a>] (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
-        Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
-        <b>Transactions on Software Engineering, 2024</b>
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
