@@ -15,7 +15,7 @@ My current research interests include <b>Usable Privacy and Security</b>, Privac
 
 I completed my Ph.D. at Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/). I'm also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I was a visiting PhD student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University. I earned Master of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). <br>
 
-Email: Shidong[dot]Pan[at]anu[dot]edu[dot]au.
+Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
