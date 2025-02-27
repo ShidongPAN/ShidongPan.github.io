@@ -29,11 +29,11 @@ I serve as the co-supervisor for the following PhD students:
 
 ## [Linyi Han](https://hanlinyi.github.io/page//) (Tianjin University)
 <strong>Supervisors</strong>: Xiaowang Zhang (P), Zhenchang Xing, <strong>Shidong Pan</strong> <br>
-<strong>Research Topics</strong>: Software Engineering, Vulnerability Management, Machine Learning. To improve vulnerability identification and management in software development through machine learning and LLMs, focusing on vulnerability analysis and information management. <br>
+<strong>Research Topics</strong>: Software Engineering, Vulnerability Management, Machine Learning. To improve vulnerability identification and management in software development through machine learning and LLMs, focusing on vulnerability analysis and information management. <br
 <strong>Publications</strong>: [TSE2024](https://arxiv.org/pdf/2405.07430)
 
 ## Zhen Tao (Technical University of Munich)
-<strong>Supervisors</strong>: Chunyang Chen (P), <strong>Shidong Pan</strong> <br>
+<strong>Supervisors</strong>: Chunyang Chen (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
 <strong>Research Topics</strong>: Privcay Policy, AI-based Software Privacy Analysis, AI Law and Regulation. <br>
 <br>
 
