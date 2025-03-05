@@ -41,57 +41,6 @@ I serve as the co-supervisor for the following PhD students:
 
 I serve as the supervisor/co-supervisor for ANU students who are undertaking final year research projects:
 
-## 2022-2023
-<ul>
-  <li>
-    Zhen Tao, B.S. in Advanced Computing <br>
-    <strong>[High Distiction Thesis]</strong> <em>Design and Evaluation of Automated Contextual Privacy Policy on Mobile Apps.</em><br>
-    -> Master of Machine Learning and Computer Vision @ANU (2023 - 2024) <br>
-    ->  <strong>Research Engineer @CSIRO's Data61 (2023 - 2024)</strong>
-  </li>
-</ul>
-  
-## 2023-2024
-<ul>
-  <li>
-    Zhen Tao, M.S. in Machine Learning and Computer Vision<br>
-    Research Engineer @CSIRO's Data61 (2023 - 2024)<br>
-    -> <strong>PhD @ Technical University of Munich</strong> (2024 - )
-  </li>
-  
-  <li>
-    Tianchen Guo, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
-    <strong>[High Distiction Thesis]</strong> <em>Large Language Models for Code Understanding in Software Engineering Tasks.</em><br>
-    -> <strong>PhD @ University of Queensland</strong> (2024 - )
-  </li>
-
-   <li>
-    Lihong Zhang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
-    <em>Automated LLM-based Compatibility Issues Detector For Android Applications.</em><br>
-    -> Master of Information Technology @ University of Technology Sydney (2024 - )
-  </li>
-
-   <li>
-     Ke Ran, M.S. in Machine Learning and Computer Vision. 2023 - 2024 (Program Leave) <br>
-     -> Independent Game Developer
-  </li>
-  
-   <li>
-    Yichi Zhang, B.S. in Advanced Computing (Honours). Uncompleted the project and changed to another supervisor.<br>
-  </li>
-
-   <li>
-    Yikai Ge, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
-    <strong>[High Distiction Thesis]</strong> <em> An Empirical Study of Privacy Risks in Android Task-executable Voice Assistants</em><br>
-  </li>
-  
-  <li>
-    Litian Wang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
-    <em>Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development</em><br>
-    -> Software Engineer, MangoTech Group, Australia.
-  </li>
-</ul>
-
 ## 2024-2025 
 
 <ul>
@@ -130,6 +79,60 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   </li>
   
 </ul>
+
+## 2023-2024
+<ul>
+  <li>
+    Zhen Tao, M.S. in Machine Learning and Computer Vision<br>
+    Research Engineer @CSIRO's Data61 (2023 - 2024)<br>
+    -> <strong>PhD @ Technical University of Munich</strong> (2024 - )
+  </li>
+  
+  <li>
+    Tianchen Guo, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+    <strong>[High Distiction Thesis]</strong> <em>Large Language Models for Code Understanding in Software Engineering Tasks.</em><br>
+    -> <strong>PhD @ University of Queensland</strong> (2024 - )
+  </li>
+
+   <li>
+    Lihong Zhang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+    <em>Automated LLM-based Compatibility Issues Detector For Android Applications.</em><br>
+    -> Master of Computing @ University of Wollongong (2024 - )
+  </li>
+
+   <li>
+     Ke Ran, M.S. in Machine Learning and Computer Vision. 2023 - 2024 (Program Leave) <br>
+     -> Independent Game Developer
+  </li>
+  
+   <li>
+    Yichi Zhang, B.S. in Advanced Computing (Honours). Uncompleted the project and changed to another supervisor.<br>
+  </li>
+
+   <li>
+    Yikai Ge, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+    <strong>[High Distiction Thesis]</strong> <em> An Empirical Study of Privacy Risks in Android Task-executable Voice Assistants</em><br>
+  </li>
+  
+  <li>
+    Litian Wang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+    <em>Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development</em><br>
+    -> Software Engineer, MangoTech Group, Australia.
+  </li>
+</ul>
+
+
+
+## 2022-2023
+<ul>
+  <li>
+    Zhen Tao, B.S. in Advanced Computing <br>
+    <strong>[High Distiction Thesis]</strong> <em>Design and Evaluation of Automated Contextual Privacy Policy on Mobile Apps.</em><br>
+    -> Master of Machine Learning and Computer Vision @ANU (2023 - 2024) <br>
+    ->  <strong>Research Engineer @CSIRO's Data61 (2023 - 2024)</strong>
+  </li>
+</ul>
+
 
 <br>
 
