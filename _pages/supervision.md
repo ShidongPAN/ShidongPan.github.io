@@ -41,7 +41,7 @@ I serve as the co-supervisor for the following PhD students:
 
 I serve as the supervisor/co-supervisor for ANU students who are undertaking final year research projects:
 
-## 2024-2025 
+## 2024-present
 
 <ul>
   <li>
@@ -140,7 +140,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 
 I serve as the supervisor/co-supervisor for NYU students who are undertaking research projects:
 
-## 2025-
+## 2025-present
 
 <ul>
   <li>
@@ -161,7 +161,7 @@ I serve as the supervisor/co-supervisor for NYU students who are undertaking res
 
 I serve as the supervisor/co-supervisor for TUM students who are undertaking research projects:
 
-## 2025-
+## 2025-present
 
 <ul>
   <li>
