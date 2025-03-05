@@ -53,5 +53,7 @@ table.imgtable, table.imgtable td{
 
 <li> University of Edinburgh, 2024S1, INFR11158/INFR11230, USEC: Usable Security and Privacy, by Jingjie Li</li>
 
+<li>Australian National University, 2025S1, COMP4130, Managing Software Quality and Process, by Xiaoyu Sun </li>
+
 </ul>
 
