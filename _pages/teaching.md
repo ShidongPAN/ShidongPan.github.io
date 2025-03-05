@@ -19,9 +19,10 @@ table.imgtable, table.imgtable td{
 <ul>
   
   <li>Australian National University, 2021S1, ENGN8535, Engineering Data Analytics (especially for CV scenarios), by Hongdong Li</li>
+  (The teaching team earned the highest student satisfactory (82%) since 2019, when the course reopened in ANU.)
 
   <li>Australian National University, 2021S2, ENGN8536, Advanced Topics in Mechatronics (i.e., Deep Learning in Computer Vision), by Nick Barnes</li>
-  
+  (The teaching team increased the student satisfactory from 77% to 89%, compared to 2020.)
 </ul>
 
 ## <i class="fa fa-fw fa-copy"></i> Tutor
