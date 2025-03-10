@@ -24,10 +24,9 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        [Oakland'25] A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements<br>
+        <b>[Oakland'25]</b> _A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements_ <br>
         Liu Wang, Dong Wang, <b>Shidong Pan</b>, Zheng Jiang, Haoyu Wang, Yi Wang<br>
-        <b>IEEE Symposium on Security and Privacy, 2025</b>
-        (Core-A*, CCF-A)
+        IEEE Symposium on Security and Privacy 2025, acceptance rate: 14.8%. (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -35,10 +34,9 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        [CHI'25] Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science<br>
+        [<b>CHI'25]</b> Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science<br>
         Yashothara Shanmugarasa, <b>Shidong Pan</b>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
-        <b> CHI conference on Human Factors in Computing System, Late-Breaking Work, 2025</b>
-        (Core-A*, CCF-A)
+        CHI conference on Human Factors in Computing System (Late-Breaking Work) 2025, acceptance rate: 32.8%. (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -65,7 +63,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
        [TSE'24] $A^3$-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
         Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
-        <b>Transactions on Software Engineering, 2024</b>
+        Transactions on Software Engineering, 2024
         [<a href="https://arxiv.org/abs/2312.05772">Paper</a>] (Core-A*, CCF-A)
       </p>
     </td>
@@ -75,7 +73,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         [AI&Ethics'24 (b)] Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
         Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
-        <b>Springer, AI and Ethics, 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)</b>        
+        Springer, AI and Ethics, 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)       
         [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
       </p>
     </td>
@@ -85,8 +83,8 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         [Sec'24 (b)] A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation<br>
         <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
-        <b>USENIX Security 2024</b>, Fall round acceptance rate: 17.3%. (Core-A*, CCF-A)
-        [<a href="https://arxiv.org/abs/2402.14544">Paper</a>]
+        USENIX Security 2024, Fall round acceptance rate: 17.3%. 
+        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf">Paper</a>] (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -96,8 +94,8 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         [Sec'24 (a)] Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
         <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b>USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515). (Core-A*, CCF-A)
-        [<a href="https://arxiv.org/abs/2305.03271">Paper</a>]
+        USENIX Security 2024, Summer round acceptance rate: 19% (98/515).
+        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf">Paper</a>] (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -106,12 +104,11 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         [AI&Ethics'24 (a)] To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods <br>
         Dawen Zhang, <b>Shidong Pan</b>, Thong Hoang, Zhenchang Xing, Mark Staples, Xiwei Xu, Lina Yao, Qinghua Lu, Liming Zhu<br>
-        <b>Springer, AI and Ethics, 2024</b>        
+        Springer, AI and Ethics, 2024       
         [<a href="https://link.springer.com/article/10.1007/s43681-023-00398-y">Paper</a>]
       </p>
     </td>
   </tr>
-  
 </table>
 
 ## Pre-prints
