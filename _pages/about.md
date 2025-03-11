@@ -20,7 +20,9 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  
+
+  <li> <b> [Dec 2024]</b> Our paper "A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements" has been accepted by <b>S&P 2025</b>! Congrats to Liu Wang! The pre-print is coming soon!</a>. </li>
+    
   <li> <b> [Feb 2025]</b> I am serving on the Program Committee of 40th IEEE/ACM International Conference on Automated Software Engineering (<a href="https://conf.researchr.org/track/ase-2025/ase-2025-papers">ASE 2025</a>). Welcome submissions! </li>
   
   <li> <b> [Feb 2025]</b> I delivered a talk to Detail Lab at the New York University. Thanks for the invitation, Dr. Sunoo Park! </li>
