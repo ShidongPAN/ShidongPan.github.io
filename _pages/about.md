@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-book fa-fw"></i>  About #
 
-I am a postdoctoral researcher at Columbia University and New York University (jointly-affiliated).
+I am a postdoctoral researcher at the Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated).
 
 My current research interests include <b>Usable Privacy and Security</b>, Privacy Policy, Responsible AI, and Software Engineering. <br>
 
