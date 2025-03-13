@@ -19,7 +19,7 @@ table.imgtable, table.imgtable td{
 I serve as the co-supervisor for the following PhD students:
 
 ## [Dianshu Liao](https://dianshu-liao.github.io/>) (Australian National University)
-<strong>Supervisors</strong>: Xiaoyu Sun (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
+<strong>Supervisors</strong>: Xiaoyu Sun (P), <strong>Shidong Pan</strong> <br>
 <strong>Research Topics</strong>: Intelligent Software Engineering (SE4AI, AI4SE, LLM4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis). <br>
 <strong>Publications</strong>: [TSE2024](https://ieeexplore.ieee.org/document/10734067), [TKDE2024](https://ieeexplore.ieee.org/document/10750898), [TOSEM2023](https://dl.acm.org/doi/10.1145/3597206)
 
