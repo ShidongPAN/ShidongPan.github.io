@@ -8,14 +8,31 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-book fa-fw"></i>  About #
+I am Shidong Pan :)
 
 I am a postdoctoral researcher at the Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated).
-
-My current research interests include <b>Usable Privacy and Security</b>, Privacy Policy, Responsible AI, and Software Engineering. <br>
 
 I completed my Ph.D. at Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/). I'm also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). I was a visiting PhD student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University. I earned Master of Machine Learning and Computer Vision at Australian National University, advised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). Before my graduate education, I earned the Bachelor of Advanced Computing (Honours) at Australian National University, advised by [Dongwoo Kim](https://dongwookim-ml.github.io/), and the Bachelor of Computer Science and Technology at Shandong University (Weihai). <br>
 
 Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
+
+# <i class="fa fa-book fa-fw"></i>  Research #
+My research lies at the intersection of Usable Privacy \& Security, Responsible AI, and Law. I am broadly interested in developing methodologies and tools that ensure AI and software systems are usable, secure, and compliant with privacy laws, to implement the general Responsible AI principles in practice. My work emphasizes bridging technical innovations to foster transparency, responsibility, and compliance in ubiquitous software/AIware systems to benefit developers, end-users, and regulators. <br>
+
+1) My work on privacy policy bridges the software and privacy laws, of software systems.
+
+    \item The generation of privacy policies in software engineering process [Security'24 (a)][arXiv (a)][arXiv (c)]
+    \item The compliance of privacy policies against privacy laws and regulations [Security'24 (a)][IST'25]
+    \item The usability of privacy policies and notices [Security'24 (b)][Oakland’25][CHI'25]
+
+2) My work on the algorithmic fairness.  [AI\&Ethics'24(a)][AI\&Ethics'24(b)]}
+
+
+3) My work on Software Engineering and Security builds solid understanding of how SE works, paving foundation of software, privacy disclosure, and privacy law analysis.
+    \item Maximize the LLMs for Context-aware Code Generation [TSE'24]
+    \item Vulnerability Textual Description Augmentation and Utilization [TSE'25]
+    \item Program Analysis for Android Applications [TOSEM'25][arXiv (b)]
+
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
