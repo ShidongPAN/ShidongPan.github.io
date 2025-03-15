@@ -26,11 +26,12 @@ My research lies at the intersection of Usable Privacy \& Security, Responsible 
 - *The compliance of privacy policies against privacy laws and regulations* [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
 - *The usability of privacy policies and notices* [[Security'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][Oakland’25][CHI'25]
 
-2) 
+2) My wor investigate methods for implementing Responsible AI principles through algorithmic fairness and transparency, exploring ethical challenges and implications. [[AI\&Ethics'24(a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)][[AI\&Ethics'24(b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)]
+   
 3) My research builds foundational insights into software engineering processes to enhance privacy and security, ultimately.
-    - Maximize the LLMs for Context-aware Code Generation [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)]
-    - Vulnerability Textual Description Augmentation and Utilization [[TSE'25](https://ieeexplore.ieee.org/abstract/document/10817126)]
-    - Program Analysis for Android Applications [TOSEM'25][arXiv (b)]
+- *Maximize the LLMs for Context-aware Code Generation* [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)]
+- *Vulnerability Textual Description Augmentation and Utilization* [[TSE'25](https://ieeexplore.ieee.org/abstract/document/10817126)]
+- *Program Analysis for Android Applications* [TOSEM'25][arXiv (b)]
 
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
