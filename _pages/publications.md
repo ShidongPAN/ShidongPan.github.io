@@ -37,7 +37,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
         [<b>CHI'25]</b> Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science<br>
         Yashothara Shanmugarasa, <b>Shidong Pan</b>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
         CHI conference on Human Factors in Computing System (Late-Breaking Work) 2025, acceptance rate: 32.8%.  
-        <a href="ShidongPAN.github.io/papers/CHI_LBW.pdf" target="_blank">PDF.</a>
+        [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">Paper</a>]
       </p>
     </td>
   </tr>
