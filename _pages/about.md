@@ -17,7 +17,7 @@ I completed my Ph.D. at Australian National University and CSIRO's Data61, super
 Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 
 # <i class="fa fa-book fa-fw"></i>  Research #
-My research lies at the intersection of Usable Privacy \& Security, Responsible AI, and Law. I am broadly interested in developing methodologies and tools that ensure AI and software systems are usable, secure, and compliant with privacy laws, to implement the general Responsible AI principles in practice. My work emphasizes bridging technical innovations to foster transparency, responsibility, and compliance in ubiquitous software/AIware systems to benefit developers, end-users, and regulators. <br>
+My research lies at the intersection of Usable Privacy & Security, Responsible AI, and Law. I am broadly interested in developing methodologies and tools that ensure AI and software systems are usable, secure, and compliant with privacy laws, to implement the general Responsible AI principles in practice. My work emphasizes bridging technical innovations to foster transparency, responsibility, and compliance in ubiquitous software/AIware systems to benefit developers, end-users, and regulators. <br>
 
 1) My work focuses on the privacy policy which bridge the software engineering practices and privacy law compliance, identifying and addressing fundamental challenges of the whole lifecycle of the privacy policy. <br>
 
@@ -26,7 +26,7 @@ My research lies at the intersection of Usable Privacy \& Security, Responsible 
 - *The compliance of privacy policies against privacy laws and regulations* [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
 - *The usability of privacy policies and notices* [[Security'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][Oakland'25] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
 
-2) My wor investigate methods for implementing Responsible AI principles through algorithmic fairness and transparency, exploring ethical challenges and implications. [[AI&Ethics'24(a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)][[AI&Ethics'24(b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)]
+2) My work investigate methods for implementing Responsible AI principles through algorithmic fairness and transparency, exploring ethical challenges and implications. [[AI&Ethics'24(a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)][[AI&Ethics'24(b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)]
    
 3) My research builds foundational insights into software engineering processes to enhance privacy and security, ultimately.
 - *LLMs for Context-aware Code Generation* [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)]
