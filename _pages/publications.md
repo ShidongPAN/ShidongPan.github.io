@@ -21,6 +21,17 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2025
 <table class='imgtable'>
+    <tr>
+    <td align="left">
+      <p>
+        <b>[IST'25]</b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications <br>
+        Alessandro Pedace, Omar Haggag, <b>Shidong Pan</b>, John Grundy <br>
+        <b>Information and Software Technology</b>
+      </p>
+    </td>
+  </tr>
+
+  
   <tr>
     <td align="left">
       <p>
