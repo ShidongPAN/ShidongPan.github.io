@@ -38,6 +38,8 @@ My research lies at the intersection of Usable Privacy & Security, Responsible A
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [Apr 2025]</b> Our paper "An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications" has been accepted by <b>Information and Software Technology</b>! Congrats to Alessandro and thanks Omar and Prof. John Grundy! </li>
+  
   <li> <b> [Mar 2025]</b> Our paper "A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements" has been accepted by <b>S&P 2025</b>! Congrats to Liu Wang! The pre-print is coming soon! </li>
 
   <li> <b> [Feb 2025]</b> Our paper "Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science" has been accepted by <b>CHI 2025 Late-Breaking Work</b>! Congrats to Yasho! The pre-print is coming soon! </li>
