@@ -8,7 +8,7 @@ author_profile: true
 
 <ul>
   
-  <li> My Role: co-PI and Project Lead</li>
+  <li> My Role: co-PI and Application Lead</li>
   <li> PIs: Prof. David Lo, Sherry Xu; co-PI: <strong>Shidong Pan</strong>, James Hoang</li>
   <li> Academia Collaborators: Singapore Management University; CSIRO's Data61, Australia </li>
   <li> Industry Collaborators: Digital Place Ventures, Singapore; Euler AI, Australia </li>
