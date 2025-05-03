@@ -57,9 +57,7 @@ table.imgtable, table.imgtable td{
 
 <ul>
 
-<li> University of Edinburgh, 2024S1, INFR11158/INFR11230, USEC: Usable Security and Privacy, by Jingjie Li</li>
-
-<li>Australian National University, 2025S1, COMP4130, Managing Software Quality and Process, by Xiaoyu Sun </li>
+<li> University of Edinburgh, 2024S1, INFR11158/INFR11230, USEC: Usable Security and Privacy, by Jingjie Li</li> [<a href="https://ShidongPAN.github.io/_pages/papers/guest_lecturer_Edingburgh.pdf" target="_blank">Slides</a>]
 
 </ul>
 
