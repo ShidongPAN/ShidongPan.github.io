@@ -24,7 +24,7 @@ My research lies at the intersection of Usable Privacy & Security, Responsible A
 - *The generation of privacy policies in software engineering process* 
   [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[arXiv](https://arxiv.org/pdf/2501.01131)]
 - *The compliance of privacy policies against privacy laws and regulations* [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
-- *The usability of privacy policies and notices* [[Security'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][Oakland'25] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
+- *The usability of privacy policies and notices* [[Security'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][[Oakland'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
 
 2) My work investigate methods for implementing Responsible AI principles through algorithmic fairness and transparency, exploring ethical challenges and implications. [[AI&Ethics'24(a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)][[AI&Ethics'24(b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)]
    
