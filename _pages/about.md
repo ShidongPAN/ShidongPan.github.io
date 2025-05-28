@@ -22,7 +22,7 @@ My research lies at the intersection of Usable Privacy & Security, Responsible A
 1) My work focuses on the privacy policy which bridge the software engineering practices and privacy law compliance, identifying and addressing fundamental challenges of the whole lifecycle of the privacy policy. <br>
 
 - *The generation of privacy policies in software engineering process* 
-  [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[arXiv](https://arxiv.org/pdf/2501.01131)]
+  [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[PETS'25](https://arxiv.org/pdf/2501.01131)]
 - *The compliance of privacy policies against privacy laws and regulations* [[Security'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
 - *The usability of privacy policies and notices* [[Security'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][[Oakland'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
 
@@ -37,6 +37,12 @@ My research lies at the intersection of Usable Privacy & Security, Responsible A
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b> [May 2025]</b> Our paper "Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development" has been accepted by <b>PETS 2025</b>! Thanks Zhen and all collaborators! </li>
+
+  <li> <b> [May 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" is now available on <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. TL;DR: In this work, we propose that language and other cultural cues can be a powerful lever for enhancing diversity in LLM outputs, and thus point to a way to mitigate these problems. </li>
+
+  <li> <b> [May 2025]</b> I will be attending the IEEE Symposium on Security and Privacy (Oakland) in San Francisco CA, USA 12-14, 2025. </li>
 
   <li> <b> [Apr 2025]</b> Our paper "An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications" has been accepted by <b>Information and Software Technology</b>! Congrats to Alessandro and thanks Omar and Prof. John Grundy! </li>
   
