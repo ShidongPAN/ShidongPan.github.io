@@ -42,7 +42,7 @@ My research lies at the intersection of Usable Privacy & Security, Responsible A
 
   <li> <b> [May 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" is now available on <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. TL;DR: In this work, we propose that language and other cultural cues can be a powerful lever for enhancing diversity in LLM outputs, and thus point to a way to mitigate these problems. </li>
 
-  <li> <b> [May 2025]</b> I will be attending the IEEE Symposium on Security and Privacy (Oakland) in San Francisco CA, USA 12-14, 2025. </li>
+  <li> <b> [May 2025]</b> I will be attending the IEEE Symposium on Security and Privacy (Oakland) in San Francisco CA, USA May 12-14, 2025. </li>
 
   <li> <b> [Apr 2025]</b> Our paper "An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications" has been accepted by <b>Information and Software Technology</b>! Congrats to Alessandro and thanks Omar and Prof. John Grundy! </li>
   
