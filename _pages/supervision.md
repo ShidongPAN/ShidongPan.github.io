@@ -35,6 +35,7 @@ I serve as the co-supervisor for the following PhD students:
 ## Zhen Tao (Technical University of Munich)
 <strong>Supervisors</strong>: Chunyang Chen (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
 <strong>Research Topics</strong>: Privcay Policy, AI-based Software Privacy Analysis, AI Law and Regulation. <br>
+<strong>Publications</strong>: PETS2025
 <br>
 
 # <i class="fa fa-fw fa-copy"></i> Australian National University
