@@ -47,6 +47,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 <ul>
   <li>
     Tianyi Zhang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
+     -> <strong>PhD @ Australian National University</strong> (2025 - )
   </li>
 
   <li>
