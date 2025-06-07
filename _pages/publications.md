@@ -44,7 +44,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
     <td align="left">
       <p>
-        <b>[Oakland'25]</b> A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements <br>
+        <b>[S&P'25]</b> A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements <br>
         Liu Wang, Dong Wang, <b>Shidong Pan</b>, Zheng Jiang, Haoyu Wang, Yi Wang<br>
         <b>IEEE Symposium on Security and Privacy 2025, acceptance rate: 14.8%.</b> (Core-A*, CCF-A)
       </p>
