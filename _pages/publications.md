@@ -26,7 +26,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
         <p>
           <b>[PETS'25]</b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications <br>
           Zhen Tao*, <b>Shidong Pan*†</b>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
-          <b>Privacy Enhancing Technologies Symposium 2025, acceptance rate: 20.5% (45/220).</b> (Core-A)
+          <b>Privacy Enhancing Technologies Symposium 2025</b>, acceptance rate: 20.5% (45/220). (Core-A)
         </p>
       </td>
     </tr>
@@ -36,7 +36,10 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         <b>[IST'25]</b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications <br>
         Alessandro Pedace, Omar Haggag, <b>Shidong Pan</b>, John Grundy <br>
-        Information and Software Technology (Core-A, CCF-B)
+        Information and Software Technology 
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0950584925000953" target="_blank">Paper</a>]
+        [<a href="https://github.com/HumaniSELab/An_Analysis_of_Privacy_Regulations_and_User_Concerns_of_Finance_Mobile_Applications">Code</a>]
+        (Core-A, CCF-B)
       </p>
     </td>
   </tr>
@@ -46,7 +49,9 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         <b>[S&P'25]</b> A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements <br>
         Liu Wang, Dong Wang, <b>Shidong Pan</b>, Zheng Jiang, Haoyu Wang, Yi Wang<br>
-        <b>IEEE Symposium on Security and Privacy 2025, acceptance rate: 14.8%.</b> (Core-A*, CCF-A)
+        <b>IEEE Symposium on Security and Privacy 2025</b>, acceptance rate: 14.8%. 
+        [<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e" target="_blank">Paper</a>]
+        (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -85,7 +90,9 @@ For a more complete list of publications, please refer to my <a href="https://sc
        [TSE'24] $A^3$-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
         Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
         Transactions on Software Engineering, 2024
-        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>] (Core-A*, CCF-A)
+        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
+        [<a href="https://github.com/Dianshu-Liao/AAA-Code-Generation-Framework-for-Code-Repository-Local-Aware-Global-Aware-Third-Party-Aware">Code</a>]
+         (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -104,8 +111,10 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         [Sec'24 (b)] A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation<br>
         <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
-        <b>USENIX Security 2024, Fall round acceptance rate: 17.3%.</b>
-        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf">Paper</a>] (Core-A*, CCF-A)
+        <b>USENIX Security 2024</b>, Fall round acceptance rate: 17.3%.
+        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf">Paper</a>]
+        [<a href="https://github.com/ShidongPAN/Cpp4App">Code</a>]
+        (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
@@ -115,8 +124,10 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <p>
         [Sec'24 (a)] Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
         <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b> USENIX Security 2024, Summer round acceptance rate: 19% (98/515). </b>
-        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf">Paper</a>] (Core-A*, CCF-A)
+        <b> USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515).
+        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf">Paper</a>]
+        [<a href="https://github.com/ShidongPAN/APPG">Repository</a>]
+        (Core-A*, CCF-A)
       </p>
     </td>
   </tr>
