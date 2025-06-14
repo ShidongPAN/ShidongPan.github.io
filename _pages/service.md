@@ -4,6 +4,12 @@ title: ""
 permalink: /service/
 author_profile: true
 ---
+
+## <i class="fa fa-fw fa-copy"></i> Associate Chair
+
+<strong>CHI 2026</strong>. CHI Conference on Human Factors in Computing Systems, Privacy & Security Subcommittee <br>
+
+
 ## <i class="fa fa-fw fa-copy"></i> Program Committee
 
 <strong>WWW 2025</strong>. The ACM Web Conference 2025, Security Track <br>
