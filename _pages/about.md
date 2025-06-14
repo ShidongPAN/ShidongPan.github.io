@@ -38,6 +38,8 @@ My research lies at the intersection of Usable Privacy & Security, Responsible A
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [June 2025]</b> I will be serving as the Asscociate Chair (AC) of CHI'26 Privacy & Security Subcommittee (<a href="https://chi2026.acm.org/">CHI Conference on Human Factors in Computing Systems 2026</a>). Welcome submissions! </li>
+  
   <li> <b> [May 2025]</b> Our paper "Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development" has been accepted by <b>PETS 2025</b>! Thanks Zhen and all collaborators! </li>
 
   <li> <b> [May 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" is now available on <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. TL;DR: In this work, we propose that language and other cultural cues can be a powerful lever for enhancing diversity in LLM outputs, and thus point to a way to mitigate these problems. </li>
