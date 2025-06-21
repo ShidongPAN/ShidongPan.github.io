@@ -24,7 +24,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <tr>
       <td align="left">
         <p>
-          <b>[PETS'25]</b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications <br>
+          <b>[PETS'25]</b> Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development <br>
           Zhen Tao*, <b>Shidong Pan*†</b>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
           <b>Privacy Enhancing Technologies Symposium 2025</b>, acceptance rate: 20.5% (45/220). (Core-A)
         </p>
