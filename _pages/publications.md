@@ -90,6 +90,13 @@ For a more complete list of publications, please refer to my <a href="https://sc
   </li>
   <br>
   <li>
+    <b>"A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps</b><br>
+        <ins><b>Shidong Pan</b></ins>, Tianchen Guo, Lihong Zhang, Pei Liu, Zhenchang Xing, Xiaoyu Sun<br>
+        ArXiv Pre-print
+        [<a href="https://arxiv.org/abs/2406.17431">Paper</a>]
+  </li>
+  <br>
+  <li>
       <b>A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation</b><br>
         <ins><b>Shidong Pan</b></ins>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
         Proceedings of <em>The 33rd USENIX Security Symposium</em> <b>(USENIX Security)</b>, 2024 fall round acceptance rate: 17.3%.
@@ -120,6 +127,13 @@ For a more complete list of publications, please refer to my <a href="https://sc
      <ins><b>Shidong Pan</b></ins>, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Qinghua Lu, Mark Staples<br>
       ArXiv Pre-print
       [<a href="https://arxiv.org/abs/2306.10923">Paper</a>]
+  </li>
+    <br>
+  <li>
+      <b>Test-takers Have a Say: Understanding the Implications of the Use of AI in Language Tests</b> <br>
+      Dawen Zhang, Thong Hoang, <ins><b>Shidong Pan</b></ins>, Yongquan Hu, Zhenchang Xing, Mark Staples, Xiwei Xu, Qinghua Lu, Aaron Quigley<br>
+      ArXiv Pre-print 
+      [<a href="https://arxiv.org/abs/2307.09885">Paper</a>]
   </li>
 </ul> 
 
