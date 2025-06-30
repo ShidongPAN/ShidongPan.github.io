@@ -90,7 +90,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   </li>
   <br>
   <li>
-    <b>"A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps</b><br>
+    <b>A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps</b><br>
         <ins><b>Shidong Pan</b></ins>, Tianchen Guo, Lihong Zhang, Pei Liu, Zhenchang Xing, Xiaoyu Sun<br>
         ArXiv Pre-print
         [<a href="https://arxiv.org/abs/2406.17431">Paper</a>]
