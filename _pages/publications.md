@@ -13,7 +13,7 @@ table.imgtable, table.imgtable td{
 
 </style>
 
-# <i class="fa fa-fw fa-copy"></i> Publications
+# <i class="fa fa-fw fa-copy"></i> Publications and Pre-prints
 
 For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.<br>
 \* denotes co-first authors, † denotes corresponding author/project lead.
@@ -33,7 +33,6 @@ For a more complete list of publications, please refer to my <a href="https://sc
       <em>Information and Software Technology</em> <b>(IST)</b>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0950584925000953" target="_blank">Paper</a>]
       [<a href="https://github.com/HumaniSELab/An_Analysis_of_Privacy_Regulations_and_User_Concerns_of_Finance_Mobile_Applications">Code</a>]
-      (Core-A, CCF-B)
   </li>
 <br>
   <li>
@@ -54,7 +53,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
     <b> Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference</b> <br>
     Linyi Han,  <ins><b>Shidong Pan†</b></ins>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
     <em>IEEE Transactions on Software Engineering</em> <b>(TSE)</b>
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
   </li>
 </ul>
 
@@ -62,12 +61,25 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2024
 <ul>
   <li>
+  <b>Repo2Label: Regulation Driven Privacy Labels for Generative AI-based Applications</b><br>
+  Meixue Si*, <ins><b>Shidong Pan*†</b></ins>, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
+  ArXiv Pre-print
+  [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
+  </li>
+<br>    
+  <li>
    <b>$A^3$-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware</b><br>
         Dianshu Liao, <ins><b>Shidong Pan†</b></ins>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
         <em>IEEE Transactions on Software Engineering</em> <b>(TSE)</b>
         [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
         [<a href="https://github.com/Dianshu-Liao/AAA-Code-Generation-Framework-for-Code-Repository-Local-Aware-Global-Aware-Third-Party-Aware">Code</a>]
-         (Core-A*, CCF-A)
+  </li>
+<br>
+  <li>
+    <b>"I Don't Use AI for Everything": Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development</b><br>
+        <ins><b>Shidong Pan</b></ins>, Litian Wang, Tianyi Zhang, Zhenchang Xing, Yanjie Zhao, Qinghua Lu, Xiaoyu Sun<br>
+        ArXiv Pre-print
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
   </li>
 <br>
   <li>
@@ -84,115 +96,30 @@ For a more complete list of publications, please refer to my <a href="https://sc
         [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf">Paper</a>]
         [<a href="https://github.com/ShidongPAN/Cpp4App">Code</a>]
   </li>
-</ul> 
-
-
-<table class='imgtable'>
-  <tr>
-    <td align="left">
-      <p>
-       [TSE'24] $A^3$-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware<br>
-        Dianshu Liao, <b>Shidong Pan†</b>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
-        Transactions on Software Engineering, 2024
-        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
-        [<a href="https://github.com/Dianshu-Liao/AAA-Code-Generation-Framework-for-Code-Repository-Local-Aware-Global-Aware-Third-Party-Aware">Code</a>]
-         (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        [AI&Ethics'24 (b)] Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions<br>
-        Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <b>Shidong Pan</b>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
-        Springer, AI and Ethics, 2024 (was appeared on ACM FAccT - ChatLLM'23 workshop)       
-        [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        [Sec'24 (b)] A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation<br>
-        <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
-        <b>USENIX Security 2024</b>, Fall round acceptance rate: 17.3%.
-        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf">Paper</a>]
-        [<a href="https://github.com/ShidongPAN/Cpp4App">Code</a>]
-        (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left">
-      <p>
-        [Sec'24 (a)] Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps<br>
-        <b>Shidong Pan</b>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
-        <b> USENIX Security 2024</b>, Summer round acceptance rate: 19% (98/515).
+  <br>
+  <li>
+        <b> Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online {Automated Privacy Policy Generators} for Mobile Apps</b> <br>
+        <ins><b>Shidong Pan</b></ins>, Dawen Zhang, Mark Staples, Zhenchang Xing, Jieshan Chen, Xiwei Xu, James Hoang<br>
+        Proceedings of <em>The 33rd USENIX Security Symposium</em> <b>(USENIX Security)</b>, 2024 summer round acceptance rate: 19% (98/515).
         [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf">Paper</a>]
         [<a href="https://github.com/ShidongPAN/APPG">Repository</a>]
-        (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        [AI&Ethics'24 (a)] To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods <br>
-        Dawen Zhang, <b>Shidong Pan</b>, Thong Hoang, Zhenchang Xing, Mark Staples, Xiwei Xu, Lina Yao, Qinghua Lu, Liming Zhu<br>
-        Springer, AI and Ethics, 2024       
+  </li>
+    <br>
+  <li>
+        <b>To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods</b> <br>
+        Dawen Zhang, <ins><b>Shidong Pan</b></ins>, Thong Hoang, Zhenchang Xing, Mark Staples, Xiwei Xu, Lina Yao, Qinghua Lu, Liming Zhu<br>
+        <em>AI and Ethics</em>    
         [<a href="https://link.springer.com/article/10.1007/s43681-023-00398-y">Paper</a>]
-      </p>
-    </td>
-  </tr>
-</table>
+  </li>
+</ul> 
 
-## Pre-prints
-
-<table class='imgtable'>
-  <tr>
-    <td align="left">
-      <p>
-        Toward the Cure of Privacy Policy Reading Phobia: Automated Generation of Privacy Nutrition Labels From Privacy Policies<br>
-        <b>Shidong Pan</b>, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Qinghua Lu, Mark Staples<br>
-        Pre-print
-        [<a href="https://arxiv.org/abs/2306.10923">Paper</a>]
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left">
-      <p>
-        "I Don't Use AI for Everything": Exploring Utility, Attitude, and Responsibility of AI-empowered Tools in Software Development<br>
-        <b>Shidong Pan</b>, Litian Wang, Tianyi Zhang, Zhenchang Xing, Yanjie Zhao, Qinghua Lu, Xiaoyu Sun<br>
-        Pre-print
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        Repo2Label: Regulation Driven Privacy Labels for Generative AI-based Applications<br>
-        Meixue Si*, <b>Shidong Pan*†</b>, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
-        Pre-print
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <p>
-        A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps<br>
-        <b>Shidong Pan</b>, Tianchen Guo, Lihong Zhang, Pei Liu, Zhenchang Xing, Xiaoyu Sun<br>
-        Pre-print
-        [<a href="https://arxiv.org/abs/2406.17431">Paper</a>]
-      </p>
-    </td>
-  </tr>
-
-  
-</table>
-
+## 2023
+<ul>
+  <li>
+     <b>Toward the Cure of Privacy Policy Reading Phobia: Automated Generation of Privacy Nutrition Labels From Privacy Policies</b><br>
+     <ins><b>Shidong Pan</b></ins>, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Qinghua Lu, Mark Staples<br>
+      ArXiv Pre-print
+      [<a href="https://arxiv.org/abs/2306.10923">Paper</a>]
+  </li>
+</ul> 
 
