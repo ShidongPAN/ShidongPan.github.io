@@ -60,6 +60,32 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 
 ## 2024
+<ul>
+  <li>
+   <b>$A^3$-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware</b><br>
+        Dianshu Liao, <ins><b>Shidong Pan†</b></ins>, Xiaoyu Su, Xiaoxue Ren, Qing Huang†, Zhenchang Xing, Huan Jin, Qinying Li<br>
+        <em>IEEE Transactions on Software Engineering</em> <b>(TSE)</b>
+        [<a href="https://arxiv.org/abs/2312.05772">Paper</a>]
+        [<a href="https://github.com/Dianshu-Liao/AAA-Code-Generation-Framework-for-Code-Repository-Local-Aware-Global-Aware-Third-Party-Aware">Code</a>]
+         (Core-A*, CCF-A)
+  </li>
+<br>
+  <li>
+      <b>Right to be Forgotten in the Era of Large Language Models: Implications, Challenges, and Solutions</b><br>
+        Dawen Zhang, Pamela Finckenberg-Broman, Thong Hoang, <ins><b>Shidong Pan</b></ins>, Zhenchang Xing, Mark Staples, Xiwei Xu<br>
+        <em>AI and Ethics</em>, was appeared on ACM FAccT - ChatLLM'23 workshop       
+        [<a href="https://arxiv.org/abs/2307.03941">Paper</a>]
+  </li>
+  <br>
+  <li>
+      <b>A New Hope: {Contextual Privacy Policies} for Mobile Applications And an Approach Toward Automated Generation</b><br>
+        <ins><b>Shidong Pan</b></ins>, Zhen Tao, Thong Hoang, Dawen Zhang, Tianshi Li, Zhenchang Xing, Xiwei Xu, Mark Staples, Thierry Rakotoarivelo, David Lo<br>
+        Proceedings of <em>The 33rd USENIX Security Symposium</em> <b>(USENIX Security)</b>, 2024 fall round acceptance rate: 17.3%.
+        [<a href="https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf">Paper</a>]
+        [<a href="https://github.com/ShidongPAN/Cpp4App">Code</a>]
+  </li>
+</ul> 
+
 
 <table class='imgtable'>
   <tr>
