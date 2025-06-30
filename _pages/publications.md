@@ -24,9 +24,9 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <li>
      <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
       Zhen Tao*, <ins><b>Shidong Pan*†</b></ins>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
-      Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b> 2025, acceptance rate: 20.5% (45/220).
+      Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b>, acceptance rate: 20.5% (45/220).
   </li>
-  &nbsp
+<br>
   <li>
       <b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications</b>  <br>
       Alessandro Pedace, Omar Haggag, <ins><b>Shidong Pan</b></ins>, John Grundy <br>
@@ -35,14 +35,21 @@ For a more complete list of publications, please refer to my <a href="https://sc
       [<a href="https://github.com/HumaniSELab/An_Analysis_of_Privacy_Regulations_and_User_Concerns_of_Finance_Mobile_Applications">Code</a>]
       (Core-A, CCF-B)
   </li>
-  &nbsp
+<br>
   <li>
     <b>A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements</b> <br>
     Liu Wang, Dong Wang, <ins><b>Shidong Pan</b></ins>, Zheng Jiang, Haoyu Wang, Yi Wang<br>
     Proceedings of <em>The 46th IEEE Symposium on Security and Privacy</em> <b>(IEEE SP)</b>, acceptance rate: 14.8%. 
     [<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e" target="_blank">Paper</a>]
-
   </li>
+<br>
+  <li>
+    <b>Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science</b> <br>
+    Yashothara Shanmugarasa, <ins><b>Shidong Pan</b></ins>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
+    Proceedings of <em>The Extended Abstracts of SIGCHI Conference on Human Factors in Computing Systems</em> <b>(CHI EA)</b>, Late-Breaking Work, acceptance rate: 32.8%.  
+    [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">Paper</a>]
+  </li>
+  
 </ul>
 
 
