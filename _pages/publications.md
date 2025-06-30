@@ -49,71 +49,15 @@ For a more complete list of publications, please refer to my <a href="https://sc
     Proceedings of <em>The Extended Abstracts of SIGCHI Conference on Human Factors in Computing Systems</em> <b>(CHI EA)</b>, Late-Breaking Work, acceptance rate: 32.8%.  
     [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">Paper</a>]
   </li>
-  
+<br>
+  <li>
+    <b> Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference</b> <br>
+    Linyi Han,  <ins><b>Shidong Pan†</b></ins>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
+    <em>IEEE Transactions on Software Engineering</em> <b>(TSE)</b>
+        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
+  </li>
 </ul>
 
-
-
-<table class='imgtable'>
-  <tr>
-      <td align="left">
-        <p>
-          <b>[PETS'25]</b> Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development <br>
-          Zhen Tao*, <b>Shidong Pan*†</b>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
-          <b>Privacy Enhancing Technologies Symposium 2025</b>, acceptance rate: 20.5% (45/220). (Core-A)
-        </p>
-      </td>
-    </tr>
-  
-  <tr>
-    <td align="left">
-      <p>
-        <b>[IST'25]</b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications <br>
-        Alessandro Pedace, Omar Haggag, <b>Shidong Pan</b>, John Grundy <br>
-        Information and Software Technology 
-        [<a href="https://www.sciencedirect.com/science/article/pii/S0950584925000953" target="_blank">Paper</a>]
-        [<a href="https://github.com/HumaniSELab/An_Analysis_of_Privacy_Regulations_and_User_Concerns_of_Finance_Mobile_Applications">Code</a>]
-        (Core-A, CCF-B)
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <p>
-        <b>[S&P'25]</b> A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements <br>
-        Liu Wang, Dong Wang, <b>Shidong Pan</b>, Zheng Jiang, Haoyu Wang, Yi Wang<br>
-        <b>IEEE Symposium on Security and Privacy 2025</b>, acceptance rate: 14.8%. 
-        [<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e" target="_blank">Paper</a>]
-        (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <p>
-        [<b>CHI'25]</b> Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science<br>
-        Yashothara Shanmugarasa, <b>Shidong Pan</b>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
-        CHI conference on Human Factors in Computing System (Late-Breaking Work) 2025, acceptance rate: 32.8%.  
-        [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">Paper</a>]
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <p>
-        [TSE'25] Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference<br>
-        Linyi Han, <b>Shidong Pan†</b>, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng<br>
-        Transactions on Software Engineering, 2025
-        [<a href="https://arxiv.org/abs/2405.07430">Paper</a>] (Core-A*, CCF-A)
-      </p>
-    </td>
-  </tr>
-
-  
-</table>
 
 ## 2024
 
