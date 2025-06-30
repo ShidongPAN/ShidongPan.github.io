@@ -20,6 +20,14 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 
 ## 2025
+<ul>
+  <li>
+     <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
+      Zhen Tao*, <b>Shidong Pan*†</b>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
+      Proceedings of *Privacy Enhancing Technologies Symposium* <b> (PoPETs/PETS)</b> 2025, acceptance rate: 20.5% (45/220).
+  </li>
+</ul>
+
 <table class='imgtable'>
   <tr>
       <td align="left">
