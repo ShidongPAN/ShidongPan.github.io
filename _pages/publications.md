@@ -23,10 +23,29 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   <li>
      <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
-      Zhen Tao*, <b>Shidong Pan*†</b>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
-      Proceedings of *Privacy Enhancing Technologies Symposium* <b> (PoPETs/PETS)</b> 2025, acceptance rate: 20.5% (45/220).
+      Zhen Tao*, <ins><b>Shidong Pan*†</b></ins>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
+      Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b> 2025, acceptance rate: 20.5% (45/220).
+  </li>
+  &nbsp
+  <li>
+      <b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications</b>  <br>
+      Alessandro Pedace, Omar Haggag, <ins><b>Shidong Pan</b></ins>, John Grundy <br>
+      <em>Information and Software Technology</em> <b>(IST)</b>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0950584925000953" target="_blank">Paper</a>]
+      [<a href="https://github.com/HumaniSELab/An_Analysis_of_Privacy_Regulations_and_User_Concerns_of_Finance_Mobile_Applications">Code</a>]
+      (Core-A, CCF-B)
+  </li>
+  &nbsp
+  <li>
+    <b>A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements</b> <br>
+    Liu Wang, Dong Wang, <ins><b>Shidong Pan</b></ins>, Zheng Jiang, Haoyu Wang, Yi Wang<br>
+    Proceedings of <em>The 46th IEEE Symposium on Security and Privacy</em> <b>(IEEE SP)</b>, acceptance rate: 14.8%. 
+    [<a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e" target="_blank">Paper</a>]
+
   </li>
 </ul>
+
+
 
 <table class='imgtable'>
   <tr>
