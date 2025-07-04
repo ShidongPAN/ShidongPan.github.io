@@ -122,18 +122,18 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2023
 <ul>
+    <li>
+      <b>Test-takers Have a Say: Understanding the Implications of the Use of AI in Language Tests</b> <br>
+      Dawen Zhang, Thong Hoang, <ins><b>Shidong Pan</b></ins>, Yongquan Hu, Zhenchang Xing, Mark Staples, Xiwei Xu, Qinghua Lu, Aaron Quigley<br>
+      ArXiv Pre-print 
+      [<a href="https://arxiv.org/abs/2307.09885">Paper</a>]
+  </li>
+      <br>
   <li>
      <b>Toward the Cure of Privacy Policy Reading Phobia: Automated Generation of Privacy Nutrition Labels From Privacy Policies</b><br>
      <ins><b>Shidong Pan</b></ins>, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Qinghua Lu, Mark Staples<br>
       ArXiv Pre-print
       [<a href="https://arxiv.org/abs/2306.10923">Paper</a>]
-  </li>
-    <br>
-  <li>
-      <b>Test-takers Have a Say: Understanding the Implications of the Use of AI in Language Tests</b> <br>
-      Dawen Zhang, Thong Hoang, <ins><b>Shidong Pan</b></ins>, Yongquan Hu, Zhenchang Xing, Mark Staples, Xiwei Xu, Qinghua Lu, Aaron Quigley<br>
-      ArXiv Pre-print 
-      [<a href="https://arxiv.org/abs/2307.09885">Paper</a>]
   </li>
 </ul> 
 
