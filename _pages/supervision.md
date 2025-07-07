@@ -47,7 +47,8 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 <ul>
   <li>
     Tianyi Zhang, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
-     -> <strong>Incoming PhD @ Australian National University</strong> (2025 - )
+    <strong>[High Distiction Thesis]</strong> <em>Deployability-Centric Infrastructure-as-Code Generation: An LLM-based Iterative Framework.</em><br>
+     -> <strong>PhD @ Australian National University</strong> (2025 - )
   </li>
 
   <li>
@@ -56,7 +57,8 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
 
   <li>
      Mengqi Wang, M.S. in Computing (Advanced) <br>
-     -> <strong>Incoming PhD @ University of New South Wales, Sydney</strong> 
+     <strong>[High Distiction Thesis]</strong> <em>Automated Contextual Explainable AI Labels Generation for Mobile Apps.</em><br>
+     -> <strong>PhD @ University of New South Wales, Sydney</strong> (2025 - )
   </li>
   
   <li>
