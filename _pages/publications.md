@@ -23,7 +23,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   <li>
      <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
-      Zhen Tao*, <ins><b>Shidong Pan*†</b></ins>, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
+      <ins><b>Shidong Pan*†</b></ins>, Zhen Tao*, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
       Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b>, acceptance rate: 20.5% (45/220).
   </li>
 <br>
@@ -45,7 +45,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <li>
     <b>Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science</b> <br>
     Yashothara Shanmugarasa, <ins><b>Shidong Pan</b></ins>, Ming Ding, Dehai Zhao, Thierry Rakotoarivelo<br>
-    Proceedings of <em>The Extended Abstracts of SIGCHI Conference on Human Factors in Computing Systems</em> <b>(CHI EA)</b>, Late-Breaking Work, acceptance rate: 32.8%.  
+    Proceedings of <em>The Extended Abstracts of SIGCHI Conference on Human Factors in Computing Systems</em> <b>(CHI)</b>, Late-Breaking Work, acceptance rate: 32.8%.  
     [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">Paper</a>]
   </li>
 <br>
@@ -62,7 +62,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   <li>
   <b>Repo2Label: Regulation Driven Privacy Labels for Generative AI-based Applications</b><br>
-  Meixue Si*, <ins><b>Shidong Pan*†</b></ins>, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
+  <ins><b>Shidong Pan*†</b></ins>, Meixue Si*, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
   ArXiv Pre-print
   [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
   </li>
