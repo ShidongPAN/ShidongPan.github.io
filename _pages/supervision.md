@@ -32,10 +32,10 @@ I serve as the co-supervisor for the following PhD students:
 <strong>Research Topics</strong>: Software Engineering, Vulnerability Management, Machine Learning. To improve vulnerability identification and management in software development through machine learning and LLMs, focusing on vulnerability analysis and information management. <br>
 <strong>Publications</strong>: [TSE2025](https://arxiv.org/pdf/2405.07430)
 
-## Zhen Tao (Technical University of Munich)
+## [Zhen Tao](https://scholar.google.com.au/citations?hl=en&user=hZLK9jAAAAAJ) (Technical University of Munich)
 <strong>Supervisors</strong>: Chunyang Chen (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
 <strong>Research Topics</strong>: Privcay Policy, AI-based Software Privacy Analysis, AI Law and Regulation. <br>
-<strong>Publications</strong>: PETS2025
+<strong>Publications</strong>: [PETS2025](https://petsymposium.org/popets/2025/popets-2025-0136.pdf)
 <br>
 
 # <i class="fa fa-fw fa-copy"></i> Australian National University
