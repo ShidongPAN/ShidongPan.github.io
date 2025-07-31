@@ -22,6 +22,13 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2025
 <ul>
   <li>
+     <b>Automated Knot Detection and Pairing for Wood Analysis in the Timber Industry</b> <br>
+      Guohao Lin, <ins><b>Shidong Pan†</b></ins>, Rasul Khanbayov, Changxi Yang, Ani Khaloian-Sarnaghi, Andriy Kovryga<br>
+      <em>32nd International Conference on Neural Information Processing</em> <b> (ICONIP)</b>.<br>
+      This work was an <a href="https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/interdisciplinary-project/"> Interdisciplinary Project</a> with Professorship of Wood Technology at Technical University of Munich. 
+  </li>
+  <br>
+  <li>
      <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
       <ins><b>Shidong Pan*†</b></ins>, Zhen Tao*, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
       Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b>, acceptance rate: 20.5% (45/220).
@@ -29,7 +36,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <br>
   <li>
       <b> An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications</b>  <br>
-      Alessandro Pedace, Omar Haggag, <ins><b>Shidong Pan</b></ins>, John Grundy <br>
+       Omar Haggag, Alessandro Pedace, <ins><b>Shidong Pan</b></ins>, John Grundy <br>
       <em>Information and Software Technology</em> <b>(IST)</b>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0950584925000953" target="_blank">Paper</a>]
       [<a href="https://github.com/HumaniSELab/An_Analysis_of_Privacy_Regulations_and_User_Concerns_of_Finance_Mobile_Applications">Code</a>]
