@@ -9,7 +9,6 @@ author_profile: true
 
 <strong>CHI 2026</strong>. CHI Conference on Human Factors in Computing Systems, Privacy & Security Subcommittee <br>
 
-
 ## <i class="fa fa-fw fa-copy"></i> Program Committee
 
 <strong>WWW 2025</strong>. The ACM Web Conference 2025, Security Track <br>
@@ -31,3 +30,5 @@ author_profile: true
 <strong>JMIR</strong>. Journal of Medical Internet Research <br>
 <strong>TBIT</strong>. Behaviour \& Information Technology <br>
 
+## <i class="fa fa-fw fa-copy"></i> Conference Session Chair
+<strong>PETS 2025</strong>. Session 1D: Usable PETs. The 25th Privacy Enhancing Technologies Symposium, July 14–19, 2025, Washington, DC
