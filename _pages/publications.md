@@ -25,7 +25,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
      <b>Automated Knot Detection and Pairing for Wood Analysis in the Timber Industry</b> <br>
       Guohao Lin, <ins><b>Shidong Pan†</b></ins>, Rasul Khanbayov, Changxi Yang, Ani Khaloian-Sarnaghi, Andriy Kovryga<br>
       <em>32nd International Conference on Neural Information Processing</em> <b> (ICONIP)</b>.<br>
-      This work was an <a href="https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/interdisciplinary-project/"> Interdisciplinary Project</a> with Professorship of Wood Technology at Technical University of Munich. 
+      This work was an <a href="https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/interdisciplinary-project/"> Interdisciplinary Project</a> with Wood Technology Group at Technical University of Munich. 
   </li>
   <br>
   <li>
