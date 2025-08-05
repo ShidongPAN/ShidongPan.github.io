@@ -18,7 +18,7 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 
 # <i class="fa fa-book fa-fw"></i>  Research #
 
-My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Teal}{\textbf{Usable Privacy and Security}}$, $\color{Purple}{\textbf{Empirical Software Engineering}}$, $\color{BurntOrange}{\textbf{Human-Computer Interaction}}$, and $\color{Brown}{\textbf{Law}}$. 
+My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Teal}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
 
  <b>[Usable Privacy Engineering]</b> Recognizing the inevitable utility-privacy trade-offs in software engineering, I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant. My work aims to integrate privacy requirements into development workflows in ways that support both productivity and regulatory alignment. 
 
@@ -42,8 +42,8 @@ My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code
 
 3) Usability of Privacy Documentation
 
-- $\color{Teal}{\textbf{[UPS]}}$ $\color{BurntOrange}{\textbf{[HCI]}}$ *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
-- $\color{Teal}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{BurntOrange}{\textbf{[HCI]}}$ *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Pink}{\textbf{[HCI]}}$ *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Pink}{\textbf{[HCI]}}$ *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
 
 ---
 
