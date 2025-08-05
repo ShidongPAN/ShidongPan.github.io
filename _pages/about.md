@@ -17,8 +17,11 @@ I completed my Ph.D. at Australian National University and CSIRO's Data61, super
 Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 
 # <i class="fa fa-book fa-fw"></i>  Research #
-My research lies at the intersection of Usable Privacy & Security, Software Engineering, and Law. I am broadly interested in developing methodologies and tools that ensure AIware and software systems are usable, secure, and compliant with privacy regulations. 
-I also interested in transforming general Responsible AI principles in to practical implementations. My work emphasizes bridging technical innovations to foster transparency, responsibility, and compliance in ubiquitous software/AIware systems to benefit developers, end-users, and regulators. <br>
+
+My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Teal}{\textbf{Usable Privacy and Security}}$, $\color{Purple}{\textbf{Software Engineering}}$, and $\color{Brown}{\textbf{Law}}$. I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant.
+More broadly, my work is driven by the need to translate high-level Responsible AI principles (e.g., privacy) into actionable, practical implementations that work across diverse system contexts.<br>
+
+A key focus of my research is bridging the gap between various modalities, such as textual privacy regulations, developer practices (both documented and observed), software artifacts (e.g., source code, privacy policies, privacy labels), and user behavior (habits, perceptions, and interactions). Ultimately, my goal is to deliver technical innovations that serve developers, end-users, and regulators, making privacy not only a legal obligation but an integral part of software engineering practice.<br>
 
 1) My work focuses on the privacy policy which bridge the software engineering practices and privacy law compliance, identifying and addressing fundamental challenges of the whole lifecycle of the privacy policy. <br>
 
