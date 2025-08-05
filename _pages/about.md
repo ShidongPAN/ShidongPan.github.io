@@ -18,25 +18,45 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 
 # <i class="fa fa-book fa-fw"></i>  Research #
 
-My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Teal}{\textbf{Usable Privacy and Security}}$, $\color{Purple}{\textbf{Software Engineering}}$, and $\color{Brown}{\textbf{Law}}$. I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant.
-More broadly, my work is driven by the need to translate high-level Responsible AI principles (e.g., privacy) into actionable, practical implementations that work across diverse system contexts.<br>
+My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Teal}{\textbf{Usable Privacy and Security}}$, $\color{Purple}{\textbf{Empirical Software Engineering}}$, $\color{BurntOrange}{\textbf{Human-Computer Interaction}}$, and $\color{Brown}{\textbf{Law}}$. 
 
-A key focus of my research is bridging the gap between various modalities, such as textual privacy regulations, developer practices (both documented and observed), software artifacts (e.g., source code, privacy policies, privacy labels), and user behavior (habits, perceptions, and interactions). Ultimately, my goal is to deliver technical innovations that serve developers, end-users, and regulators, making privacy not only a legal obligation but an integral part of software engineering practice.<br>
+ <b>[Usable Privacy Engineering]</b> Recognizing the inevitable utility-privacy trade-offs in software engineering, I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant. My work aims to integrate privacy requirements into development workflows in ways that support both productivity and regulatory alignment. 
 
-1) My work focuses on the privacy policy which bridge the software engineering practices and privacy law compliance, identifying and addressing fundamental challenges of the whole lifecycle of the privacy policy. <br>
+ <b>[Privacy-as-Code]</b> My research focuses  "Codifying" various modalities related to privacy, such as textual privacy regulations, documented developer practices (e.g., code of conduct), observed developer practices (e.g., code pattern), software artifacts (e.g., source code, privacy policies, privacy labels), and end-user behavior (habits, perceptions, and interactions). The goal is to bridge the gaps between these heterogeneous elements to create cohesive and actionable privacy mechanisms. 
+ 
+ Collectively, my goal is to deliver technical innovations that serve developers, end-users, and regulators, making privacy not only a legal obligation but an integral part of software engineering practice. Specifically, <br>
 
-- *The generation of privacy policies in software engineering process* 
+1) Privacy Documentation in Software Developement Process. <br>
+
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ *Engineering-based Process-aware Privacy Policy Generation* 
   [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[PETS'25](https://arxiv.org/pdf/2501.01131)]
-- *The compliance of privacy policies against privacy laws and regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
-- *The usability of privacy policies and notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Brown}{\textbf{[Law]}}$ *Software and Document Analysis-based Privacy Policy/Privacy Labels Generation*
+  [[arXiv (a)](https://arxiv.org/abs/2306.10923)][[arXiv (b)](https://arxiv.org/abs/2407.15407)]
 
-2) My work investigate methods for implementing Responsible AI principles through algorithmic fairness and transparency, exploring ethical challenges and implications. [[AI&Ethics'24(a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)][[AI&Ethics'24(b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)]
+2) Privacy Measurement of AIware/Software and Its Engineering
+
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$ *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ *The Longtitude Measurement between Software Practices and Privacy Policies* [CCS'25]
+- $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$ *Large Language Models:* Right to be Forgotten [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)]
+
+
+3) Usability of Privacy Documentation
+
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{BurntOrange}{\textbf{[HCI]}}$ *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
+- $\color{Teal}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{BurntOrange}{\textbf{[HCI]}}$ *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
+
+---
+
+While my core focus lies in Usable Privacy Engineering and Privacy-as-Code, I also actively contribute to related fields, especially Software Engineering and Responsible AI, through student mentorship and interdisciplinary collaborations.
+
+- Large Language Models for Software Engineering Tasks: *LLMs for Context-aware Code Generation* [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)], *LLMs for Secure Program Generation* [ICSE' 26], *Vulnerability Textual Description Augmentation and Utilization* [[TSE'25](https://ieeexplore.ieee.org/abstract/document/10817126)][ASEJ'25], and *Program Analysis for Android Applications* [TOSEM'25][[arXiv](https://arxiv.org/pdf/2406.17431)].
+
+- Algorithmic Fairness especially in Large Language Models: LLM Generation Diversity [[arXiv (c)](https://arxiv.org/abs/2505.15229)] and Machine Unlearning and Algorithmic Fairness of LLMs [[AI&E'24 (b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)].
    
-3) My research builds foundational insights into software engineering processes to enhance privacy and security, ultimately.
-- *LLMs for Context-aware Code Generation* [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)]
-- *Vulnerability Textual Description Augmentation and Utilization* [[TSE'25](https://ieeexplore.ieee.org/abstract/document/10817126)]
-- *Program Analysis for Android Applications* [TOSEM'25][[arXiv](https://arxiv.org/pdf/2406.17431)]
+More broadly, in the whole landscape of computer science, my work is driven by the need to translate high-level Responsible AI principles (e.g., privacy) into actionable and practical implementations that work across diverse system contexts.<br>
 
+---
+I am also personally interested in research about Computer Science Education in the AI Era and Online Video Games.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
