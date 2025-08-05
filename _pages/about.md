@@ -26,24 +26,24 @@ My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code
  
  Collectively, my goal is to deliver technical innovations that serve developers, end-users, and regulators, making privacy not only a legal obligation but an integral part of software engineering practice. Specifically, <br>
 
-1) Privacy Documentation in Software Developement Process. <br>
+1) Privacy Documentation in Software Developement Process $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ <br>
 
-- $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ *Engineering-based Process-aware Privacy Policy Generation* 
+-  *Engineering-based Process-aware Privacy Policy Generation* 
   [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[PETS'25](https://arxiv.org/pdf/2501.01131)]
-- $\color{Orange}{\textbf{[UPS]}}$ $\color{Brown}{\textbf{[Law]}}$ *Software and Document Analysis-based Privacy Policy/Privacy Labels Generation*
+-  *Software and Document Analysis-based Privacy Policy/Privacy Labels Generation*
   [[arXiv (a)](https://arxiv.org/abs/2306.10923)][[arXiv (b)](https://arxiv.org/abs/2407.15407)]
 
-2) Privacy Measurement of AIware/Software and Its Engineering
+2) Privacy Measurement of AIware/Software and Its Engineering $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$
 
-- $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$ *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
-- $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ *The Longtitude Measurement between Software Practices and Privacy Policies* [CCS'25]
-- $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$ *Large Language Models:* Right to be Forgotten [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)]
+- $\color{Brown}{\textbf{[Law]}}$ *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
+- *The Longtitude Measurement between Software Practices and Privacy Policies* [CCS'25]
+- *Large Language Models:* Right to be Forgotten [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)]
 
 
-3) Usability of Privacy Documentation
+3) Usability of Privacy Documentation $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Pink}{\textbf{[HCI]}}$
 
-- $\color{Orange}{\textbf{[UPS]}}$ $\color{Pink}{\textbf{[HCI]}}$ *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
-- $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Pink}{\textbf{[HCI]}}$ *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
+- *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
+- *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
 
 ---
 
