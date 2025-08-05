@@ -35,7 +35,7 @@ My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code
 
 2) Privacy Measurement of AIware/Software and Its Engineering $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$
 
-- $\color{Brown}{\textbf{[Law]}}$ *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
+- *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
 - *The Longtitude Measurement between Software Practices and Privacy Policies* [CCS'25]
 - *Large Language Models:* Right to be Forgotten [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)]
 
