@@ -22,6 +22,18 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2025
 <ul>
   <li>
+     <b><em>The Seven-Year Itch</em>: A Chronological Empirical Study of the (In)Compliance between Privacy Policies and Mobile Application from 2017 to 2024</b> <br>
+      <ins><b>Shidong Pan</b></ins>, Mufei Li, Xiaoyu Sun<br>
+      Under major revision.
+  </li>
+  <br>
+  <li>
+     <b><em>When AI Takes the Wheel</em>: Security Analysis of Framework-Constrained Program Generation</b><br>
+      Yue Liu, Zhenchang Xing, <ins><b>Shidong Pan</b></ins>, Kla Tantithamthavorn.<br>
+      Under minor revision.
+  </li>
+  <br>
+  <li>
      <b>Automated Knot Detection and Pairing for Wood Analysis in the Timber Industry</b> <br>
       Guohao Lin, <ins><b>Shidong Pan†</b></ins>, Rasul Khanbayov, Changxi Yang, Ani Khaloian-Sarnaghi, Andriy Kovryga<br>
       <em>32nd International Conference on Neural Information Processing</em> <b> (ICONIP)</b>.<br>
