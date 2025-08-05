@@ -28,6 +28,12 @@ For a more complete list of publications, please refer to my <a href="https://sc
   </li>
   <br>
   <li>
+     <b>Multilingual Prompting for Improving LLM Generation Diversity</b> <br>
+       Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black. <br>
+       Under-review. ArXiv Pre-print. [<a href="https://arxiv.org/abs/2505.15229">Paper</a>]
+  </li>
+  <br>
+  <li>
      <b><em>When AI Takes the Wheel</em>: Security Analysis of Framework-Constrained Program Generation</b><br>
       Yue Liu, Zhenchang Xing, <ins><b>Shidong Pan</b></ins>, Kla Tantithamthavorn.<br>
       Under minor revision.
