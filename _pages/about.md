@@ -18,29 +18,29 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
 
 # <i class="fa fa-book fa-fw"></i>  Research #
 
-My research focuses on <b>Usable Privacy Engineering</b>, and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
+My research focuses on <b>Usable Privacy Engineering</b> and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
 
  <b>[Usable Privacy Engineering]</b> Recognizing the inevitable utility-privacy trade-offs in software engineering, I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant. My work aims to integrate privacy requirements into development workflows in ways that support both productivity and regulatory alignment. 
 
- <b>[Privacy-as-Code]</b> My research focuses  "Codifying" various modalities related to privacy, such as textual privacy regulations, documented developer practices (e.g., code of conduct), observed developer practices (e.g., code pattern), software artifacts (e.g., source code, privacy policies, privacy labels), and end-user behavior (habits, perceptions, and interactions). The goal is to bridge the gaps between these heterogeneous elements to create cohesive and actionable privacy mechanisms. 
+ <b>[Privacy-as-Code]</b> My research also focuses on "Codifying" various modalities related to privacy, such as textual privacy regulations, documented developer practices (e.g., code of conduct), observed developer practices (e.g., code pattern), software artifacts (e.g., source code, privacy policies, privacy labels), and end-user behavior (habits, perceptions, and interactions). The goal is to bridge the gaps between these heterogeneous elements to create cohesive and actionable privacy mechanisms. 
  
  Collectively, my goal is to deliver technical innovations that serve developers, end-users, and regulators, making privacy not only a legal obligation but an integral part of software engineering practice. Specifically, <br>
 
-1) Privacy Documentation in Software Developement Process $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ <br>
+1) Privacy Documentation in Software Developement Process $\color{Orange}{\text{[UPS]}}$ $\color{Purple}{\text{[ESE]}}$ <br>
 
 -  *Engineering-based Process-aware Privacy Policy Generation* 
   [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[PETS'25](https://arxiv.org/pdf/2501.01131)]
 -  *Software and Document Analysis-based Privacy Policy/Privacy Labels Generation*
   [[arXiv (a)](https://arxiv.org/abs/2306.10923)][[arXiv (b)](https://arxiv.org/abs/2407.15407)]
 
-2) Privacy Measurement of AIware/Software and Its Engineering $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Brown}{\textbf{[Law]}}$
+2) Privacy Measurement of AIware/Software and Its Engineering $\color{Orange}{\text{[UPS]}}$ $\color{Purple}{\text{[ESE]}}$ $\color{Brown}{\text{[Law]}}$
 
 - *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
 - *The Longtitude Measurement between Software Practices and Privacy Policies* [CCS'25]
 - *Large Language Models:* Right to be Forgotten [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)]
 
 
-3) Usability of Privacy Documentation $\color{Orange}{\textbf{[UPS]}}$ $\color{Purple}{\textbf{[ESE]}}$ $\color{Pink}{\textbf{[HCI]}}$
+3) Usability of Privacy Documentation $\color{Orange}{\text{[UPS]}}$ $\color{Purple}{\text{[ESE]}}$ $\color{Pink}{\text{[HCI]}}$
 
 - *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
 - *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
