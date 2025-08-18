@@ -22,12 +22,6 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2025
 <ul>
   <li>
-     <b><em>The Seven-Year Itch</em>: A Chronological Empirical Study of the (In)Compliance between Privacy Policies and Mobile Application from 2017 to 2024</b> <br>
-      <ins><b>Shidong Pan</b></ins>, Mufei Li, Xiaoyu Sun<br>
-      Under minor revision.
-  </li>
-  <br>
-  <li>
      <b>Multilingual Prompting for Improving LLM Generation Diversity</b> <br>
        Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black. <br>
        Under-review. ArXiv Pre-print. [<a href="https://arxiv.org/abs/2505.15229">Paper</a>]
