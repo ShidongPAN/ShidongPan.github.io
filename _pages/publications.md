@@ -24,7 +24,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <li>
      <b>Multilingual Prompting for Improving LLM Generation Diversity</b> <br>
        Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black. <br>
-       Under-review. ArXiv Pre-print. [<a href="https://arxiv.org/abs/2505.15229">Paper</a>]
+       <em>The 2025 Conference on Empirical Methods in Natural Language Processing</em> <b> (EMNLP)</b> [<a href="https://arxiv.org/abs/2505.15229">Paper</a>]
   </li>
   <br>
   <li>
@@ -43,7 +43,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <li>
      <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
       <ins><b>Shidong Pan*†</b></ins>, Zhen Tao*, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
-      Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b>, acceptance rate: 20.5% (45/220).
+      Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b>, acceptance rate: 20.5% (45/220).[<a href="https://petsymposium.org/popets/2025/popets-2025-0136.pdf">Paper</a>]
   </li>
 <br>
   <li>
