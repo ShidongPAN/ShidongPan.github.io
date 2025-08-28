@@ -51,7 +51,7 @@ While my core focus lies in Usable Privacy Engineering and Privacy-as-Code, I al
 
 - Large Language Models for Software Engineering Tasks: *LLMs for Context-aware Code Generation* [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)], *LLMs for Secure Program Generation* [ICSE' 26], *Vulnerability Textual Description Augmentation and Utilization* [[TSE'25](https://ieeexplore.ieee.org/abstract/document/10817126)][ASEJ'25], and *Program Analysis for Android Applications* [TOSEM'25][[arXiv](https://arxiv.org/pdf/2406.17431)].
 
-- Algorithmic Fairness especially in Large Language Models: LLM Generation Diversity [[arXiv (c)](https://arxiv.org/abs/2505.15229)] and Machine Unlearning and Algorithmic Fairness of LLMs [[AI&E'24 (b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)].
+- Algorithmic Fairness especially in Large Language Models: LLM Generation Diversity [[EMNLP'25](https://arxiv.org/abs/2505.15229)] and Machine Unlearning and Algorithmic Fairness of LLMs [[AI&E'24 (b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)].
    
 More broadly, in the whole landscape of computer science, my work is driven by the need to translate high-level Responsible AI principles (e.g., privacy) into actionable and practical implementations that work across diverse system contexts.<br>
 
@@ -62,6 +62,8 @@ I am also personally interested in research about Computer Science Education in 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [Aug 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" has been accepted by <b>EMNLP 2025</b>! Congrats to Qihan. The pre-print is available at <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. </li>
+  
   <li> <b> [July 2025]</b> I will be attending The 25th Privacy Enhancing Technologies Symposium in Washington DC, USA July 14-19, 2025!</li>
   
   <li> <b> [June 2025]</b> I will be serving as the Asscociate Chair (AC) of CHI'26 (<a href="https://chi2026.acm.org/">CHI Conference on Human Factors in Computing Systems 2026</a>). Welcome submissions to the Privacy & Security Subcommittee! </li>
