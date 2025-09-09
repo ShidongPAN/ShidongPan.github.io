@@ -23,13 +23,19 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   <li>
      <b>Multilingual Prompting for Improving LLM Generation Diversity</b> <br>
-       Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black. <br>
+       Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black <br>
        <em>The 2025 Conference on Empirical Methods in Natural Language Processing</em> <b> (EMNLP)</b> [<a href="https://arxiv.org/abs/2505.15229">Paper</a>]
   </li>
   <br>
   <li>
+     <b>A Comparative Study of Android Performance Issues in Real-world Applications and Literature</b> <br>
+       Dianshu Liao, <ins><b>Shidong Pan</b></ins>, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun <br>
+       Under minor revision.
+  </li>
+  <br>
+  <li>
      <b><em>When AI Takes the Wheel</em>: Security Analysis of Framework-Constrained Program Generation</b><br>
-      Yue Liu, Zhenchang Xing, <ins><b>Shidong Pan</b></ins>, Kla Tantithamthavorn.<br>
+      Yue Liu, Zhenchang Xing, <ins><b>Shidong Pan</b></ins>, Kla Tantithamthavorn<br>
       Under major revision.
   </li>
   <br>
