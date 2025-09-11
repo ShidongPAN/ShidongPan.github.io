@@ -62,6 +62,9 @@ I am also personally interested in research about Computer Science Education in 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [Aug 2025]</b> Our paper "Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator" has been accepted by <b>ASE 2025</b> Tool Demonstrations Track. Congrats to Haochen and Zhen! </li>
+
+  
   <li> <b> [Aug 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" has been accepted by <b>EMNLP 2025</b>! Congrats to Qihan. The pre-print is available at <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. </li>
   
   <li> <b> [July 2025]</b> I will be attending The 25th Privacy Enhancing Technologies Symposium in Washington DC, USA July 14-19, 2025!</li>
