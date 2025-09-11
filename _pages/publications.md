@@ -21,6 +21,12 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2025
 <ul>
+    <li>
+     <b>Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator</b> <br>
+       Haochen Gong*, Zhen Tao*, <ins><b>Shidong Pan†</b></ins>, Zhenchang Xing, Xiaoyu Sun <br>
+       <em>40th IEEE/ACM International Conference on Automated Software Engineering</em> <b> (ASE)</b> Tool Demonstrations Track. [<a href="https://github.com/buyanghc/PrivScan">Code</a>]  [<a href="https://www.youtube.com/watch?v=ck-25otfyHc">Demo Video</a>] 
+  </li>
+  <br>
   <li>
      <b>Multilingual Prompting for Improving LLM Generation Diversity</b> <br>
        Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black <br>
