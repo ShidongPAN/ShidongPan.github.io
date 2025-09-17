@@ -73,7 +73,7 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   
   <li>
      Mufei Li, M.S. in Computing (Advanced) <br>
-     <strong>[High Distiction Thesis]</strong> <em>Automated Contextual Explainable AI Labels Generation for Mobile Apps.</em><br>
+     <strong>[High Distiction Thesis]</strong> <em>A Chronological Empirical Study of the Privacy Policy Compliance for Android Mobile Applications.</em><br>
   </li>
 
   <li>
