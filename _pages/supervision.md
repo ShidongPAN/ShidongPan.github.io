@@ -159,6 +159,9 @@ I serve as the supervisor/co-supervisor for NYU students who are undertaking res
 ## 2025-present
 
 <ul>
+    <li>
+   Bella Chang, M.S. in Data Science<br>
+  </li>
   <li>
    Venu Gopal, M.S. in Data Science<br>
   </li>
