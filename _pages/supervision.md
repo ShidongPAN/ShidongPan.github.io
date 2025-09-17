@@ -21,7 +21,7 @@ I serve as the co-supervisor for the following PhD students:
 ## [Dianshu Liao](https://dianshu-liao.github.io/>) (Australian National University)
 <strong>Supervisors</strong>: Xiaoyu Sun (P), <strong>Shidong Pan</strong> <br>
 <strong>Research Topics</strong>: Intelligent Software Engineering (SE4AI, AI4SE, LLM4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis). <br>
-<strong>Publications</strong>: [TSE2024](https://ieeexplore.ieee.org/document/10734067), [TKDE2024](https://ieeexplore.ieee.org/document/10750898), [TOSEM2023](https://dl.acm.org/doi/10.1145/3597206)
+<strong>Publications</strong>: [ASE25][TOSEM25][[TSE24](https://ieeexplore.ieee.org/document/10734067)]
 
 ## Meixue Si (Renmin University)
 <strong>Supervisors</strong>: Wenchang Shi (P), <strong>Shidong Pan</strong> <br>
@@ -30,19 +30,29 @@ I serve as the co-supervisor for the following PhD students:
 ## [Linyi Han](https://hanlinyi.github.io/page//) (Tianjin University)
 <strong>Supervisors</strong>: Xiaowang Zhang (P), Zhenchang Xing, <strong>Shidong Pan</strong> <br>
 <strong>Research Topics</strong>: Software Engineering, Vulnerability Management, Machine Learning. To improve vulnerability identification and management in software development through machine learning and LLMs, focusing on vulnerability analysis and information management. <br>
-<strong>Publications</strong>: [TSE2025](https://arxiv.org/pdf/2405.07430)
+<strong>Publications</strong>: [[TSE25](https://arxiv.org/pdf/2405.07430)]
 
 ## [Zhen Tao](https://scholar.google.com.au/citations?hl=en&user=hZLK9jAAAAAJ) (Technical University of Munich)
 <strong>Supervisors</strong>: Chunyang Chen (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
 <strong>Research Topics</strong>: Privcay Policy, AI-based Software Privacy Analysis, AI Law and Regulation. <br>
-<strong>Publications</strong>: [PETS2025](https://petsymposium.org/popets/2025/popets-2025-0136.pdf)
+<strong>Publications</strong>: [[PETS25](https://petsymposium.org/popets/2025/popets-2025-0136.pdf)] [ASE25]
 <br>
 
 # <i class="fa fa-fw fa-copy"></i> Australian National University
 
 I serve as the supervisor/co-supervisor for ANU students who are undertaking final year research projects:
 
-## 2024-present
+## 2025-present
+
+<ul>
+  <li>
+    Lanping Hu B.S. in Advanced Computing (Honours).<br>
+  </li>
+  
+</ul>
+
+
+## 2024-2025
 
 <ul>
   <li>
@@ -62,7 +72,8 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   </li>
   
   <li>
-     Mufei Li, M.S. in Computing (Advanced) 
+     Mufei Li, M.S. in Computing (Advanced) <br>
+     <strong>[High Distiction Thesis]</strong> <em>Automated Contextual Explainable AI Labels Generation for Mobile Apps.</em><br>
   </li>
 
   <li>
@@ -110,12 +121,13 @@ I serve as the supervisor/co-supervisor for ANU students who are undertaking fin
   </li>
   
    <li>
-    Yichi Zhang, B.S. in Advanced Computing (Honours). Uncompleted the project and changed to another supervisor.<br>
+    Yichi Zhang, B.S. in Advanced Computing (Honours). Uncompleted project.<br>
   </li>
 
    <li>
     Yikai Ge, B.S. in Advanced Computing (Honours), co-supervised with <a href="https://sunxiaobiu.github.io/">Xiaoyu Sun</a>.<br>
     <strong>[High Distiction Thesis]</strong> <em> An Empirical Study of Privacy Risks in Android Task-executable Voice Assistants</em><br>
+     ->  Master of Computer Science, Washington University in St. Louis, USA.
   </li>
   
   <li>
@@ -150,14 +162,12 @@ I serve as the supervisor/co-supervisor for NYU students who are undertaking res
   <li>
    Venu Gopal, M.S. in Data Science<br>
   </li>
-  <li>
-   Haris Naveed, M.S. in Data Science <br>
-  </li>
     <li>
    Qihan Wang, M.S. in Data Science, co-supervised with <a href="https://emblack.github.io/">Emily Black</a>.<br>
+  <strong>Publications</strong>: [[EMNLP25](https://arxiv.org/pdf/2505.15229)]
   </li>
   <li>
-   Chuhan Ku, B.S. in Computer Science<br>
+   Chuhan Ku, M.S. in Data Science<br>
   </li>
 </ul>
 
