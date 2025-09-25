@@ -62,6 +62,8 @@ I am also personally interested in research about Computer Science Education in 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b> [Sep 2025]</b> Our paper "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" has been accepted by <b>ASE 2025</b>. Congrats to <a href="https://dianshu-liao.github.io/"> Dianshu Liao </a> ! </li>
+  
   <li> <b> [Sep 2025]</b> Our paper "Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator" has been accepted by <b>ASE 2025</b> Tool Demonstrations Track. Congrats to Haochen and Zhen! </li>
 
   
