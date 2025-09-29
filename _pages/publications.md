@@ -26,7 +26,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <li>
      <b>A First Look at Privacy Risks of Android Task-executable Voice Assistant Applications</b> <br>
       <ins><b>Shidong Pan</b></ins>, Yikai Ge, Xiaoyu Sun <br>
-       <em>32nd Asia-Pacific Software Engineering Conference (APSEC)</em> <b> (ASE)</b> 
+       <em>32nd Asia-Pacific Software Engineering Conference </em> <b> (APSEC)</b> 
 </li>
 
 <br>
