@@ -80,6 +80,7 @@ table.imgtable, table.imgtable td{
         Carnegie Mellon University <br>
         University of Washington <br>
         University of Central Florida <br>
+        George Washington University <br>
       </p>
     </td>
   </tr>
