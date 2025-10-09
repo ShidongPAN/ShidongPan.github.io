@@ -21,7 +21,12 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2025
 <ul>
-
+  <li>
+     <b>A Comparative Study of Android Performance Issues in Real-world Applications and Literature</b> <br>
+       Dianshu Liao, <ins><b>Shidong Pan</b></ins>, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun <br>
+       <em>ACM Transactions on Software Engineering and Methodology</em> <b>(TOSEM)</b>. [<a href="https://arxiv.org/pdf/2407.05090">Paper</a>]
+  </li>
+  <br>
   
 <li>
      <b>A First Look at Privacy Risks of Android Task-executable Voice Assistant Applications</b> <br>
@@ -49,12 +54,6 @@ For a more complete list of publications, please refer to my <a href="https://sc
      <b>Multilingual Prompting for Improving LLM Generation Diversity</b> <br>
        Qihan Wang, <ins><b>Shidong Pan</b></ins>, Tal Linzen, Emily Black <br>
        <em>The 2025 Conference on Empirical Methods in Natural Language Processing</em> <b> (EMNLP)</b> [<a href="https://arxiv.org/abs/2505.15229">Paper</a>]
-  </li>
-  <br>
-  <li>
-     <b>A Comparative Study of Android Performance Issues in Real-world Applications and Literature</b> <br>
-       Dianshu Liao, <ins><b>Shidong Pan</b></ins>, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun <br>
-       Under minor revision.
   </li>
   <br>
   <li>
