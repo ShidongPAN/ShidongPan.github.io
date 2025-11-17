@@ -65,7 +65,7 @@ I am also personally interested in research about Computer Science Education in 
 
   <li> <b> [Oct 2025]</b> Our paper "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents" has been accepted by <b>AAAI 2025</b>. Congrats to Zhixin Lin! TL;DR: We present the first large-scale benchmark encompassing 7,138 various privacy contexts in smartphone agent scenario. The pre-print is available at <a href="https://arxiv.org/abs/2508.19493"> arXiv</a>. </li>
 
-    <li> <b> [Oct 2025]</b> Our paper "When AI Takes the Wheel: Security Analysis of Framework-Constrained Program Generation" has been accepted by <b>ICSE 2026</b>. TL;DR: LLMs can generate full Chrome extensions from natural language prompts, but they frequently violate framework security rules—producing vulnerable programs in up to half of all cases. The pre-print is available at <a href="https://arxiv.org/pdf/2510.16823"> arXiv</a>. </li>
+  <li> <b> [Oct 2025]</b> Our paper "When AI Takes the Wheel: Security Analysis of Framework-Constrained Program Generation" has been accepted by <b>ICSE 2026</b>. TL;DR: LLMs can generate full Chrome extensions from natural language prompts, but they frequently violate framework security rules, producing vulnerable programs in up to half of all cases. The pre-print is available at <a href="https://arxiv.org/pdf/2510.16823"> arXiv</a>. </li>
   
   <li> <b> [Sep 2025]</b> Our paper "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" has been accepted by <b>ASE 2025</b>. Congrats to <a href="https://dianshu-liao.github.io/"> Dianshu Liao </a> ! </li>
   
