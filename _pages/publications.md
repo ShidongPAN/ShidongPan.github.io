@@ -23,18 +23,20 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   <li>
      <b><em>Mind the Third Eye</em>! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents</b><br>
-      Zhixin Lin, Jungang Li, <ins><b>Shidong Pan†</b></ins>, Yibo Shi, Yue Yao, Dongliang Xu<br>
-      <em>The 40th Annual AAAI Conference on Artificial Intelligence</em> <b>(AAAI)</b>. 
+      Zhixin Lin, Jungang Li, <ins><b>Shidong Pan†</b></ins>, Yibo Shi, Yue Yao, Dongliang Xu <br>
+      <em>The 40th Annual AAAI Conference on Artificial Intelligence</em> <b>(AAAI)</b>. [<a href="https://arxiv.org/abs/2508.19493">Paper</a>] [<a href="https://zhixin-l.github.io/SAPA-Bench/">Project Page</a>]
+
+    
   </li>
   <br>
   
-    <li>
+  <li>
      <b><em>When AI Takes the Wheel</em>: Security Analysis of Framework-Constrained Program Generation</b><br>
       Yue Liu, Zhenchang Xing, <ins><b>Shidong Pan†</b></ins>, Kla Tantithamthavorn<br>
-      <em>The 48th IEEE/ACM International Conference on Software Engineering</em> <b>(ICSE)</b>. 
+      <em>The 48th IEEE/ACM International Conference on Software Engineering</em> <b>(ICSE)</b>. [<a href="https://arxiv.org/abs/2510.16823">Paper</a>]
   </li>
   <br>
-  
+
   <li>
      <b>A Comparative Study of Android Performance Issues in Real-world Applications and Literature</b> <br>
        Dianshu Liao, <ins><b>Shidong Pan</b></ins>, Siyuan Yang, Yanjie Zhao, Zhenchang Xing, Xiaoyu Sun <br>
