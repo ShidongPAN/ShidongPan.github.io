@@ -21,10 +21,17 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2025
 <ul>
+  <li>
+     <b><em>Mind the Third Eye</em>! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents</b><br>
+      Zhixin Lin, Jungang Li, <ins><b>Shidong Pan†</b></ins>, Yibo Shi, Yue Yao, Dongliang Xu<br>
+      <em>The 40th Annual AAAI Conference on Artificial Intelligence</em> <b>(AAAI)</b>. 
+  </li>
+  <br>
+  
     <li>
      <b><em>When AI Takes the Wheel</em>: Security Analysis of Framework-Constrained Program Generation</b><br>
       Yue Liu, Zhenchang Xing, <ins><b>Shidong Pan†</b></ins>, Kla Tantithamthavorn<br>
-      <em>48th IEEE/ACM International Conference on Software Engineering</em> <b>(ICSE)</b>. 
+      <em>The 48th IEEE/ACM International Conference on Software Engineering</em> <b>(ICSE)</b>. 
   </li>
   <br>
   
@@ -38,7 +45,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <li>
      <b>A First Look at Privacy Risks of Android Task-executable Voice Assistant Applications</b> <br>
       <ins><b>Shidong Pan</b></ins>, Yikai Ge, Xiaoyu Sun <br>
-       <em>32nd Asia-Pacific Software Engineering Conference </em> <b> (APSEC)</b> [<a href="https://arxiv.org/pdf/2509.23680">Paper</a>]
+       <em>The 32nd Asia-Pacific Software Engineering Conference </em> <b> (APSEC)</b> [<a href="https://arxiv.org/pdf/2509.23680">Paper</a>]
 </li>
 
 <br>
@@ -46,7 +53,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <li>
      <b>Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models</b> <br>
       Dianshu Liao, Xin Yin, <ins><b>Shidong Pan</b></ins>, Chao Ni, Zhenchang Xing, Xiaoyu Sun <br>
-       <em>40th IEEE/ACM International Conference on Automated Software Engineering</em> <b> (ASE)</b> 
+       <em>The 40th IEEE/ACM International Conference on Automated Software Engineering</em> <b> (ASE)</b> 
 </li>
 
 <br>
@@ -54,7 +61,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <li>
      <b>Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator</b> <br>
        Haochen Gong*, Zhen Tao*, <ins><b>Shidong Pan†</b></ins>, Zhenchang Xing, Xiaoyu Sun <br>
-       <em>40th IEEE/ACM International Conference on Automated Software Engineering</em> <b> (ASE)</b> Tool Demonstrations Track. [<a href="https://github.com/buyanghc/PrivScan">Code</a>]  [<a href="https://www.youtube.com/watch?v=ck-25otfyHc">Demo Video</a>] 
+       <em>The 40th IEEE/ACM International Conference on Automated Software Engineering</em> <b> (ASE)</b> Tool Demonstrations Track. [<a href="https://github.com/buyanghc/PrivScan">Code</a>]  [<a href="https://www.youtube.com/watch?v=ck-25otfyHc">Demo Video</a>] 
   </li>
   <br>
   <li>
@@ -66,7 +73,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <li>
      <b>Automated Knot Detection and Pairing for Wood Analysis in the Timber Industry</b> <br>
       Guohao Lin, <ins><b>Shidong Pan†</b></ins>, Rasul Khanbayov, Changxi Yang, Ani Khaloian-Sarnaghi, Andriy Kovryga<br>
-      <em>32nd International Conference on Neural Information Processing</em> <b> (ICONIP)</b>.<br>
+      <em>The 32nd International Conference on Neural Information Processing</em> <b> (ICONIP)</b>.<br>
       This work was an <a href="https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/interdisciplinary-project/"> Interdisciplinary Project</a> with Wood Technology Group at Technical University of Munich. 
   </li>
   <br>
