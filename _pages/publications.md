@@ -22,8 +22,16 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2025
 <ul>
   <li>
+     <b><em>Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions</b><br>
+      Linyi Han, <ins><b>Shidong Pan*†</b></ins>, Zhenchang Xing, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng, Jiamou Sun, Qing Huang <br>
+      <em>Springer, Automated Software Engineering Journal</em> <b>(ASEJ)</b>. 
+  </li>
+  <br>
+
+  
+  <li>
      <b><em>Mind the Third Eye</em>! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents</b><br>
-      Zhixin Lin, Jungang Li, <ins><b>Shidong Pan†</b></ins>, Yibo Shi, Yue Yao, Dongliang Xu <br>
+      Zhixin Lin, Jungang Li, <ins><b>Shidong Pan</b></ins>, Yibo Shi, Yue Yao, Dongliang Xu <br>
       <em>The 40th Annual AAAI Conference on Artificial Intelligence</em> <b>(AAAI)</b>. [<a href="https://arxiv.org/abs/2508.19493">Paper</a>] [<a href="https://zhixin-l.github.io/SAPA-Bench/">Project Page</a>]
 
     
