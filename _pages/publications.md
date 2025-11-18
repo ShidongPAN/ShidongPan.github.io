@@ -22,7 +22,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2025
 <ul>
   <li>
-     <b><em>Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions</b><br>
+     <b>Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions</b><br>
       Linyi Han*, <ins><b>Shidong Pan*†</b></ins>, Zhenchang Xing, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng, Jiamou Sun, Qing Huang <br>
       <em>Automated Software Engineering Journal, Springer</em> <b>(ASEJ)</b>. 
   </li>
