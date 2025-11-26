@@ -23,19 +23,19 @@ I serve as the co-supervisor for the following PhD students:
 <strong>Research Topics</strong>: Intelligent Software Engineering (SE4AI, AI4SE, LLM4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis). <br>
 <strong>Publications</strong>: [ASE25][TOSEM25][[TSE24](https://ieeexplore.ieee.org/document/10734067)]
 
-## Meixue Si (Renmin University)
-<strong>Supervisors</strong>: Wenchang Shi (P), <strong>Shidong Pan</strong> <br>
+## Meixue Si (Visiting PhD at UNSW, Renmin University)
+<strong>Supervisors</strong>: Wenchang Shi (P), <strong>Shidong Pan</strong>, Zhenchang Xing<br>
 <strong>Research Topics</strong>: Usable Privacy and Security, Privacy Regulations, Privacy Notices, Empirical Software Engineering. <br>
 
 ## [Linyi Han](https://hanlinyi.github.io/page//) (Tianjin University)
 <strong>Supervisors</strong>: Xiaowang Zhang (P), Zhenchang Xing, <strong>Shidong Pan</strong> <br>
 <strong>Research Topics</strong>: Software Engineering, Vulnerability Management, Machine Learning. To improve vulnerability identification and management in software development through machine learning and LLMs, focusing on vulnerability analysis and information management. <br>
-<strong>Publications</strong>: [[TSE25](https://arxiv.org/pdf/2405.07430)]
+<strong>Publications</strong>: [[TSE25](https://arxiv.org/pdf/2405.07430)] [[ASEJ25](https://arxiv.org/abs/2511.16123)] 
 
 ## [Zhen Tao](https://scholar.google.com.au/citations?hl=en&user=hZLK9jAAAAAJ) (Technical University of Munich)
 <strong>Supervisors</strong>: Chunyang Chen (P), <strong>Shidong Pan</strong>, Zhenchang Xing <br>
 <strong>Research Topics</strong>: Privcay Policy, AI-based Software Privacy Analysis, AI Law and Regulation. <br>
-<strong>Publications</strong>: [[PETS25](https://petsymposium.org/popets/2025/popets-2025-0136.pdf)] [ASE25]
+<strong>Publications</strong>: [[PETS25](https://petsymposium.org/popets/2025/popets-2025-0136.pdf)] [[ASE25](https://arxiv.org/abs/2509.22900)]   
 <br>
 
 # <i class="fa fa-fw fa-copy"></i> Australian National University
