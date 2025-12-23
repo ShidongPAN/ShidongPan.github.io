@@ -18,20 +18,24 @@ table.imgtable, table.imgtable td{
 For a more complete list of publications, please refer to my <a href="https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en">Google Scholar</a> page.<br>
 \* denotes co-first authors, † denotes corresponding author/project lead.
 
-
-## 2025
+## 2026
 <ul>
     <li>
      <b>Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation</b><br>
-      <ins><b>Shidong Pan*</b></ins>, Tianyi Zhang*, Zejun Zhang, Zhenchang Xing, Xiaoyu Sun <br>
-      <em>The ACM International Conference on the Foundations of Software Engineering (FSE 2026)</em> <b>(ASEJ)</b>. 
+      <ins><b>Shidong Pan*†</b></ins>, Tianyi Zhang*, Zejun Zhang, Zhenchang Xing, Xiaoyu Sun <br>
+      <em>The ACM International Conference on the Foundations of Software Engineering </em> <b>(FSE) 2026</b>. [<a href="https://arxiv.org/abs/2506.05623">Paper</a>]
   </li>
   <br>
+</ul>
+
+## 2025
+<ul>
+
   
   <li>
      <b>Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions</b><br>
       Linyi Han*, <ins><b>Shidong Pan*</b></ins>, Zhenchang Xing, Sofonias Yitagesu, Xiaowang Zhang†, Zhiyong Feng, Jiamou Sun, Qing Huang <br>
-      <em>Automated Software Engineering Journal, Springer</em> <b>(ASEJ)</b>. 
+      <em>Automated Software Engineering Journal, Springer</em> <b>(ASEJ)</b>. [<a href="https://arxiv.org/abs/2511.16123">Paper</a>] 
   </li>
   <br>
 
