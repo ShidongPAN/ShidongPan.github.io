@@ -28,6 +28,17 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <br>
 </ul>
 
+<ul>
+    <li>
+     <b>A Longitudinal Measurement of Privacy Policy Evolution for Large Language Models</b><br>
+      Zhen Tao, <ins><b>Shidong Pan†</b></ins>, Zhenchang Xing, Emily Black, Talia Gillis, Chunyang Chen<br>
+      <em>ArXiv</em>. [<a href="https://arxiv.org/abs/2511.21758">Paper</a>]
+  </li>
+  <br>
+</ul>
+
+
+
 ## 2025
 <ul>
   
