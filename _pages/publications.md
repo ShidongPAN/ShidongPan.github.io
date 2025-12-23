@@ -23,14 +23,20 @@ For a more complete list of publications, please refer to my <a href="https://sc
     <li>
      <b>Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation</b><br>
       <ins><b>Shidong Pan*†</b></ins>, Tianyi Zhang*, Zejun Zhang, Zhenchang Xing, Xiaoyu Sun <br>
-      <em>The ACM International Conference on the Foundations of Software Engineering </em> <b>(FSE) 2026</b>. [<a href="https://arxiv.org/abs/2506.05623">Paper</a>]
+      <em>The ACM International Conference on the Foundations of Software Engineering </em> <b>(FSE)</b>. [<a href="https://arxiv.org/abs/2506.05623">Paper</a>]
   </li>
   <br>
 </ul>
 
 ## 2025
 <ul>
-
+  
+  <li>
+     <b><em>JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models</b><br>
+     Dianshu Liao, Xin Yin, <ins><b>Shidong Pan</b></ins>, Chao Ni, Zhenchang Xing, Xiaoyu Sun <br>
+      <em>The 48th IEEE/ACM International Conference on Software Engineering</em> <b>(ICSE)</b> Demonstrations Track. [<a href="https://arxiv.org/abs/2510.16823">Paper</a>]
+  </li>
+  <br>
   
   <li>
      <b>Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions</b><br>
