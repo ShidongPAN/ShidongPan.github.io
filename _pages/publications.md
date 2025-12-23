@@ -22,7 +22,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
     <li>
      <b>Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation</b><br>
-      <ins><b>Shidong Pan*†</b></ins>, Tianyi Zhang*, Zejun Zhang, Zhenchang Xing, Xiaoyu Sun <br>
+      <ins><b>Shidong Pan*</b></ins>, Tianyi Zhang*, Zejun Zhang, Zhenchang Xing, Xiaoyu Sun <br>
       <em>The ACM International Conference on the Foundations of Software Engineering </em> <b>(FSE)</b>. [<a href="https://arxiv.org/abs/2506.05623">Paper</a>]
   </li>
   <br>
@@ -110,7 +110,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <br>
   <li>
      <b>Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development</b> <br>
-      <ins><b>Shidong Pan*†</b></ins>, Zhen Tao*, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
+      <ins><b>Shidong Pan*</b></ins>, Zhen Tao*, Zhenchang Xing, Xiaoyu Sun, Omar Haggag, John Grundy, Jingjie Li, Liming Zhu <br>
       Proceedings of <em>Privacy Enhancing Technologies Symposium</em> <b> (PoPETs/PETS)</b>, acceptance rate: 20.5% (45/220).[<a href="https://petsymposium.org/popets/2025/popets-2025-0136.pdf">Paper</a>]
   </li>
 <br>
@@ -149,7 +149,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   <li>
   <b>Repo2Label: Regulation Driven Privacy Labels for Generative AI-based Applications</b><br>
-  <ins><b>Shidong Pan*†</b></ins>, Meixue Si*, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
+  <ins><b>Shidong Pan*</b></ins>, Meixue Si*, Dianshu Liao, Xiaoyu Sun, Zhen Tao, Wenchang Shi, Zhenchang Xing<br>
   ArXiv Pre-print
   [<a href="https://arxiv.org/abs/2405.07430">Paper</a>]
   </li>
