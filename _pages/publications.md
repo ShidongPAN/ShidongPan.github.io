@@ -39,7 +39,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
 <ul>
   
   <li>
-     <b><em>JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models</b><br>
+     <b>JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models</b><br>
      Dianshu Liao, Xin Yin, <ins><b>Shidong Pan</b></ins>, Chao Ni, Zhenchang Xing, Xiaoyu Sun <br>
       <em>The 48th IEEE/ACM International Conference on Software Engineering</em> <b>(ICSE)</b> Demonstrations Track.
   </li>
