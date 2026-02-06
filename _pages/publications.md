@@ -21,6 +21,12 @@ For a more complete list of publications, please refer to my <a href="https://sc
 ## 2026
 <ul>
     <li>
+     <b>Environmental, Social, and Governance (ESG) Reporting Lifecycle Management with Large Language Models and AI Agents</b><br>
+      Thong Hoang, Mykhailo Klymenko, Xiwei Xu, <ins><b>Shidong Pan</b></ins>, Yi Ding, Xushuo Tang, Zhengyi Yang, Jieke Shi and David Lo <br>
+      <em>The International Conference on Software Architecture </em> <b> (ICSA) </b> Software Architecture in Practice.
+  </li>
+   <br>
+    <li>
      <b>Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation</b><br>
       <ins><b>Shidong Pan*</b></ins>, Tianyi Zhang*, Zejun Zhang, Zhenchang Xing, Xiaoyu Sun <br>
       <em>The ACM International Conference on the Foundations of Software Engineering </em> <b>(FSE)</b>. [<a href="https://arxiv.org/abs/2506.05623">Paper</a>]
