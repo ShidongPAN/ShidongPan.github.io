@@ -23,7 +23,7 @@ I serve as the co-supervisor for the following PhD students:
 <strong>Research Topics</strong>: Intelligent Software Engineering (SE4AI, AI4SE, LLM4SE), Knowledge Graphs, and Mobile Software Engineering (i.e., Android performance analysis). <br>
 <strong>Publications</strong>: [ASE25][TOSEM25][[TSE24](https://ieeexplore.ieee.org/document/10734067)]
 
-## Meixue Si (Visiting PhD at UNSW, Renmin University)
+## Meixue Si (Visiting PhD at UNSW Sydney)
 <strong>Supervisors</strong>: Wenchang Shi (P), <strong>Shidong Pan</strong>, Zhenchang Xing<br>
 <strong>Research Topics</strong>: Usable Privacy and Security, Privacy Regulations, Privacy Notices, Empirical Software Engineering. <br>
 
