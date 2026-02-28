@@ -10,17 +10,24 @@ redirect_from:
 # About Me #
 I am Shidong Pan :)
 
-I am a postdoctoral researcher at the Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated). Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61, advised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/). I was also co-supervised by [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu) and [Mark Staples](https://markstaples.com/). <br>
+I am a postdoctoral researcher at the Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated). Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
 
-Email: Shidong[dot]Pan[at]nyu[dot]edu OR sp4471[at]columbia[dot]edu
+I am broadly interested in Usable Privacy and Security, Software Engineering, Responsible AI, and Human-Computer Interaction.
 
-# Research #
+Email: Shidong[dot]Pan[at]nyu[dot]edu
 
-My research focuses on <b>Usable Privacy Engineering</b> and <b>Privacy-as-Code</b>, situated at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
+# Research Interests #
+
+My research focuses on Usable Privacy Engineering, situated at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
 
  <b>[Usable Privacy Engineering]</b> Recognizing the inevitable utility-privacy trade-offs in software engineering, I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant. My work aims to integrate privacy requirements into development workflows in ways that support both productivity and regulatory alignment. 
 
  <b>[Privacy-as-Code]</b> My research also focuses on "Codifying" various modalities related to privacy, such as textual privacy regulations, documented developer practices (e.g., code of conduct), observed developer practices (e.g., code pattern), software artifacts (e.g., source code, privacy policies, privacy labels), and end-user behavior (habits, perceptions, and interactions). The goal is to bridge the gaps between these heterogeneous elements to create cohesive and actionable privacy mechanisms. 
+
+ <b>[AIware Infrastructure]</b>
+I further investigate privacy and security challenges in emerging AI-native infrastructures, including AI agents, tool-augmented LLM systems (e.g., skills), AI application markets, and cloud-based AI platforms (e.g., AWS). My goal is to design engineering frameworks that embed/verify privacy and security policies directly into AI agent skills, infrastructure-as-code configurations, and cloud deployment pipelines.
+
+# Research Projects #
  
  Collectively, my goal is to deliver technical innovations that serve developers, end-users, and regulators, making privacy not only a legal obligation but an integral part of software engineering practice. Specifically, <br>
 
@@ -54,7 +61,12 @@ While my core focus lies in Usable Privacy Engineering and Privacy-as-Code, I al
 More broadly, in the whole landscape of computer science, my work is driven by the need to translate high-level Responsible AI principles (e.g., privacy) into actionable and practical implementations that work across diverse system contexts.<br>
 
 ---
-I am also personally interested in research about Computer Science Education in the AI Era and Online Video Games.
+I am also personally interested in research about Computer Science Education (esp. in the AI Era), Internet Governance, and Online Video Games.
+
+# Working Experience #
+
+* Postdoctoral Research Fellow, Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated), 2025 -
+  + Advisor: Emily Black and Talia Gillis
 
 # Education #
 
