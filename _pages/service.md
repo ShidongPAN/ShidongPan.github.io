@@ -12,7 +12,8 @@ author_profile: true
 ## <i class="fa fa-fw fa-copy"></i> Program Committee
 
 <strong>WWW 2025</strong>. The ACM Web Conference 2025, Security Track <br>
-<strong>ASE 2025</strong>. 40th IEEE/ACM International Conference on Automated Software Engineering <br>
+<strong>ASE 2025</strong>, <strong>ASE 2026</strong>. IEEE/ACM International Conference on Automated Software Engineering <br>
+<strong>ICSE 2027</strong>. The 49th IEEE/ACM International Conference on Software Engineering <br>
 
 ## <i class="fa fa-fw fa-copy"></i> Conference Reviewer/sub-Reviewer
 
