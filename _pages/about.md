@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 # About Me #
-I am Shidong Pan :)
+I am Shidong Pan :) I am on the faculty job market.
 
-I am a postdoctoral researcher at the Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated). Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
+I was a postdoctoral researcher at the Center for Data Science at New York University. Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
 
 I am broadly interested in Usable Privacy and Security, Software Engineering, Responsible AI, and Human-Computer Interaction.
 
