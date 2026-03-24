@@ -20,6 +20,12 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2026
 <ul>
+  <li>
+     <b>From Procedures to Peril: Towards Risk Transparency in Data Privacy Communication</b><br>
+      Nico Ebert, Simone Fischer-Hübner, Soheil Human, Agnieszka Kitkowska, Konrad Kollnig, Jelena Mitrovic, \underline{\textbf{Shidong Pan}}, Thierry Schaltegger, Florian Schaub, Daniel Smullen, Lu Xian. <br>
+      <em>Telecommunications Policy. </em> (JCR Q1) 
+  </li>
+   <br>
     <li>
      <b>Environmental, Social, and Governance (ESG) Reporting Lifecycle Management with Large Language Models and AI Agents</b><br>
       Thong Hoang, Mykhailo Klymenko, Xiwei Xu, <ins><b>Shidong Pan</b></ins>, Yi Ding, Xushuo Tang, Zhengyi Yang, Jieke Shi and David Lo <br>
