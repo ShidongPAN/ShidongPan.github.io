@@ -18,7 +18,9 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu
 
 # Research Interests #
 
-My research focuses on Usable Privacy Engineering, situated at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
+My research directly targets on the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks.
+
+My research situates at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
 
  <b>[Usable Privacy Engineering]</b> Recognizing the inevitable utility-privacy trade-offs in software engineering, I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant. My work aims to integrate privacy requirements into development workflows in ways that support both productivity and regulatory alignment. 
 
@@ -42,13 +44,13 @@ I further investigate privacy and security challenges in emerging AI-native infr
 
 - *Compliance of Privacy Policies against Privacy Laws and Regulations* [[SEC'24 (a)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)][[IST'25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964855)]
 - *The Longtitude Measurement between Software Practices and Privacy Policies*
-- *Large Language Models:* Right to be Forgotten [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)]
+- *Privacy about Large Language Models and Agents [[AI&E'24 (a)](https://link.springer.com/article/10.1007/s43681-024-00573-9)][AAAI'26]
 
 
 3) Usability of Privacy Documentation $\color{Orange}{\text{[UPS]}}$ $\color{Purple}{\text{[ESE]}}$ $\color{Pink}{\text{[HCI]}}$
 
-- *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>]
-- *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)]
+- *New Approaches/Solutions of Usable Privacy Notices* [[SEC'24 (b)](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)] [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>] [ASE'25] [Telecommunications Policy'26]
+- *Usability Measurement and Evaluation of Existing Approaches* [[S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)][ICSA'26]
 
 ---
 
