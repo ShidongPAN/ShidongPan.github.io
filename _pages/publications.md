@@ -20,6 +20,12 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2026
 <ul>
+    <li>
+     <b>VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection</b><br>
+      Xiaobin Hu, Enpu zuo, Lanping Hu, Kaiwen Yang, Dianshu Liao, Tianyi Zhang, Bo Yin, Yinsi Zhou, <ins><b>Shidong Pan†</b></ins>, Xiaoyu Sun†. <br>
+      <em>International Conference on Machine Learning (ICML) </em> 
+  </li>
+   <br>
   <li>
      <b>From Procedures to Peril: Towards Risk Transparency in Data Privacy Communication</b><br>
       Nico Ebert, Simone Fischer-Hübner, Soheil Human, Agnieszka Kitkowska, Konrad Kollnig, Jelena Mitrovic, <ins><b>Shidong Pan</b></ins>, Thierry Schaltegger, Florian Schaub, Daniel Smullen, Lu Xian. <br>
