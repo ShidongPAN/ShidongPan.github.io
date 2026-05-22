@@ -62,7 +62,7 @@ table.imgtable, table.imgtable td{
 <ul>
 
 <li> 
-_User-Centered and Regulation-Driven Privacy Enhancements in Software Engineering_, University of Edinburgh, 2024S1, INFR11158/INFR11230, USEC: Usable Security and Privacy, by Dr. Jingjie Li [<a href="https://ShidongPAN.github.io/_pages/papers/guest_lecturer_Edingburgh.pdf" target="_blank">Slides</a>] 
+User-Centered and Regulation-Driven Privacy Enhancements in Software Engineering, University of Edinburgh, INFR11158/INFR11230, USEC: Usable Security and Privacy, 2024S1.  Invited by Dr. Jingjie Li [<a href="https://ShidongPAN.github.io/_pages/papers/guest_lecturer_Edingburgh.pdf" target="_blank">Slides</a>] 
 </li>
 
 <li>
