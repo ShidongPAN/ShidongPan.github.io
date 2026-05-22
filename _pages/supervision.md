@@ -14,9 +14,9 @@ table.imgtable, table.imgtable td{
 
 </style>
 
-# <i class="fa fa-fw fa-copy"></i> PhD Supervision
+# <i class="fa fa-fw fa-copy"></i> PhD Co-Mentorship
 
-I serve as the co-supervisor for the following PhD students:
+I provide close research mentorship for the following PhD students in collaboration with their primary supervisors
 
 ## [Dianshu Liao](https://dianshu-liao.github.io/>) (Australian National University)
 <strong>Supervisors</strong>: Xiaoyu Sun (P), <strong>Shidong Pan</strong> <br>
@@ -41,6 +41,18 @@ I serve as the co-supervisor for the following PhD students:
 # <i class="fa fa-fw fa-copy"></i> Australian National University
 
 I serve as the supervisor/co-supervisor for ANU students who are undertaking final year research projects:
+
+## 2026 - Present
+
+<ul>
+  <li>
+    Asheley Zhu. M.S. in Computer Science. <br>
+  </li>
+  <li>
+    Litian Wang. M.S. in Machine Learning and Computer Vision. 
+  </li>
+</ul>
+
 
 ## 2025-present
 
