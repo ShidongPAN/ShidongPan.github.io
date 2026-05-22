@@ -18,9 +18,9 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu
 
 # Research Interests #
 
-My research lies at the intersection of Usable  <b>Privacy \& Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
+My research lies at the intersection of Usable  <b>Privacy & Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
 I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information. 
-My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S\&P, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, AAAI) venues.
+My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, AAAI) venues.
 
 <b>Research Question</b>: How to tackle the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks?
 
@@ -30,40 +30,27 @@ My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S\&P, PET
 
  <b>[Privacy in AI-Infra]</b> I further investigate privacy and security challenges in emerging AI-native infrastructures, including mobile agents, agent-skill ecosystem, AI application markets, and cloud-based AI platforms (e.g., AWS). 
 
+I am also personally interested in research about AI in Computer Science Education and Online Video Games.
 
-
----
-
-While my core focus lies in Usable Privacy Engineering and Privacy-as-Code, I also actively contribute to related fields, especially Software Engineering and Responsible AI, through student mentorship and interdisciplinary collaborations.
-
-- Large Language Models for Software Engineering Tasks: *LLMs for Context-aware Code Generation* [[TSE'24](https://ieeexplore.ieee.org/abstract/document/10734067)], *LLMs for Secure Program Generation* [ICSE' 26], *Vulnerability Textual Description Augmentation and Utilization* [[TSE'25](https://ieeexplore.ieee.org/abstract/document/10817126)][ASEJ'25], and *Program Analysis for Android Applications* [TOSEM'25][[arXiv](https://arxiv.org/pdf/2406.17431)].
-
-- Algorithmic Fairness especially in Large Language Models: LLM Generation Diversity [[EMNLP'25](https://arxiv.org/abs/2505.15229)] and Machine Unlearning and Algorithmic Fairness of LLMs [[AI&E'24 (b)](https://link.springer.com/article/10.1007/s43681-023-00398-y)].
-   
-More broadly, in the whole landscape of computer science, my work is driven by the need to translate high-level Responsible AI principles (e.g., privacy) into actionable and practical implementations that work across diverse system contexts.<br>
-
----
-I am also personally interested in research about Computer Science Education (esp. in the AI Era), Internet Governance, and Online Video Games.
-
-# Working Experience #
+# Academic Preparation #
 
 * Postdoctoral Research Fellow, Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated), 2025 -
-  + Advisor: Emily Black and Talia Gillis
-
-# Education #
+  + Advisor: [Emily Black](https://cds.nyu.edu/team/emily-black/)
 
 * Doctor of Philopophy, Computer Science, Australian National University, 2024
   + Advisor: [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/)(primary), [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu), and [Mark Staples](https://markstaples.com/) 
-  + Visiting PhD student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University in 2023
+  + Visiting PhD student advised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University, 2023
 * Master of Machine Learning and Computer Vision, Australian National University, 2021
   + Grade: High Disinction
 * Bachelor of Advanced Computing (Honours), Australian National University, 2019
+  + "2+2" international student program with Shandong University (Weihai)
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-
+  <li> <b> [May 2026]</b> Our paper "VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection" has been accepted by <b>ICML 2026</b>. TL;DR: we present a large-scale, fine-grained Visual Privacy Dataset (VPD-100K) for generalized privacy detection (e.g.,in live streaming). The pre-print is available at <a href="https://arxiv.org/pdf/2605.10229"> arXiv</a>. </li>
+  
   <li> <b> [Oct 2025]</b> Our paper "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents" has been accepted by <b>AAAI 2025</b>. Congrats to Zhixin Lin! TL;DR: We present the first large-scale benchmark encompassing 7,138 various privacy contexts in smartphone agent scenario. The pre-print is available at <a href="https://arxiv.org/abs/2508.19493"> arXiv</a>. </li>
 
   <li> <b> [Oct 2025]</b> Our paper "When AI Takes the Wheel: Security Analysis of Framework-Constrained Program Generation" has been accepted by <b>ICSE 2026</b>. TL;DR: LLMs can generate full Chrome extensions from natural language prompts, but they frequently violate framework security rules, producing vulnerable programs in up to half of all cases. The pre-print is available at <a href="https://arxiv.org/pdf/2510.16823"> arXiv</a>. </li>
