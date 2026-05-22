@@ -15,8 +15,11 @@ table.imgtable, table.imgtable td{
 </style>
 
 
+My research lies at the intersection of <b>Usable Privacy & Security</b> and  <b>Software Engineering</b>, with a central interest in Privacy Policy as a bridge between software practices, regulatory requirements, and user-facing privacy communication. I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information. My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, AAAI) venues. <br>
 
-## <i class="fa fa-fw fa-copy"></i> Research Landscape of Usable Privacy and Security
+II organize my research landscape into two closely connected areas: Usable Privacy & Security and Software Engineering, as below.
+
+## <i class="fa fa-fw fa-copy"></i> Usable Privacy and Security
 
 ### 1) Privacy Policy and Privacy Document Generation
 
@@ -43,40 +46,25 @@ table.imgtable, table.imgtable td{
 - Australian AI Transparency Statement [[arXiv](https://arxiv.org/pdf/2604.26075)]
 - Code of Conducts of Online Video Games [[arXiv](https://arxiv.org/pdf/2605.15047)]
 
-### 5) Privacy of LLMs/Agent/Skills
+### 5) Security and Privacy of LLMs/Agent/Skills
 
 - Privacy Risks in Android Smartphone Agents [[APSEC'25](https://arxiv.org/pdf/2509.23680)], User Privacy Perceptions of GenAI Smartphones [[arXiv](https://arxiv.org/pdf/2604.05571)]
 - Privacy Awareness of MLLM Smartphone Agents [[AAAI'26](https://ojs.aaai.org/index.php/AAAI/article/view/40874/44835)], Privacy Personalizaion of MLLM Smartphone Agents [[arXiv](https://arxiv.org/pdf/2604.11259)]
 - Right to be Forgotten in LLMs [[AI&Ethics'24](https://link.springer.com/article/10.1007/s43681-024-00573-9)], Fairness of Machine Unlearning [[AI&Ethics'25](https://link.springer.com/article/10.1007/s43681-023-00398-y)]
-- Visual Privacy Protection in Live Streaming [[ICML'26](https://arxiv.org/pdf/2605.10229)]
+- Visual Privacy Protection in Live Streaming [[ICML'26](https://arxiv.org/pdf/2605.10229)], CAPTCHA Using Audio Illusions [[arXiv](https://arxiv.org/pdf/2601.08516)]
 
-## <i class="fa fa-fw fa-copy"></i> Tutor
+## <i class="fa fa-fw fa-copy"></i> Software Engineering
 
 
-<ul>
 
-  <li>Australian National University, 2020S2, COMP4650/COMP6490, Document Analysis, by Dr. Alex Antic </li>
+### 1) AI for Software Engineering (AI4SE)
 
-  <li>Australian National University, 2021S1, ENGN4528, Computer Vision, by Prof. Nick Barnes </li>
+- Repo-Level Code Generation [[TSE'24](https://arxiv.org/pdf/2312.05772)], Java Unit-test Case Generation [[ASE'25](https://arxiv.org/pdf/2509.23812?)][ICSE'26], Security Analysis of Program Generation [[ICSE'26](https://arxiv.org/pdf/2510.16823)], IaC Code Generation [[FSE'26](https://arxiv.org/pdf/2506.05623)]
+- Missing Info Augmentation of Textual Vulunerability Descriptions [[TSE'25](https://arxiv.org/pdf/2405.07430)][[ASEJ'26](https://arxiv.org/pdf/2511.16123)]
+- Android API Compatibility Issues [[arXiv](https://arxiv.org/pdf/2406.17431)], Android Phone Performance Issues [[TOSEM'25](https://dl.acm.org/doi/pdf/10.1145/3771932)]
+- Status Quo of AI-empowered Tools in Software Development [[arXiv](https://arxiv.org/pdf/2409.13343)]
 
-  <li>Australian National University, 2021S1, COMP1710/COMP6780, Web Development and Design, by Dr. Xuanying Zhu and Prof. Tom Gedeon </li>
+### 2) Software Engineering for AI (SE4AI)
 
-  <li>Australian National University, 2024S1, COMP4130, Managing Software Quality and Process, by Dr. Xiaoyu Sun </li>
-  
-</ul>
-
-## <i class="fa fa-fw fa-copy"></i> Course Lecturer
-
-<ul>
-
-<li>Shandong University (Weihai), 2024S1, Software Engineering</li>
-
-</ul>
-
-## <i class="fa fa-fw fa-copy"></i> Guest Lecturer
-
-<ul>
-
-<li> University of Edinburgh, 2024S1, INFR11158/INFR11230, USEC: Usable Security and Privacy, by Dr. Jingjie Li</li> [<a href="https://ShidongPAN.github.io/_pages/papers/guest_lecturer_Edingburgh.pdf" target="_blank">Slides</a>]
-
-</ul>
+- Automated Service Deployment on Cloud Platforms [[FSE'26](https://arxiv.org/pdf/2506.05623)]
+- Identifying AI Capabilities in Android Apps [[arXiv](https://arxiv.org/pdf/2511.19059)]
