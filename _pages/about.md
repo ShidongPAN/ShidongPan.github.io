@@ -18,16 +18,17 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu
 
 # Research Interests #
 
-My research directly targets on the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks.
+My research lies at the intersection of Usable  <b>Privacy \& Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
+I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information. 
+My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S\&P, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, AAAI) venues.
 
-My research situates at the intersection of $\color{Orange}{\text{Usable Privacy and Security}}$, $\color{Purple}{\text{Empirical Software Engineering}}$, $\color{Pink}{\text{Human-Computer Interaction}}$, and $\color{Brown}{\text{Law}}$. 
+<b>Research Question</b>: How to tackle the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks?
 
- <b>[Usable Privacy Engineering]</b> Recognizing the inevitable utility-privacy trade-offs in software engineering, I aim to develop empirical methodologies and engineering tools that make AIware/software systems both usable and privacy-compliant. My work aims to integrate privacy requirements into development workflows in ways that support both productivity and regulatory alignment. 
+ <b>[Usable Privacy Engineering]</b> I aim to develop empirical methodologies and engineering tools that make AIware/software systems more privacy-aware and compliance-ready.
 
- <b>[Privacy-as-Code]</b> My research also focuses on "Codifying" various modalities related to privacy, such as textual privacy regulations, documented developer practices (e.g., code of conduct), observed developer practices (e.g., code pattern), software artifacts (e.g., source code, privacy policies, privacy labels), and end-user behavior (habits, perceptions, and interactions). The goal is to bridge the gaps between these heterogeneous elements to create cohesive and actionable privacy mechanisms. 
+ <b>[Privacy-as-Code]</b> My research codifies privacy regulations, developer practices, source codes, privacy policies, privacy labels, and user behaviours into actionable mechanisms for privacy-aware software engineering and compliance scrutinization.
 
- <b>[AIware Infrastructure]</b>
-I further investigate privacy and security challenges in emerging AI-native infrastructures, including AI agents, tool-augmented LLM systems (e.g., skills), AI application markets, and cloud-based AI platforms (e.g., AWS). My goal is to design engineering frameworks that embed/verify privacy and security policies directly into AI agent skills, infrastructure-as-code configurations, and cloud deployment pipelines.
+ <b>[Privacy in AI-Infra]</b> I further investigate privacy and security challenges in emerging AI-native infrastructures, including mobile agents, agent-skill ecosystem, AI application markets, and cloud-based AI platforms (e.g., AWS). 
 
 # Research Projects #
  
