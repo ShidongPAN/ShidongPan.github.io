@@ -20,9 +20,15 @@ table.imgtable, table.imgtable td{
 
 <li>Shandong University (Weihai), 2024S1, Software Engineering
 
-- Taught an intensive-mode (40 teaching hours) Software Engineering course for undergraduates
-- Independently prepared all course materials, including lectures, slides, assessments, and course logistics
-- Topics covered: Software Development Process, Software Quality Assurance, Software Testing, AI for SE, SE for AI, Human-factor SE, Responsible SE, Software Privacy and Security
+<ul>
+  <li> Taught an intensive-mode (40 teaching hours) Software Engineering course for undergraduates </li>
+</ul> 
+<ul>
+  <li>Independently prepared all course materials, including lectures, slides, assessments, and course logistics</li>
+</ul> 
+<ul>
+  <li>Topics covered: Software Development Process, Software Quality Assurance, Software Testing, AI for SE, SE for AI, Human-factor SE, Responsible SE, Software Privacy and Security</li>
+</ul> 
 
 </li>
 
@@ -64,11 +70,11 @@ table.imgtable, table.imgtable td{
 <ul>
 
 <li> 
-*User-Centered and Regulation-Driven Privacy Enhancements in Software Engineering*, University of Edinburgh, INFR11158/INFR11230, USEC: Usable Security and Privacy, 2024S1.  Invited by Dr. Jingjie Li [<a href="https://ShidongPAN.github.io/_pages/papers/guest_lecturer_Edingburgh.pdf" target="_blank">Slides</a>] 
+User-Centered and Regulation-Driven Privacy Enhancements in Software Engineering, University of Edinburgh, INFR11158/INFR11230, USEC: Usable Security and Privacy, 2024S1.  Invited by Dr. Jingjie Li [<a href="https://ShidongPAN.github.io/_pages/papers/guest_lecturer_Edingburgh.pdf" target="_blank">Slides</a>] 
 </li>
 
 <li>
-*Usable Privacy and Security in Software Engineering*, CS326 Software Engineering, North Carolina State University, 2025 Fall. Invited by Dr. Bowen Xu
+Usable Privacy and Security in Software Engineering, CS326 Software Engineering, North Carolina State University, 2025 Fall. Invited by Dr. Bowen Xu
 </li>
 
 </ul>
