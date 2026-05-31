@@ -18,23 +18,24 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu
 
 # Research Interests #
 
-My research lies at the intersection of Usable  <b>Privacy & Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
+My research lies at the intersection of <b>Privacy & Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
 I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information. 
 My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, AAAI) venues.
 
 <b>Research Question</b>: How to tackle the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks?
 
- <b>[Usable Privacy Engineering]</b> I aim to develop empirical methodologies and engineering tools that make AIware/software systems more privacy-aware and compliance-ready.
-
- <b>[Privacy-as-Code]</b> My research codifies privacy regulations, developer practices, source codes, privacy policies, privacy labels, and user behaviours into actionable mechanisms for privacy-aware software engineering and compliance scrutinization.
-
- <b>[Privacy in AI-Infra]</b> I further investigate privacy and security challenges in emerging AI-native infrastructures, including mobile agents, agent-skill ecosystem, AI application markets, and cloud-based AI platforms (e.g., AWS). 
-
+ <b>[Usable Privacy Engineering]</b> I aim to develop empirical methodologies and engineering tools that make AIware/software systems more privacy-aware and compliance-ready. [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][[ASE'25](https://arxiv.org/pdf/2509.22900)] [[PETS'25](https://arxiv.org/pdf/2501.01131)]  [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>] [[IEEE S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)] 
+ 
+ <b>[Privacy-as-Code]</b> My research codifies privacy regulations, developer practices, source codes, privacy policies, privacy labels, and user behaviours into actionable mechanisms for privacy-aware software engineering and compliance scrutinization.   [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)] [[APSEC'25](https://arxiv.org/pdf/2509.23680)] [[Tel' Policy'26](https://www.sciencedirect.com/science/article/pii/S0308596126000455)]
+ [[arXiv](https://arxiv.org/abs/2306.10923)] [[arXiv](https://arxiv.org/abs/2407.15407)] 
+ 
+ <b>[Privacy and Security in AI-Infra]</b> I further investigate privacy and security challenges in emerging AI-native infrastructures, including mobile agents, agent-skill ecosystem, AI application markets, and cloud-based AI platforms (e.g., AWS). [[AI&Ethics'24](https://link.springer.com/article/10.1007/s43681-024-00573-9)] [[TSE'25](https://arxiv.org/pdf/2405.07430)][[ASEJ'26](https://arxiv.org/pdf/2511.16123)]  [[FSE'26](https://arxiv.org/pdf/2506.05623)] [[ICSE'26](https://arxiv.org/pdf/2510.16823)] [[AAAI'26](https://ojs.aaai.org/index.php/AAAI/article/view/40874/44835)] 
+ 
 I am also personally interested in research about AI in Computer Science Education and Online Video Games.
 
 # Academic Preparation #
 
-* Postdoctoral Research Fellow, Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated), 2025 -
+* Postdoctoral Research Fellow, Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated), 2025 - 2026
   + Advisor: [Emily Black](https://cds.nyu.edu/team/emily-black/)
 
 * Doctor of Philopophy, Computer Science, Australian National University, 2024
