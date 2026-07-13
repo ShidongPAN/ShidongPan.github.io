@@ -15,7 +15,28 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Miscs
 
-## I like visiting universities for sightseeing. Below is the visited university list. 
+## I like visiting university campuses for sightseeing. Below is the visited university list. 
+
+
+<table class='imgtable'>
+  <tr>
+    <td>
+      <b> Australia </b>
+    </td>
+    <td align="left">
+      <p>
+        Australia National University, Canberra <br>
+        University of New South Wales, Sydney <br>
+        University of Sydeny, Sydney <br>
+        University of Technology Sydney, Sydney <br>
+        University of Melbourne, Melbourne <br>
+        Queensland University of Technology, Brisbane <br>
+        Monash University, Melbourne <br>
+        Swinburne University of Technology, Melbourne <br>
+        RMIT, Melbourne <br>
+      </p>
+    </td>
+  </tr>
 
 <table class='imgtable'>
   <tr>
@@ -24,15 +45,40 @@ table.imgtable, table.imgtable td{
     </td>
     <td align="left">
       <p>
-        Shandong University (Jinan campus) <br>
-        Shandong University (Weihai campus) <br>
-        Ocean University of China <br>
-        Fudan University <br>
-        Southern Medical University <br>
+        Shandong University (Jinan campus), Jinan <br>
+        Shandong University (Weihai campus), Weihai <br>
+        Ocean University of China, Qingdao <br>
+        Fudan University, Shanghai <br>
+        Southern Medical University, Guangzhou <br>
+        Beihang University, Beijing <br>
+        Beijing University of Posts and Telecommunications, Beijing <br>
+        Tsinghua University, Beijing <br>
+        Zhejiang University, Hangzhou <br>
+        Jiangxi Normal University, Nanchang <br>
       </p>
     </td>
   </tr>
 </table>
+
+<table class='imgtable'>
+  <tr>
+    <td>
+      <b> United States </b>
+    </td>
+    <td align="left">
+      <p>
+        Columbia University, New York City <br>
+        New York University, New York City <br>
+        Cornell Tech, New York City <br>
+        Carnegie Mellon University, Pittsburgh <br>
+        University of Washington, Seattle <br>
+        University of Central Florida, Orlando <br>
+        George Washington University, Washington DC <br>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <table class='imgtable'>
   <tr>
@@ -43,48 +89,13 @@ table.imgtable, table.imgtable td{
       <p>
         National University of Singapore <br>
         Singapore Management University <br>
+        Nanyang Technological University <br>
       </p>
     </td>
   </tr>
 </table>
 
-<table class='imgtable'>
-  <tr>
-    <td>
-      <b> Australia </b>
-    </td>
-    <td align="left">
-      <p>
-        Australia National University <br>
-        University of New South Wales (CBD campus) <br>
-        University of Sydeny <br>
-        University of Technology Sydney <br>
-        University of Melbourne <br>
-        Queensland University of Technology <br>
-        Monash University <br>
-        Swinburne University of Technology <br>
-        RMIT <br>
-      </p>
-    </td>
-  </tr>
 
-<table class='imgtable'>
-  <tr>
-    <td>
-      <b> United States </b>
-    </td>
-    <td align="left">
-      <p>
-        Columbia University <br>
-        New York University <br>
-        Carnegie Mellon University <br>
-        University of Washington <br>
-        University of Central Florida <br>
-        George Washington University <br>
-      </p>
-    </td>
-  </tr>
-</table>
 
 
 
