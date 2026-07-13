@@ -96,6 +96,20 @@ table.imgtable, table.imgtable td{
 </table>
 
 
+<table class='imgtable'>
+  <tr>
+    <td>
+      <b> Germany </b>
+    </td>
+    <td align="left">
+      <p>
+        Technical University of Munich, Heilbronn <br>
+        Schloss Dagstuhl – Leibniz-Zentrum für Informatik, Wadern <br>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
