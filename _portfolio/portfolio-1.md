@@ -15,7 +15,7 @@ table.imgtable, table.imgtable td{
 
 # <i class="fa fa-fw fa-copy"></i> Miscs
 
-## I like visiting university campuses for sightseeing. Below is the visited university list. 
+## I like visiting university campuses for sightseeing. I have visited: 
 
 
 <table class='imgtable'>
