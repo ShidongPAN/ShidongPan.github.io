@@ -50,7 +50,7 @@ I am also personally interested in research about AI in Computer Science Educati
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b> [July 2026]</b> Our paper "SoK: From Generation to Consumption of Privacy Documents in Software Systems" has been accepted by <b>NDSS 2027</b>. TL;DR: We systematically review and analyze 288 papers published between 2010 and 2025, identify 15 key research trends, 21 open opportunities, and further chart four broader research directions. </li>
+  <li> <b> [July 2026]</b> Our paper "SoK: From Generation to Consumption of Privacy Documents in Software Systems" has been accepted by <b>NDSS 2027</b>. TL;DR: We systematically review and analyze 288 papers published between 2010 and 2025, identify 15 key research trends, 21 open opportunities, and further chart four broader research directions. Thanks all collaborators! </li>
   
   <li> <b> [May 2026]</b> Our paper "VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection" has been accepted by <b>ICML 2026</b>. TL;DR: we present a large-scale, fine-grained Visual Privacy Dataset (VPD-100K) for generalized privacy detection (e.g.,in live streaming). The pre-print is available at <a href="https://arxiv.org/pdf/2605.10229"> arXiv</a>. </li>
   
