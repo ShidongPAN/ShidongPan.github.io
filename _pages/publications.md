@@ -20,22 +20,30 @@ For a more complete list of publications, please refer to my <a href="https://sc
 
 ## 2026
 <ul>
-    <li>
+  <li>
+     <b>SoK: From Generation to Consumption of Privacy Documents in Software Systems</b><br>
+      <ins><b>Shidong Pan</b></ins>, Clark LaChance, Zhen Tao, Sepideh Ghanavati  <br>
+      <em> Network and Distributed System Security (NDSS) Symposium 2027 </em> 
+  </li>
+  
+   <br>
+<li>
      <b>VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection</b><br>
       Xiaobin Hu, Enpu zuo, Lanping Hu, Kaiwen Yang, Dianshu Liao, Tianyi Zhang, Bo Yin, Yinsi Zhou, <ins><b>Shidong Pan†</b></ins>, Xiaoyu Sun†. <br>
-      <em>International Conference on Machine Learning (ICML) </em> 
+      <em>International Conference on Machine Learning (ICML) </em> [<a href="https://arxiv.org/abs/2605.10229">Paper</a>]
   </li>
+  
    <br>
   <li>
      <b>From Procedures to Peril: Towards Risk Transparency in Data Privacy Communication</b><br>
       Nico Ebert, Simone Fischer-Hübner, Soheil Human, Agnieszka Kitkowska, Konrad Kollnig, Jelena Mitrovic, <ins><b>Shidong Pan</b></ins>, Thierry Schaltegger, Florian Schaub, Daniel Smullen, Lu Xian. <br>
-      <em>Telecommunications Policy. </em> (JCR Q1) 
+      <em>Telecommunications Policy. </em> (JCR Q1) [<a href="https://arxiv.org/pdf/2603.10646">Paper</a>]
   </li>
    <br>
     <li>
      <b>Environmental, Social, and Governance (ESG) Reporting Lifecycle Management with Large Language Models and AI Agents</b><br>
       Thong Hoang, Mykhailo Klymenko, Xiwei Xu, <ins><b>Shidong Pan</b></ins>, Yi Ding, Xushuo Tang, Zhengyi Yang, Jieke Shi and David Lo <br>
-      <em>The International Conference on Software Architecture </em> <b> (ICSA) </b> Software Architecture in Practice.
+      <em>The International Conference on Software Architecture </em> <b> (ICSA) </b> Software Architecture in Practice. [<a href="https://arxiv.org/pdf/2603.10646">Paper</a>]
   </li>
    <br>
     <li>
