@@ -10,7 +10,7 @@ redirect_from:
 # About Me #
 I am Shidong Pan :) I am on the faculty job market.
 
-I am a visiting research scientist at New York University. I was a postdoctoral researcher at the Center for Data Science at New York University and Law School at Columbia University. Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
+I was a postdoctoral researcher at the Center for Data Science at New York University and Law School at Columbia University. Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
 
 I am broadly interested in Usable Privacy and Security, Software Engineering, Responsible AI, and Human-Computer Interaction.
 
@@ -20,14 +20,14 @@ Email: Shidong[dot]Pan[at]nyu[dot]edu
 
 My research lies at the intersection of <b>Privacy & Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
 I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information. 
-My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, AAAI) venues.
+My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, NDSS, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, EMNLP, AAAI) venues.
 
 <b>Research Question</b>: How to tackle the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks?
 
  <b>[Usable Privacy Engineering]</b> I aim to develop empirical methodologies and engineering tools that make AIware/software systems more privacy-aware and compliance-ready. [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][[ASE'25](https://arxiv.org/pdf/2509.22900)] [[PETS'25](https://arxiv.org/pdf/2501.01131)]  [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>] [[IEEE S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)] 
  
- <b>[Privacy-as-Code]</b> My research codifies privacy regulations, developer practices, source codes, privacy policies, privacy labels, and user behaviours into actionable mechanisms for privacy-aware software engineering and compliance scrutinization.   [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)] [[APSEC'25](https://arxiv.org/pdf/2509.23680)] [[Tel' Policy'26](https://www.sciencedirect.com/science/article/pii/S0308596126000455)]
- [[arXiv](https://arxiv.org/abs/2306.10923)] [[arXiv](https://arxiv.org/abs/2407.15407)] 
+ <b>[Privacy-as-Code]</b> My research codifies privacy regulations, developer practices, source codes, privacy policies, privacy labels, and user behaviours into actionable mechanisms for privacy-aware software engineering and compliance scrutinization.  [NDSS'27] [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)] [[APSEC'25](https://arxiv.org/pdf/2509.23680)] [[Tel' Policy'26](https://www.sciencedirect.com/science/article/pii/S0308596126000455)]
+ [[arXiv](https://arxiv.org/abs/2306.10923)] [[arXiv](https://arxiv.org/abs/2407.15407)]
  
  <b>[Privacy and Security in AI-Infra]</b> I further investigate privacy and security challenges in emerging AI-native infrastructures, including mobile agents, agent-skill ecosystem, AI application markets, and cloud-based AI platforms (e.g., AWS). [[AI&Ethics'24](https://link.springer.com/article/10.1007/s43681-024-00573-9)] [[TSE'25](https://arxiv.org/pdf/2405.07430)][[ASEJ'26](https://arxiv.org/pdf/2511.16123)]  [[FSE'26](https://arxiv.org/pdf/2506.05623)] [[ICSE'26](https://arxiv.org/pdf/2510.16823)] [[AAAI'26](https://ojs.aaai.org/index.php/AAAI/article/view/40874/44835)] 
  
@@ -49,7 +49,9 @@ I am also personally interested in research about AI in Computer Science Educati
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-
+  
+  <li> <b> [July 2026]</b> Our paper "SoK: From Generation to Consumption of Privacy Documents in Software Systems" has been accepted by <b>NDSS 2027</b>. TL;DR: We systematically review and analyze 288 papers published between 2010 and 2025, identify 15 key research trends, 21 open opportunities, and further chart four broader research directions. </li>
+  
   <li> <b> [May 2026]</b> Our paper "VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection" has been accepted by <b>ICML 2026</b>. TL;DR: we present a large-scale, fine-grained Visual Privacy Dataset (VPD-100K) for generalized privacy detection (e.g.,in live streaming). The pre-print is available at <a href="https://arxiv.org/pdf/2605.10229"> arXiv</a>. </li>
   
   <li> <b> [Oct 2025]</b> Our paper "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents" has been accepted by <b>AAAI 2025</b>. Congrats to Zhixin Lin! TL;DR: We present the first large-scale benchmark encompassing 7,138 various privacy contexts in smartphone agent scenario. The pre-print is available at <a href="https://arxiv.org/abs/2508.19493"> arXiv</a>. </li>
