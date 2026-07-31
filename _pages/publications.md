@@ -37,7 +37,7 @@ For a more complete list of publications, please refer to my <a href="https://sc
   <li>
      <b>From Procedures to Peril: Towards Risk Transparency in Data Privacy Communication</b><br>
       Nico Ebert, Simone Fischer-Hübner, Soheil Human, Agnieszka Kitkowska, Konrad Kollnig, Jelena Mitrovic, <ins><b>Shidong Pan</b></ins>, Thierry Schaltegger, Florian Schaub, Daniel Smullen, Lu Xian. <br>
-      <em>Telecommunications Policy. </em> (JCR Q1) [<a href="https://arxiv.org/pdf/2603.10646">Paper</a>]
+      <em>Telecommunications Policy. </em> (JCR Q1) [<a href="https://www.sciencedirect.com/science/article/pii/S0308596126000455?via%3Dihub">Paper</a>]
   </li>
    <br>
     <li>
