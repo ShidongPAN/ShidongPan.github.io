@@ -12,14 +12,15 @@ I am Shidong Pan :) I am on the faculty job market.
 
 I was a postdoctoral researcher at the Center for Data Science at New York University and Law School at Columbia University. Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
 
-I am broadly interested in Usable Privacy and Security, Software Engineering, Responsible AI, and Human-Computer Interaction.
+I am broadly interested in Privacy and Security, Software Engineering, Responsible AI, and Human-Computer Interaction.
 
 Email: Shidong[dot]Pan[at]nyu[dot]edu
 
 # Research Interests #
 
 My research lies at the intersection of <b>Privacy & Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
-I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information. 
+I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information.
+My recent research extends this agenda to <b>Agentic AI</b> regulatory compliance.
 My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, NDSS, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, EMNLP, AAAI) venues.
 
 <b>Research Question</b>: How to tackle the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks?
