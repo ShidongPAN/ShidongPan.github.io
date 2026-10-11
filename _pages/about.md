@@ -1,140 +1,71 @@
 ---
+layout: single
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Shidong Pan — Usable Privacy and Security, Software Engineering, and Responsible AI."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-# About Me #
-I am Shidong Pan :) I am on the faculty job market.
 
-I was a postdoctoral researcher at the Center for Data Science at New York University and Law School at Columbia University. Before that, I completed my Ph.D. at Australian National University and CSIRO's Data61.<br>
+# About Me - Shidong Pan
 
-I am broadly interested in Privacy and Security, Software Engineering, Responsible AI, and Human-Computer Interaction.
+I work at the intersection of **privacy and security, software engineering, and AI Governance**. My research develops methods and tools that help developers implement privacy requirements and enable people to understand and control how their data is used, especially in agentic AI systems
 
-Email: Shidong[dot]Pan[at]nyu[dot]edu
+Previously, I was a postdoctoral researcher at the Center for Data Science at **New York University** and **Columbia Law School**. I completed my Ph.D. at the **Australian National University** and **CSIRO's Data61**.
 
-# Research Interests #
+> **I am on the faculty job market.** I welcome opportunities to discuss research collaborations and academic positions.
 
-My research lies at the intersection of <b>Privacy & Security</b> and <b>Software Engineering</b>, with a central interest in <b>Privacy Policy</b> as a bridge between software practices, regulatory requirements, and user-facing privacy communication. 
-I develop empirical methods and engineering tools that help software practitioners implement privacy and security requirements, while enabling end-users to better understand and act on privacy information.
-My recent research extends this agenda to <b>Agentic AI</b> regulatory compliance.
-My work has been published in top-tier Cybersecurity (USENIX Sec, IEEE S&P, NDSS, PETS), Software Engineering (ICSE, FSE, ASE, TSE, TOSEM), and ML/AI (ICML, EMNLP, AAAI) venues.
+[Email](mailto:panshidong12138@gmail.com) · [Google Scholar](https://scholar.google.com.au/citations?user=IPz6ilYAAAAJ&hl=en) · [GitHub](https://github.com/ShidongPAN) · [LinkedIn](https://www.linkedin.com/in/shidong-pan-576748219/)
 
-<b>Research Question</b>: How to tackle the escalating software regulatory compliance challenge that widely exists in the new software formats, AI-driven development paradigm, and dynamic regulation frameworks?
+## Research
 
- <b>[Usable Privacy Engineering]</b> I aim to develop empirical methodologies and engineering tools that make AIware/software systems more privacy-aware and compliance-ready. [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf)][[ASE'25](https://arxiv.org/pdf/2509.22900)] [[PETS'25](https://arxiv.org/pdf/2501.01131)]  [<a href="https://ShidongPAN.github.io/_pages/papers/CHI_LBW_Privacy.pdf" target="_blank">CHI'25</a>] [[IEEE S&P'25](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d878/26hiVNNmd1e)] 
- 
- <b>[Privacy Compliance and Alignment]</b> My research codifies privacy regulations, developer practices, source codes, privacy policies, privacy labels, and user behaviours into actionable mechanisms for privacy-aware software engineering and compliance scrutinization.  [NDSS'27] [[USENIX Sec'24](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf)] [[APSEC'25](https://arxiv.org/pdf/2509.23680)] [[Tel' Policy'26](https://www.sciencedirect.com/science/article/pii/S0308596126000455)]
- [[arXiv](https://arxiv.org/abs/2306.10923)] [[arXiv](https://arxiv.org/abs/2407.15407)]
- 
- <b>[S&P in Agentic AI and AI Infra]</b> I further investigate privacy and security challenges in emerging AI-native infrastructures, including foundation models, mobile agents, agent-skill ecosystem, AI application markets, and cloud-based AI platforms (e.g., AWS). [[AI&Ethics'24](https://link.springer.com/article/10.1007/s43681-024-00573-9)] [[TSE'25](https://arxiv.org/pdf/2405.07430)][[ASEJ'26](https://arxiv.org/pdf/2511.16123)]  [[FSE'26](https://arxiv.org/pdf/2506.05623)] [[ICSE'26](https://arxiv.org/pdf/2510.16823)] [[AAAI'26](https://ojs.aaai.org/index.php/AAAI/article/view/40874/44835)] 
- 
-I am also personally interested in research about AI in Computer Science Education and Online Video Games.
+A central theme of my work is connecting **software practices, regulatory requirements, and user-facing privacy communication**. My research spans three closely related directions:
 
-# Academic Preparation #
+- **Privacy Engineering.** Designing privacy notices, inventories, and controls that support developers' workflows and help users make informed decisions.
+- **Privacy Compliance and Measurement.** Examining whether privacy disclosures reflect software behaviour, and developing methods to identify gaps between requirements, commitments, and implementation.
+- **Security and Privacy for Agentic AI.** Investigating privacy risks, permission models, and security safeguards for AI agents, their tools, and AI-enabled software development.
+- **AI Governance and ESG.** Translating environmental, social, and governance (ESG) commitments into measurable requirements, operational controls, and auditable evidence for AI systems, supporting resource efficiency, responsible data use, and organisational accountability
 
-* Postdoctoral Research Fellow, Center for Data Science at New York University and the Law School at Columbia University (jointly-affiliated), 2025 - 2026
-  + Advisor: [Emily Black](https://cds.nyu.edu/team/emily-black/)
+[Explore my research →](https://shidongpan.github.io/research/)
 
-* Doctor of Philopophy, Computer Science, Australian National University, 2024
-  + Advisor: [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/)(primary), [Sherry Xu](https://people.csiro.au/X/S/Xiwei-Xu), and [Mark Staples](https://markstaples.com/) 
-  + Visiting PhD student advised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) in Singapore Management University, 2023
-* Master of Machine Learning and Computer Vision, Australian National University, 2021
-  + Grade: High Disinction
-* Bachelor of Advanced Computing (Honours), Australian National University, 2019
-  + "2+2" international student program with Shandong University (Weihai)
+## Selected Work
 
-## <i class="fa fa-fw fa-rss "></i> News ##
+**SoK: From Generation to Consumption of Privacy Documents** · *NDSS 2027*<br>
+A SoK paper on privacy documents (e.g., privacy policies and privacy labels) across their lifecycle, identifying research trends, open opportunities, and future directions. [Paper](https://arxiv.org/pdf/2608.12511)
 
-<ul style="width: auto; height: 300px; overflow: auto">
-  
-  <li> <b> [July 2026]</b> Our paper "SoK: From Generation to Consumption of Privacy Documents in Software Systems" has been accepted by <b>NDSS 2027</b> (Only 3.3% papers are accepted directly). TL;DR: We systematically review and analyze 288 papers published between 2010 and 2025, identify 15 key research trends, 21 open opportunities, and further chart four broader research directions. Thanks all collaborators! </li>
-  
-  <li> <b> [May 2026]</b> Our paper "VPD-100K: Towards Generalizable and Fine-grained Visual Privacy Protection" has been accepted by <b>ICML 2026</b>. TL;DR: we present a large-scale, fine-grained Visual Privacy Dataset (VPD-100K) for generalized privacy detection (e.g.,in live streaming). The pre-print is available at <a href="https://arxiv.org/pdf/2605.10229"> arXiv</a>. </li>
-  
-  <li> <b> [Oct 2025]</b> Our paper "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents" has been accepted by <b>AAAI 2025</b>. Congrats to Zhixin Lin! TL;DR: We present the first large-scale benchmark encompassing 7,138 various privacy contexts in smartphone agent scenario. The pre-print is available at <a href="https://arxiv.org/abs/2508.19493"> arXiv</a>. </li>
+**Online EU AI Act Compliance Checkers** · *arXiv 2026*<br>
+An empirical assessment of online EU AI Act compliance checkers, examining their legal coverage, alignment with regulatory requirements, and the clarity and actionability of their compliance guidance. [Paper](https://arxiv.org/pdf/2609.36228)
 
-  <li> <b> [Oct 2025]</b> Our paper "When AI Takes the Wheel: Security Analysis of Framework-Constrained Program Generation" has been accepted by <b>ICSE 2026</b>. TL;DR: LLMs can generate full Chrome extensions from natural language prompts, but they frequently violate framework security rules, producing vulnerable programs in up to half of all cases. The pre-print is available at <a href="https://arxiv.org/pdf/2510.16823"> arXiv</a>. </li>
-  
-  <li> <b> [Sep 2025]</b> Our paper "Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models" has been accepted by <b>ASE 2025</b>. Congrats to <a href="https://dianshu-liao.github.io/"> Dianshu Liao </a> ! </li>
-  
-  <li> <b> [Sep 2025]</b> Our paper "Towards Context-aware Mobile Privacy Notice: Implementation of A Deployable Contextual Privacy Policies Generator" has been accepted by <b>ASE 2025</b> Tool Demonstrations Track. Congrats to Haochen and Zhen! </li>
+**SkillGuard: A Permission-Centric Framework for Agent Skill Security** · *arXiv 2026*<br>
+A permission framework that regulates how skills influence agent context and runtime actions through explicit manifests, user authorisation, and runtime enforcement. [Paper](https://arxiv.org/abs/2606.03024)
 
-  
-  <li> <b> [Aug 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" has been accepted by <b>EMNLP 2025</b>! Congrats to Qihan. The pre-print is available at <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. </li>
-  
-  <li> <b> [July 2025]</b> I will be attending The 25th Privacy Enhancing Technologies Symposium in Washington DC, USA July 14-19, 2025!</li>
-  
-  <li> <b> [June 2025]</b> I will be serving as the Asscociate Chair (AC) of CHI'26 (<a href="https://chi2026.acm.org/">CHI Conference on Human Factors in Computing Systems 2026</a>). Welcome submissions to the Privacy & Security Subcommittee! </li>
-  
-  <li> <b> [May 2025]</b> Our paper "Privacy Bills of Materials (PriBOM): A Transparent Privacy Information Inventory for Collaborative Privacy Notice Generation in Mobile App Development" has been accepted by <b>PoPETs/PETS 2025</b>! Thanks Zhen and all collaborators! </li>
+**Contextual Privacy Policies for Mobile Applications** · *USENIX Security 2024*<br>
+An approach to automatically generating privacy notices relevant to the context in which people use an app. [Paper](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-hope.pdf) · [Dataset](https://github.com/ShidongPAN/Cpp4App)
 
-  <li> <b> [May 2025]</b> Our paper "Multilingual Prompting for Improving LLM Generation Diversity" is now available on <a href="https://arxiv.org/pdf/2505.15229"> arXiv</a>. TL;DR: We propose that language and other cultural cues can be a powerful lever for enhancing diversity in LLM outputs, and thus point to a way to mitigate these problems. </li>
+**Is It a Trap? Automated Privacy Policy Generators** · *USENIX Security 2024*<br>
+A large-scale empirical assessment of online privacy policy generators for mobile applications. [Paper](https://www.usenix.org/system/files/usenixsecurity24-pan-shidong-trap.pdf) 
 
-  <li> <b> [May 2025]</b> I will be attending the IEEE Symposium on Security and Privacy (Oakland) in San Francisco CA, USA May 12-14, 2025. </li>
+[View all publications → ](https://shidongpan.github.io/publications/)
 
-  <li> <b> [Apr 2025]</b> Our paper "An Analysis of Privacy Regulations and User Concerns of Finance Mobile Applications" has been accepted by <b>Information and Software Technology</b>! Congrats to Alessandro and thanks Omar and Prof. John Grundy! </li>
-  
-  <li> <b> [Mar 2025]</b> Our paper "A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements" has been accepted by <b>S&P 2025</b>! Congrats to Liu Wang! The pre-print is coming soon! </li>
+## Recent News
 
-  <li> <b> [Feb 2025]</b> Our paper "Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science" has been accepted by <b>CHI 2025 Late-Breaking Work</b>! Congrats to Yasho! The pre-print is coming soon! </li>
-    
-  <li> <b> [Feb 2025]</b> I am serving on the Program Committee of 40th IEEE/ACM International Conference on Automated Software Engineering (<a href="https://conf.researchr.org/track/ase-2025/ase-2025-papers">ASE 2025</a>). Welcome submissions! </li>
-  
-  <li> <b> [Feb 2025]</b> I delivered a talk to Detail Lab at the New York University. Thanks for the invitation, Dr. Sunoo Park! </li>
-  
-  <li> <b> [Jan 2025]</b> I will be visiting and delivering a seminar at the Department of Computer Science, Technical University of Munich (TUM). Thanks for the invitation, Prof. Chunyang Chen! </li>
+- **Sep 2026:** I visited City University of Hong Kong. Thanks for the invitation Prof. Guangdong Bai!
+- **Jul 2026:** Our SoK on the lifecycle of privacy documents was accepted at **NDSS 2027**. [Paper](https://arxiv.org/pdf/2608.12511)
+- **May 2026:** **VPD-100K**, our work on fine-grained visual privacy protection, was accepted at **ICML 2026**. [Paper](https://arxiv.org/abs/2605.10229)
+- **Oct 2025:** Our study of privacy awareness in smartphone agents was accepted at **AAAI 2026**. [Paper](https://arxiv.org/abs/2508.19493)
 
-  <li> <b> [Jan 2025]</b> I will be attending the <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents</a> in Dagsthul, Germany, 05-10 January </li>
-  
-  <li> <b> [Dec 2024]</b> Our paper "Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference" has been accepted by <b>Transactions on Software Engineering (TSE)</b>! Congrats to <a href="https://hanlinyi.github.io/page//"> Linyi Han</a>! The pre-print is available on <a href="https://arxiv.org/abs/2405.07430"> arXiv</a>. </li>
 
-<li> <b>[Oct 2024]</b> I'm excited to announce that our team, comprising researchers from CSIRO's Data61 and Singapore Management University, has secured approximately AUD 700k in funding for our project, <b>ESG-based Responsible AI: Toward Green, Secure, and Compliant LLM Utilisation for Digital Service Development Process</b>. This project is funded under the <a href="https://www.a-star.edu.sg/Research/funding-opportunities/csiro-a-star-research-industry-2-2-partnership-program">CSIRO & A*STAR Research-Industry 2+2 Partnership Program</a>. Thanks to other PIs Prof. David Lo and Sherry Xu! Looking forward to advancing this important work!
+<details markdown="1">
+<summary><strong>Education and research background</strong></summary>
 
-  <li> <b> [Oct 2024]</b> I'm delightful to share that I have been invited to the <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25021"> Dagstuhl Seminar 25021 - Grand Challenges for Research on Privacy Documents</a>. Thanks for the invitation! </li>
-  
-  <li> <b> [Oct 2024]</b> Our paper " $A^3$ -CodGen : A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware" has been accepted by <b>Transactions on Software Engineering (TSE)</b>! Congrats to <a href="https://dianshu-liao.github.io/"> Dianshu Liao</a>! The pre-print is available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>. </li>
-  
-  <li> <b> [August 2024]</b> I visited the <a href="https://www.cylab.cmu.edu/"> CyLab</a> at Carnegie Mellon University (CMU). Thank you, Prof. Cranor! </li>
-  
-  <li> <b> [August 2024]</b> I will be attending the USENIX Security Symposium in Phialadelphia PA, USA 14-16 August. </li>
-  
-  <li> <b> [July 2024]</b> I was invited to be a guest speaker for the HumaniSE Lab seminar series at Monash University. Thank you, Prof. Grundy!</li>
+- **Postdoctoral research:** New York University and Columbia Law School, working with [Emily Black](https://cds.nyu.edu/team/emily-black/).
+- **Ph.D. in Computer Science:** Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), [Xiwei (Sherry) Xu](https://people.csiro.au/X/S/Xiwei-Xu), and [Mark Staples](https://markstaples.com/). 2025
+- **Visiting Ph.D. student:** Singapore Management University, working with [David Lo](https://www.mysmu.edu/faculty/davidlo/). 2023
+- **Master of Machine Learning and Computer Vision:** Australian National University, working with  [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). 2021.
+- **Bachelor of Advanced Computing (Honours):** Australian National University, through the "2+2" joint programme with Shandong University (Weihai), working with Dongwoo Koim. 2019.
 
-  <li> <b> [May 2024]</b> Our paper "Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference" is now available on <a href="https://arxiv.org/pdf/2405.07430"> arXiv</a>. </li>
-  
-  <li> <b> [May 2024]</b> I delivered the Software Engineering course at Shandong University (Weihai)! Thanks to ANU and SDUW for offering me this opportunity!</li>
-  
-  <li> <b> [Apr 2024]</b> I am delightful to share that I have received the Google Conference Travel Grant! Thanks Google Australia Research!</li>
-  
-  <li> <b> [Mar 2024]</b> I was invited to be the guest lecturer for the Usable Security and Privacy course at the University of Edinburgh. Thanks Jingjie!</li>
-
-  <li> <b> [Feb 2024]</b> Our paper " {A New Hope}: Contextual Privacy Policies for Mobile Applications And an Approach Toward Automated Generation" has been accepted by <b>USENIX Security 2024</b>! Big thanks to all collaborators from four institutions across three continents!</li>
-  
-  <li> <b> [Jan 2024]</b> I attended <a href="https://acsw.core.edu.au/"> Australasian Commputer Science Week</a> at UNSW (Sydney).</li>
- 
-  <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.</li>
-    
-  <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
-    
-  <li> <b> [Sep 2023]</b> Our paper "Is It a Trap? A Large-scale Empirical Study And Comprehensive Assessment of Online Automated Privacy Policy Generators for Mobile Apps" has been accepted by <b>USENIX Security 2024</b>!</li>
-
-  <li> <b> [Aug 2023]</b> Our paper "SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications" is now available on <a href="https://arxiv.org/abs/2307.01691"> arXiv</a>.</li>
-  
-  <li> <b> [May 2023]</b> Our paper "A Large-scale Empirical Study of Online Automated Privacy Policy Generators for Mobile Apps" is now available on <a href="https://arxiv.org/abs/2305.03271"> arXiv</a>.</li>
-    
-  <li> <b>[Mar 2023]</b> I will start my academic visit at Singapore Management University with Prof. David Lo!</li>
-
-  <li> <b> [Feb 2023]</b> Our paper "To Be Forgotten or To Be Fair: Unveiling Fairness Implications of Machine Unlearning Methods" has been accepted on <b>AITA: AI Trustworthiness Assessment, AAAI, 2023</b>!</li>
-  
-  <li> <b>[Oct 2021]</b> I will start my Ph.D. with Prof. Zhenchang Xing in 2021 Fall!</li>
-
-  <li> <b>[June 2021]</b> I've earned my Master of Machine Learning and Computer Vision at Australian National University!</li> 
-  
-</ul>  
+</details>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M_H6ImK1gwcN-H51BmQwXEz9yt4TivhZi-N9v5sFWIk&cl=ffffff&w=a"></script>
-
