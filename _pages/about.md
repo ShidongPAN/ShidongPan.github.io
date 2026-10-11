@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-# About Me - Shidong Pan
+# About Me
 
 I work at the intersection of **privacy and security, software engineering, and AI Governance**. My research develops methods and tools that help developers implement privacy requirements and enable people to understand and control how their data is used, especially in agentic AI systems
 
-Previously, I was a postdoctoral researcher at the Center for Data Science at **New York University** and **Columbia Law School**. I completed my Ph.D. at the **Australian National University** and **CSIRO's Data61**.
+Previously, I was a postdoctoral researcher at the Center for Data Science at New York University and Columbia Law School. I completed my Ph.D. at the Australian National University and CSIRO's Data61 (now CSIRO Technology).
 
 > **I am on the faculty job market.** I welcome opportunities to discuss research collaborations and academic positions.
 
@@ -54,17 +54,16 @@ A large-scale empirical assessment of online privacy policy generators for mobil
 - **Sep 2026:** I visited City University of Hong Kong. Thanks for the invitation Prof. Guangdong Bai!
 - **Jul 2026:** Our SoK on the lifecycle of privacy documents was accepted at **NDSS 2027**. [Paper](https://arxiv.org/pdf/2608.12511)
 - **May 2026:** **VPD-100K**, our work on fine-grained visual privacy protection, was accepted at **ICML 2026**. [Paper](https://arxiv.org/abs/2605.10229)
-- **Oct 2025:** Our study of privacy awareness in smartphone agents was accepted at **AAAI 2026**. [Paper](https://arxiv.org/abs/2508.19493)
 
 
 <details markdown="1">
 <summary><strong>Education and research background</strong></summary>
 
-- **Postdoctoral research:** New York University and Columbia Law School, working with [Emily Black](https://cds.nyu.edu/team/emily-black/).
-- **Ph.D. in Computer Science:** Australian National University and CSIRO's Data61, supervised by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), [Xiwei (Sherry) Xu](https://people.csiro.au/X/S/Xiwei-Xu), and [Mark Staples](https://markstaples.com/). 2025
+- **Postdoctoral research:** New York University and Columbia Law School, working with [Emily Black](https://cds.nyu.edu/team/emily-black/) and [Talia Gillis](https://www.law.columbia.edu/faculty/talia-gillis).
+- **Ph.D. in Computer Science:** Australian National University and CSIRO's Data61, mentored by [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), [Xiwei (Sherry) Xu](https://people.csiro.au/X/S/Xiwei-Xu), and [Mark Staples](https://markstaples.com/). 2025
 - **Visiting Ph.D. student:** Singapore Management University, working with [David Lo](https://www.mysmu.edu/faculty/davidlo/). 2023
-- **Master of Machine Learning and Computer Vision:** Australian National University, working with  [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). 2021.
-- **Bachelor of Advanced Computing (Honours):** Australian National University, through the "2+2" joint programme with Shandong University (Weihai), working with Dongwoo Koim. 2019.
+- **Master of Machine Learning and Computer Vision:** Australian National University, working with [Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/) and [Hongdong Li](https://users.cecs.anu.edu.au/~hongdong/). 2021.
+- **Bachelor of Advanced Computing (Honours):** Australian National University, through the "2+2" joint programme with Shandong University (Weihai), working with [Dongwoo Kim](https://dongwookim-ml.github.io/). 2019.
 
 </details>
 
