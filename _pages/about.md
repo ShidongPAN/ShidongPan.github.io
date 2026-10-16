@@ -51,6 +51,7 @@ A large-scale empirical assessment of online privacy policy generators for mobil
 
 ## Recent News
 
+- **Sep 2026:** I visited CodeWisdom Group, Fudan University. Thanks for the invitation Prof. Xin Peng!
 - **Sep 2026:** I visited City University of Hong Kong. Thanks for the invitation Prof. Guangdong Bai!
 - **Jul 2026:** Our SoK on the lifecycle of privacy documents was accepted at **NDSS 2027**. [Paper](https://arxiv.org/pdf/2608.12511)
 - **May 2026:** **VPD-100K**, our work on fine-grained visual privacy protection, was accepted at **ICML 2026**. [Paper](https://arxiv.org/abs/2605.10229)
